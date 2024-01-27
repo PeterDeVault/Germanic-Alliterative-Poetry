@@ -1,2 +1,2 @@
-# Germanic-Alliterative-Poetry
-Metrical grammar markup for Germanic Alliterative Poetry
+# Germanic Alliterative Poetry
+Metrical grammar markup for Germanic alliterative poetry
