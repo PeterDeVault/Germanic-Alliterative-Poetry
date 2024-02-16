@@ -1,2 +1,4 @@
 # Germanic Alliterative Poetry
-Metrical grammar markup for Germanic alliterative poetry
+Medieval Germanic alliterative poetry.
+This repo contains marked up xml corresponding to specific manuscripts or portions of manuscripts
+
