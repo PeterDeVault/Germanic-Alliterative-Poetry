@@ -1,0 +1,1782 @@
+<xml>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Sigarthurkviða in Scamma </title>
+                <subtitle/>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p> *** </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="on" syllabification="coda">Old Norse</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <pb n="68"/>
+    <lb n="68;2"/>
+    <w id="0" Σ="1"/>
+    <s m="3" wt="h" A="Ø">Ár</s><w id="1" Σ="1"/>
+    <s m="2" wt="l" A="V">var</s><w id="2" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þats</s><w id="3" Σ="2"/>
+    <s m="2" wt="" A="S">Sig</s><s m="4" wt="h">urðr</s><w id="4" Σ="2"/>
+    <s m="4" wt="" A="S">sótt</s><s m="1" wt="l">i</s><w id="5" Σ="2"/>
+    <s m="3" wt="" A="G">Gjúk</s><s m="1" wt="l">a</s><w id="6" Σ="2"/>
+    <s m="4" wt="" A="V">Völs</s><s m="4" wt="h">ungr</s><w id="7" Σ="2"/>
+    <s m="3" wt="" A="Ø">ung</s><s m="1" wt="l">i</s><w id="8" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="9" Σ="2"/>
+    <s m="2" wt="" A="V">veg</s><s m="2" wt="l">it</s><w id="10" Σ="2"/>
+    <s m="3" wt="" A="H">hafð</s><s m="1" wt="l">i</s><lb n="68;3"/>
+    <w id="11" Σ="1"/>
+    <s m="3" wt="h" A="T">tók</s><w id="12" Σ="1"/>
+    <s m="2" wt="l" A="V">við</s><w id="13" Σ="2"/>
+    <s m="4" wt="" A="T">tryggð</s><s m="2" wt="l">um</s><w id="14" Σ="2"/>
+    <s m="4" wt="" A="T">tveggj</s><s m="1" wt="l">a</s><w id="15" Σ="2"/>
+    <s m="3" wt="" A="B">bræðr</s><s m="1" wt="l">a</s><w id="16" Σ="2"/>
+    <s m="3" wt="" A="S">seld</s><s m="3" wt="h">usk</s><w id="17" Σ="2"/>
+    <s m="2" wt="" A="Ø">eið</s><s m="1" wt="l">a</s><w id="18" Σ="4"/>
+    <s m="3" wt="" A="Ø">elj</s><s m="4" wt="">unfr</s><s m="3" wt="">ækn</s><s m="2" wt="l">ir</s><lb n="68;4"/>
+    <w id="19" Σ="1"/>
+    <s m="1" wt="l" A="M">Mey</s><w id="20" Σ="2"/>
+    <s m="2" wt="" A="B">buð</s><s m="1" wt="l">u</s><w id="21" Σ="2"/>
+    <s m="3" wt="" A="H">hán</s><s m="2" wt="l">um</s><w id="22" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="23" Σ="2"/>
+    <s m="3" wt="" A="M">meiðm</s><s m="1" wt="l">a</s><w id="24" Σ="1"/>
+    <s m="4" wt="h" A="F">fjölð</s><w id="25" Σ="3"/>
+    <s m="3" wt="" A="G">Guðr</s><s m="3" wt="">ún</s><s m="1" wt="l">u</s><w id="26" Σ="2"/>
+    <s m="3" wt="" A="Ø">ung</s><s m="1" wt="l">u</s><w id="27" Σ="2"/>
+    <s m="3" wt="" A="G">Gjúk</s><s m="1" wt="l">a</s><w id="28" Σ="2"/>
+    <s m="4" wt="" A="D">dótt</s><s m="2" wt="l">ur</s><w id="29" Σ="2"/>
+    <s m="3" wt="" A="D">drukk</s><s m="1" wt="l">u</s><lb n="68;5"/>
+    <w id="30" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="31" Σ="2"/>
+    <s m="3" wt="" A="D">dæmð</s><s m="1" wt="l">u</s><w id="32" Σ="1"/>
+    <s m="3" wt="h" A="D">dægr</s><w id="33" Σ="1"/>
+    <s m="4" wt="h" A="M">margt</s><w id="34" Σ="2"/>
+    <s m="2" wt="" A="S">sam</s><s m="2" wt="l">an</s><w id="35" Σ="2"/>
+    <s m="2" wt="" A="S">Sig</s><s m="4" wt="h">urðr</s><w id="36" Σ="2"/>
+    <s m="3" wt="" A="Ø">ung</s><s m="1" wt="l">i</s><w id="37" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="38" Σ="2"/>
+    <s m="2" wt="" A="S">syn</s><s m="2" wt="l">ir</s><w id="39" Σ="2"/>
+    <s m="3" wt="" A="G">Gjúk</s><s m="1" wt="l">a</s><w id="40" Σ="1"/>
+    <s m="3" wt="h" A="Ø">Unz</s><w id="41" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þeir</s><lb n="68;6" after="2"/>
+    <w expands="brynh." id="42" Σ="3"/>
+    <s m="3" wt="" A="B">brynh</s><s m="3" wt="">ild</s><s m="2" wt="l">ar</s><w id="43" Σ="2"/>
+    <s m="3" wt="" A="B">biðj</s><s m="1" wt="l">a</s><w id="44" Σ="2"/>
+    <s m="3" wt="" A="F">fór</s><s m="1" wt="l">u</s><w id="45" Σ="1"/>
+    <s m="2" wt="l" A="S">svá</s><w id="46" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="47" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þeim</s><w id="48" Σ="2"/>
+    <s m="2" wt="" A="S">Sig</s><s m="4" wt="h">urðr</s><w id="49" Σ="1"/>
+    <s m="2" wt="l" A="R">reið</s><w id="50" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="51" Σ="2"/>
+    <s m="3" wt="" A="S">sinn</s><s m="1" wt="l">i</s><w id="52" Σ="2"/>
+    <s m="4" wt="" A="V">Völs</s><s m="4" wt="h">ungr</s><w id="53" Σ="2"/>
+    <s m="3" wt="" A="Ø">ung</s><s m="1" wt="l">i</s><w id="54" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="55" Σ="2"/>
+    <s m="2" wt="" A="V">veg</s><s m="1" wt="l">a</s><lb n="68;7"/>
+    <w id="56" Σ="2"/>
+    <s m="3" wt="" A="K">kunn</s><s m="1" wt="l">i</s><w expands="h." id="57" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><w id="58" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="59" Σ="2"/>
+    <s m="3" wt="" A="Ø">ætt</s><s m="1" wt="l">i</s><w id="60" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ef</s><w id="61" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><w id="62" Σ="2"/>
+    <s m="2" wt="" A="Ø">eig</s><s m="1" wt="l">a</s><w id="63" Σ="2"/>
+    <s m="3" wt="" A="K">knætt</s><s m="1" wt="l">i</s><w id="64" Σ="2"/>
+    <s m="2" wt="" A="S">Sig</s><s m="4" wt="h">urðr</s><w id="65" Σ="1"/>
+    <s m="3" wt="h" A="Ø">inn</s><w id="66" Σ="3"/>
+    <s m="3" wt="" A="S">suðr</s><s m="2" wt="">æn</s><s m="1" wt="l">i</s><w id="67" Σ="2"/>
+    <s m="3" wt="" A="L">lagð</s><s m="1" wt="l">i</s><w id="68" Σ="1"/>
+    <s m="3" wt="h" A="S">sverð</s><lb n="68;8"/>
+    <w id="69" Σ="2"/>
+    <s m="5" wt="" A="N">nökkv</s><s m="2" wt="l">it</s><w id="70" Σ="2"/>
+    <s m="2" wt="" A="M">mæk</s><s m="1" wt="l">i</s><w id="71" Σ="2"/>
+    <s m="4" wt="" A="M">málf</s><s m="3" wt="h">án</s><w id="72" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="73" Σ="2"/>
+    <s m="2" wt="" A="M">með</s><s m="2" wt="l">al</s><w id="74" Σ="2"/>
+    <s m="3" wt="" A="Þ">þeirr</s><s m="1" wt="l">a</s><w id="75" Σ="1"/>
+    <s m="2" wt="l" A="N">né</s><w id="76" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><w id="77" Σ="2"/>
+    <s m="2" wt="" A="K">kon</s><s m="1" wt="l">u</s><w id="78" Σ="2"/>
+    <s m="3" wt="" A="K">kyss</s><s m="1" wt="l">a</s><w id="79" Σ="2"/>
+    <s m="3" wt="" A="G">gerð</s><s m="1" wt="l">i</s><lb n="68;9"/>
+    <w id="80" Σ="1"/>
+    <s m="2" wt="l" A="N">né</s><w id="81" Σ="1"/>
+    <s m="6" wt="h" A="H">húnskr</s><w id="82" Σ="2"/>
+    <s m="2" wt="" A="K">kon</s><s m="4" wt="h">ungr</s><w id="83" Σ="2"/>
+    <s m="3" wt="" A="H">hefj</s><s m="1" wt="l">a</s><w id="84" Σ="1"/>
+    <s m="3" wt="h" A="S">sér</s><w id="85" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="86" Σ="2"/>
+    <s m="3" wt="" A="Ø">arm</s><s m="1" wt="l">i</s><w id="87" Σ="1"/>
+    <s m="1" wt="l" A="M">mey</s><w id="88" Σ="3"/>
+    <s m="2" wt="" A="F">frum</s><s m="3" wt="">ung</s><s m="1" wt="l">a</s><w id="89" Σ="1"/>
+    <s m="2" wt="l" A="F">fal</s><w id="90" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><w id="91" Σ="2"/>
+    <s m="2" wt="" A="M">meg</s><s m="1" wt="l">i</s><lb n="68;10"/>
+    <w id="92" Σ="2"/>
+    <s m="3" wt="" A="G">Gjúk</s><s m="1" wt="l">a</s><w id="93" Σ="1"/>
+    <s m="2" wt="l" A="H">Hon</s><w id="94" Σ="1"/>
+    <s m="3" wt="h" A="S">sér</s><w id="95" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="96" Σ="2"/>
+    <s m="3" wt="" A="L">líf</s><s m="1" wt="l">i</s><w id="97" Σ="1"/>
+    <s m="4" wt="h" A="L">löst</s><w id="98" Σ="1"/>
+    <s m="2" wt="l" A="N">né</s><w id="99" Σ="2"/>
+    <s m="3" wt="" A="V">viss</s><s m="1" wt="l">i</s><w id="100" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="101" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="102" Σ="3"/>
+    <s m="5" wt="" A="Ø">aldrl</s><s m="2" wt="">ag</s><s m="1" wt="l">i</s><w id="103" Σ="2"/>
+    <s m="3" wt="" A="Ø">ekk</s><s m="1" wt="l">i</s><w id="104" Σ="1"/>
+    <s m="3" wt="h" A="G">grand</s><lb n="68;11"/>
+    <w id="105" Σ="1"/>
+    <s m="3" wt="h" A="V">vamm</s><w id="106" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þat</s><w id="107" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="108" Σ="2"/>
+    <s m="2" wt="" A="V">vær</s><s m="1" wt="l">i</s><w id="109" Σ="2"/>
+    <s m="2" wt="" A="Ø">eð</s><s m="1" wt="l">a</s><w id="110" Σ="2"/>
+    <s m="2" wt="" A="V">ver</s><s m="1" wt="l">a</s><w id="111" Σ="2"/>
+    <s m="3" wt="" A="H">hygð</s><s m="1" wt="l">i</s><w id="112" Σ="2"/>
+    <s m="3" wt="" A="G">geng</s><s m="1" wt="l">u</s><w id="113" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þess</s><w id="114" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="115" Σ="2"/>
+    <s m="3" wt="" A="M">mill</s><s m="1" wt="l">i</s><w id="116" Σ="2"/>
+    <s m="3" wt="" A="G">grimm</s><s m="2" wt="l">ar</s><w id="117" Σ="2"/>
+    <s m="3" wt="" A="Ø">urð</s><s m="2" wt="l">ir</s><w id="118" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ein</s><lb n="68;12"/>
+    <w id="119" Σ="1"/>
+    <s m="2" wt="l" A="S">sat</s><w id="120" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="121" Σ="2"/>
+    <s m="3" wt="" A="Ø">út</s><s m="1" wt="l">i</s><w id="122" Σ="2"/>
+    <s m="3" wt="" A="Ø">aft</s><s m="2" wt="l">an</s><w id="123" Σ="1"/>
+    <s m="3" wt="h" A="D">dags</s><w id="124" Σ="1"/>
+    <s m="2" wt="l" A="N">nam</s><w id="125" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="126" Σ="1"/>
+    <s m="2" wt="l" A="S">svá</s><w id="127" Σ="1"/>
+    <s m="4" wt="h" A="M">margt</s><w id="128" Σ="1"/>
+    <s m="2" wt="l" A="Ø">um</s><w id="129" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="130" Σ="2"/>
+    <s m="2" wt="" A="M">mæl</s><s m="3" wt="h">ask</s><w id="131" Σ="2"/>
+    <s m="2" wt="" A="H">haf</s><s m="1" wt="l">a</s><w id="132" Σ="1"/>
+    <s m="2" wt="l" A="S">skal</s><lb n="68;13"/>
+    <w id="133" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="134" Σ="2"/>
+    <s m="2" wt="" A="S">Sig</s><s m="3" wt="h">urð</s><w id="135" Σ="2"/>
+    <s m="2" wt="" A="Ø">eð</s><s m="1" wt="l">a</s><w id="136" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þó</s><w id="137" Σ="2"/>
+    <s m="3" wt="" A="S">svelt</s><s m="1" wt="l">a</s><w id="138" Σ="1"/>
+    <s m="3" wt="h" A="M">mög</s><w id="139" Σ="3"/>
+    <s m="2" wt="" A="F">frum</s><s m="3" wt="">ung</s><s m="2" wt="l">an</s><w id="140" Σ="1"/>
+    <s m="3" wt="h" A="M">mér</s><w id="141" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="142" Σ="2"/>
+    <s m="3" wt="" A="Ø">arm</s><s m="1" wt="l">i</s><w id="143" Σ="1"/>
+    <s m="3" wt="h" A="Ø">Orð</s><w id="144" Σ="2"/>
+    <s m="3" wt="" A="M">mælt</s><s m="2" wt="l">ak</s><lb n="68;14"/>
+    <w id="145" Σ="1"/>
+    <s m="2" wt="l" A="N">nú</s><w id="146" Σ="2"/>
+    <s m="3" wt="" A="Ø">iðr</s><s m="3" wt="h">umk</s><w id="147" Σ="2"/>
+    <s m="3" wt="" A="Ø">eft</s><s m="2" wt="l">ir</s><w id="148" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þess</s><w id="149" Σ="1"/>
+    <s m="3" wt="h" A="K">kván</s><w id="150" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="151" Σ="1"/>
+    <s m="3" wt="h" A="H">hans</s><w id="152" Σ="2"/>
+    <s m="3" wt="" A="G">Guðr</s><s m="3" wt="h">ún</s><w id="153" Σ="1"/>
+    <s m="2" wt="l" A="Ø">en</s><w id="154" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="155" Σ="2"/>
+    <s m="3" wt="" A="G">Gunn</s><s m="3" wt="h">ars</s><w id="156" Σ="2"/>
+    <s m="3" wt="" A="L">ljót</s><s m="2" wt="l">ar</s><w id="157" Σ="2"/>
+    <s m="3" wt="" A="N">norn</s><s m="2" wt="l">ir</s><lb n="68;15"/>
+    <w id="158" Σ="2"/>
+    <s m="3" wt="" A="S">skóp</s><s m="1" wt="l">u</s><w id="159" Σ="1"/>
+    <s m="3" wt="h" A="Ø">oss</s><w id="160" Σ="2"/>
+    <s m="3" wt="" A="L">lang</s><s m="1" wt="l">a</s><w id="161" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þrá</s><w id="162" Σ="1"/>
+    <s m="3" wt="h" A="Ø">Opt</s><w id="163" Σ="1"/>
+    <s m="4" wt="h" A="G">gengr</s><w id="164" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="165" Σ="2"/>
+    <s m="3" wt="" A="Ø">inn</s><s m="2" wt="l">an</s><w id="166" Σ="1"/>
+    <s m="4" wt="h" A="Ø">ills</s><w id="167" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="168" Σ="1"/>
+    <s m="4" wt="h" A="F">fylld</s><w id="169" Σ="2"/>
+    <s m="3" wt="" A="Ø">ís</s><s m="1" wt="l">a</s><w id="170" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><lb n="68;16"/>
+    <w id="171" Σ="2"/>
+    <s m="4" wt="" A="J">jökl</s><s m="1" wt="l">a</s><w id="172" Σ="2"/>
+    <s m="3" wt="" A="Ø">aft</s><s m="2" wt="l">an</s><w id="173" Σ="1"/>
+    <s m="3" wt="h" A="H">hvern</s><w id="174" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="175" Σ="1"/>
+    <s m="1" wt="l" A="Þ">þau</s><w id="176" Σ="2"/>
+    <s m="3" wt="" A="G">Guðr</s><s m="3" wt="h">ún</s><w id="177" Σ="2"/>
+    <s m="3" wt="" A="G">gang</s><s m="1" wt="l">a</s><w id="178" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="179" Σ="1"/>
+    <s m="2" wt="l" A="B">beð</s><w id="180" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="181" Σ="2"/>
+    <s m="2" wt="" A="H">han</s><s m="1" wt="l">a</s><w id="182" Σ="2"/>
+    <s m="2" wt="" A="S">Sig</s><s m="4" wt="h">urðr</s><w id="183" Σ="1"/>
+    <s m="3" wt="h" A="S">sveipr</s><lb n="68;17"/>
+    <w id="184" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="185" Σ="2"/>
+    <s m="3" wt="" A="R">rift</s><s m="1" wt="l">i</s><w id="186" Σ="2"/>
+    <s m="2" wt="" A="K">kon</s><s m="4" wt="h">ungr</s><w id="187" Σ="1"/>
+    <s m="3" wt="h" A="Ø">inn</s><w id="188" Σ="2"/>
+    <s m="5" wt="" A="H">húnsk</s><s m="1" wt="l">i</s><w id="189" Σ="1"/>
+    <s m="3" wt="h" A="K">kván</s><w id="190" Σ="1"/>
+    <s m="2" wt="l" A="F">frjá</s><w id="191" Σ="2"/>
+    <s m="3" wt="" A="S">sín</s><s m="1" wt="l">a</s><w id="192" Σ="1"/>
+    <s m="3" wt="h" A="V">Vön</s><w id="193" Σ="1"/>
+    <s m="3" wt="h" A="G">geng</s><w id="194" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="195" Σ="2"/>
+    <s m="3" wt="" A="V">vilj</s><s m="1" wt="l">a</s><lb n="68;18"/>
+    <w id="196" Σ="1"/>
+    <s m="3" wt="h" A="V">vers</s><w id="197" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="198" Σ="2"/>
+    <s m="4" wt="" A="B">beggj</s><s m="1" wt="l">a</s><w id="199" Σ="1"/>
+    <s m="3" wt="h" A="V">verð</s><w id="200" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="201" Σ="1"/>
+    <s m="2" wt="l" A="M">mik</s><w id="202" Σ="2"/>
+    <s m="2" wt="" A="G">gæl</s><s m="1" wt="l">a</s><w id="203" Σ="1"/>
+    <s m="2" wt="l" A="Ø">af</s><w id="204" Σ="2"/>
+    <s m="3" wt="" A="G">grimm</s><s m="2" wt="l">um</s><w id="205" Σ="1"/>
+    <s m="2" wt="l" A="H">hug</s><w id="206" Σ="1"/>
+    <s m="2" wt="l" A="N">Nam</s><w id="207" Σ="1"/>
+    <s m="2" wt="l" A="Ø">af</s><w id="208" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þeim</s><w id="209" Σ="2"/>
+    <s m="3" wt="" A="H">heift</s><s m="2" wt="l">um</s><lb n="68;19"/>
+    <w id="210" Σ="2"/>
+    <s m="3" wt="" A="H">hvetj</s><s m="3" wt="h">ask</s><w id="211" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="212" Σ="2"/>
+    <s m="3" wt="" A="V">víg</s><s m="1" wt="l">i</s><w id="213" Σ="1"/>
+    <s m="2" wt="l" A="Þ">Þú</s><w id="214" Σ="1"/>
+    <s m="3" wt="h" A="S">skalt</s><w id="215" Σ="2"/>
+    <s m="3" wt="" A="G">Gunn</s><s m="3" wt="h">arr</s><w id="216" Σ="1"/>
+    <s m="4" wt="h" A="G">gerst</s><w id="217" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="218" Σ="2"/>
+    <s m="3" wt="" A="L">lát</s><s m="1" wt="l">a</s><w id="219" Σ="2"/>
+    <s m="3" wt="" A="M">mín</s><s m="1" wt="l">u</s><w id="220" Σ="2"/>
+    <s m="3" wt="" A="L">land</s><s m="1" wt="l">i</s><w id="221" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="222" Σ="1"/>
+    <s m="3" wt="h" A="M">mér</s><lb n="68;20"/>
+    <w id="223" Σ="2"/>
+    <s m="4" wt="" A="S">sjalfr</s><s m="1" wt="l">i</s><w id="224" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="225" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="226" Σ="2"/>
+    <s m="2" wt="" A="Ø">un</s><s m="1" wt="l">a</s><w id="227" Σ="2"/>
+    <s m="4" wt="" A="Ø">aldr</s><s m="1" wt="l">i</s><w id="228" Σ="1"/>
+    <s m="2" wt="l" A="M">með</s><w id="229" Σ="3"/>
+    <s m="4" wt="" A="Ø">öðl</s><s m="3" wt="">ing</s><s m="1" wt="l">i</s><w id="230" Σ="1"/>
+    <s m="2" wt="l" A="M">Mun</s><w id="231" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="232" Σ="1"/>
+    <s m="4" wt="h" A="Ø">aftr</s><w id="233" Σ="2"/>
+    <s m="2" wt="" A="F">far</s><s m="1" wt="l">a</s><w id="234" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þars</s><lb n="68;21"/>
+    <w id="235" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="236" Σ="2"/>
+    <s m="3" wt="" A="Ø">áð</s><s m="2" wt="l">an</s><w id="237" Σ="1"/>
+    <s m="3" wt="h" A="V">vark</s><w id="238" Σ="1"/>
+    <s m="2" wt="l" A="M">með</s><w id="239" Σ="3"/>
+    <s m="3" wt="" A="N">náb</s><s m="3" wt="">orn</s><s m="2" wt="l">um</s><w id="240" Σ="2"/>
+    <s m="3" wt="" A="N">niðj</s><s m="2" wt="l">um</s><w id="241" Σ="2"/>
+    <s m="3" wt="" A="M">mín</s><s m="2" wt="l">um</s><w id="242" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þar</s><w id="243" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="244" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="245" Σ="2"/>
+    <s m="3" wt="" A="S">sitj</s><s m="1" wt="l">a</s><lb n="68;22"/>
+    <w id="246" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="247" Σ="2"/>
+    <s m="2" wt="" A="S">sof</s><s m="1" wt="l">a</s><w id="248" Σ="2"/>
+    <s m="3" wt="" A="L">líf</s><s m="1" wt="l">i</s><w id="249" Σ="2"/>
+    <s m="2" wt="" A="N">nem</s><s m="1" wt="l">a</s><w id="250" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þú</s><w id="251" Σ="2"/>
+    <s m="2" wt="" A="S">Sig</s><s m="3" wt="h">urð</s><w id="252" Σ="2"/>
+    <s m="3" wt="" A="S">svelt</s><s m="1" wt="l">a</s><w id="253" Σ="2"/>
+    <s m="3" wt="" A="L">lát</s><s m="2" wt="l">ir</s><w id="254" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="255" Σ="2"/>
+    <s m="3" wt="" A="J">jöf</s><s m="3" wt="h">urr</s><w id="256" Σ="2"/>
+    <s m="4" wt="" A="Ø">öðr</s><s m="2" wt="l">um</s><w id="257" Σ="2"/>
+    <s m="3" wt="" A="Ø">æðr</s><s m="1" wt="l">i</s><w id="258" Σ="2"/>
+    <s m="3" wt="" A="V">verð</s><s m="2" wt="l">ir</s><lb n="68;23"/>
+    <w id="259" Σ="2"/>
+    <s m="3" wt="" A="L">Lát</s><s m="2" wt="l">um</s><w id="260" Σ="1"/>
+    <s m="2" wt="l" A="S">son</s><w id="261" Σ="2"/>
+    <s m="2" wt="" A="F">far</s><s m="1" wt="l">a</s><w id="262" Σ="1"/>
+    <s m="3" wt="h" A="F">feðr</s><w id="263" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="264" Σ="2"/>
+    <s m="3" wt="" A="S">sinn</s><s m="1" wt="l">i</s><w id="265" Σ="1"/>
+    <s m="2" wt="l" A="S">skal</s><w id="266" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="267" Σ="1"/>
+    <s m="3" wt="h" A="Ø">ulf</s><w id="268" Σ="2"/>
+    <s m="2" wt="" A="Ø">al</s><s m="1" wt="l">a</s><w id="269" Σ="2"/>
+    <s m="3" wt="" A="Ø">ung</s><s m="2" wt="l">an</s><w id="270" Σ="2"/>
+    <s m="3" wt="" A="L">leng</s><s m="1" wt="l">i</s><w id="271" Σ="1"/>
+    <s m="2" wt="l" A="H">Hveim</s><w id="272" Σ="1"/>
+    <s m="4" wt="h" A="V">verðr</s><lb n="68;24"/>
+    <w id="273" Σ="2"/>
+    <s m="4" wt="" A="H">hölð</s><s m="1" wt="l">a</s><w id="274" Σ="1"/>
+    <s m="4" wt="h" A="H">hefnd</s><w id="275" Σ="3"/>
+    <s m="4" wt="" A="L">létt</s><s m="2" wt="">ar</s><s m="1" wt="l">i</s><w id="276" Σ="2"/>
+    <s m="3" wt="" A="S">síð</s><s m="2" wt="l">an</s><w id="277" Σ="1"/>
+    <s m="2" wt="l" A="T">til</s><w id="278" Σ="2"/>
+    <s m="4" wt="" A="S">sátt</s><s m="1" wt="l">a</s><w id="279" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="280" Σ="1"/>
+    <s m="3" wt="h" A="S">sonr</s><w id="281" Σ="2"/>
+    <s m="2" wt="" A="L">lif</s><s m="1" wt="l">i</s><w id="282" Σ="1"/>
+    <s m="2" wt="l" A="R">Reiþ</s><w id="283" Σ="1"/>
+    <s m="3" wt="h" A="V">varð</s><w id="284" Σ="2"/>
+    <s m="3" wt="" A="G">Gunn</s><s m="3" wt="h">arr</s><lb n="68;25"/>
+    <w id="285" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="286" Σ="3"/>
+    <s m="3" wt="" A="H">hnipn</s><s m="2" wt="">að</s><s m="1" wt="l">i</s><w id="287" Σ="1"/>
+    <s m="2" wt="l" A="S">sveip</s><w id="288" Σ="2"/>
+    <s m="3" wt="" A="S">sín</s><s m="2" wt="l">um</s><w id="289" Σ="1"/>
+    <s m="2" wt="l" A="H">hug</s><w id="290" Σ="1"/>
+    <s m="2" wt="l" A="S">sat</s><w id="291" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="292" Σ="2"/>
+    <s m="3" wt="" A="Ø">all</s><s m="2" wt="l">an</s><w id="293" Σ="1"/>
+    <s m="2" wt="l" A="D">dag</s><w id="294" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><w id="295" Σ="2"/>
+    <s m="3" wt="" A="V">viss</s><s m="1" wt="l">i</s><w id="296" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þat</s><w id="297" Σ="2"/>
+    <s m="3" wt="" A="V">vilg</s><s m="1" wt="l">i</s><lb n="68;26"/>
+    <w id="298" Σ="2"/>
+    <s m="4" wt="" A="G">görl</s><s m="1" wt="l">a</s><w id="299" Σ="1"/>
+    <s m="2" wt="l" A="H">hvat</s><w id="300" Σ="2"/>
+    <s m="3" wt="" A="H">hán</s><s m="2" wt="l">um</s><w id="301" Σ="2"/>
+    <s m="2" wt="" A="V">vær</s><s m="1" wt="l">i</s><w id="302" Σ="2"/>
+    <s m="3" wt="" A="V">vinn</s><s m="1" wt="l">a</s><w id="303" Σ="1"/>
+    <s m="4" wt="h" A="S">sæmst</s><w id="304" Σ="2"/>
+    <s m="2" wt="" A="Ø">eð</s><s m="1" wt="l">a</s><w id="305" Σ="2"/>
+    <s m="3" wt="" A="H">hán</s><s m="2" wt="l">um</s><w id="306" Σ="2"/>
+    <s m="2" wt="" A="V">vær</s><s m="1" wt="l">i</s><w id="307" Σ="2"/>
+    <s m="3" wt="" A="V">vinn</s><s m="1" wt="l">a</s><w id="308" Σ="1"/>
+    <s m="3" wt="h" A="B">bezt</s><w id="309" Σ="1"/>
+    <s m="4" wt="h" A="Ø">alls</s><lb n="68;27"/>
+    <w id="310" Σ="1"/>
+    <s m="2" wt="l" A="S">sik</s><w id="311" Σ="2"/>
+    <s m="4" wt="" A="V">völs</s><s m="3" wt="h">ung</s><w id="312" Σ="2"/>
+    <s m="3" wt="" A="V">viss</s><s m="1" wt="l">i</s><w id="313" Σ="2"/>
+    <s m="4" wt="" A="F">firrð</s><s m="2" wt="l">an</s><w id="314" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="315" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="316" Σ="2"/>
+    <s m="2" wt="" A="S">Sig</s><s m="3" wt="h">urð</s><w id="317" Σ="2"/>
+    <s m="4" wt="" A="S">sökn</s><s m="2" wt="l">uð</s><w id="318" Σ="2"/>
+    <s m="2" wt="" A="M">mik</s><s m="3" wt="h">inn</s><w id="319" Σ="2"/>
+    <s m="3" wt="" A="Ø">Ým</s><s m="3" wt="h">ist</s><w id="320" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><lb n="68;28"/>
+    <w id="321" Σ="2"/>
+    <s m="3" wt="" A="H">hugð</s><s m="1" wt="l">i</s><w id="322" Σ="3"/>
+    <s m="4" wt="" A="J">jafnl</s><s m="3" wt="">ang</s><s m="1" wt="l">a</s><w id="323" Σ="1"/>
+    <s m="3" wt="h" A="ST">stund</s><w id="324" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þat</s><w id="325" Σ="1"/>
+    <s m="2" wt="l" A="V">var</s><w id="326" Σ="2"/>
+    <s m="2" wt="" A="Ø">eig</s><s m="1" wt="l">i</s><w id="327" Σ="3"/>
+    <s m="2" wt="" A="Ø">af</s><s m="3" wt="">art</s><s m="4" wt="h">ítt</s><w id="328" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="329" Σ="1"/>
+    <s m="2" wt="l" A="F">frá</s><w id="330" Σ="3"/>
+    <s m="2" wt="" A="K">kon</s><s m="4" wt="">ungd</s><s m="3" wt="h">óm</s><lb n="68;29" after="2"/>
+    <w id="331" Σ="2"/>
+    <s m="3" wt="" A="K">kván</s><s m="2" wt="l">ir</s><w id="332" Σ="2"/>
+    <s m="3" wt="" A="G">geng</s><s m="1" wt="l">i</s><w id="333" Σ="1"/>
+    <s m="2" wt="l" A="N">Nam</s><w id="334" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><w id="335" Σ="1"/>
+    <s m="3" wt="h" A="S">sér</s><w id="336" Σ="2"/>
+    <s m="4" wt="" A="H">Högn</s><s m="1" wt="l">a</s><w id="337" Σ="2"/>
+    <s m="2" wt="" A="H">heit</s><s m="1" wt="l">a</s><w id="338" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="339" Σ="2"/>
+    <s m="3" wt="" A="R">rún</s><s m="2" wt="l">um</s><w id="340" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þar</s><w id="341" Σ="2"/>
+    <s m="4" wt="" A="Ø">átt</s><s m="1" wt="l">i</s><w id="342" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><w id="343" Σ="1"/>
+    <s m="4" wt="h" A="Ø">alls</s><lb n="68;30"/>
+    <w id="344" Σ="2"/>
+    <s m="5" wt="" A="F">fulltr</s><s m="2" wt="l">úa</s><w id="345" Σ="1"/>
+    <s m="2" wt="l" A="Ø">Ein</s><w id="346" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="347" Σ="1"/>
+    <s m="3" wt="h" A="M">mér</s><w id="348" Σ="2"/>
+    <s m="3" wt="" A="B">Brynh</s><s m="4" wt="h">ildr</s><w id="349" Σ="2"/>
+    <s m="4" wt="" A="Ø">öll</s><s m="2" wt="l">um</s><w id="350" Σ="2"/>
+    <s m="3" wt="" A="B">betr</s><s m="1" wt="l">i</s><w id="351" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="352" Σ="2"/>
+    <s m="2" wt="" A="B">bor</s><s m="2" wt="l">in</s><w id="353" Σ="2"/>
+    <s m="3" wt="" A="B">buðl</s><s m="1" wt="l">a</s><lb n="68;31"/>
+    <w id="354" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="355" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="356" Σ="1"/>
+    <s m="3" wt="h" A="B">bragr</s><w id="357" Σ="2"/>
+    <s m="3" wt="" A="K">kvenn</s><s m="1" wt="l">a</s><w id="358" Σ="1"/>
+    <s m="3" wt="h" A="F">fyrr</s><w id="359" Σ="1"/>
+    <s m="2" wt="l" A="S">skal</s><w id="360" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><lb n="68;32"/>
+    <w id="361" Σ="2"/>
+    <s m="3" wt="" A="M">mín</s><s m="1" wt="l">u</s><w id="362" Σ="2"/>
+    <s m="4" wt="" A="F">fjörv</s><s m="1" wt="l">i</s><w id="363" Σ="2"/>
+    <s m="3" wt="" A="L">lát</s><s m="1" wt="l">a</s><w id="364" Σ="1"/>
+    <s m="2" wt="l" A="Ø">en</s><w id="365" Σ="2"/>
+    <s m="2" wt="" A="Þ">þeir</s><s m="2" wt="l">ar</s><w id="366" Σ="2"/>
+    <s m="2" wt="" A="M">meyj</s><s m="2" wt="l">ar</s><w id="367" Σ="2"/>
+    <s m="3" wt="" A="M">meiðm</s><s m="2" wt="l">um</s><w id="368" Σ="2"/>
+    <s m="3" wt="" A="T">týn</s><s m="1" wt="l">a</s><lb n="68;33" after="3"/>
+    <w id="369" Σ="2"/>
+    <s m="3" wt="" A="V">Vild</s><s m="1" wt="l">u</s><w id="370" Σ="1"/>
+    <s m="4" wt="h" A="Ø">okkr</s><w id="371" Σ="2"/>
+    <s m="3" wt="" A="F">fylk</s><s m="1" wt="l">i</s><w id="372" Σ="1"/>
+    <s m="2" wt="l" A="T">til</s><w id="373" Σ="1"/>
+    <s m="3" wt="h" A="F">fjár</s><w id="374" Σ="2"/>
+    <s m="3" wt="" A="V">vél</s><s m="1" wt="l">a</s><w id="375" Σ="1"/>
+    <s m="4" wt="h" A="G">Gótt</s><w id="376" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="377" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="378" Σ="2"/>
+    <s m="3" wt="" A="R">ráð</s><s m="1" wt="l">a</s><w id="379" Σ="2"/>
+    <s m="3" wt="" A="R">Rín</s><s m="2" wt="l">ar</s><w id="380" Σ="2"/>
+    <s m="3" wt="" A="M">malm</s><s m="1" wt="l">i</s><lb n="68;34"/>
+    <w id="381" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="382" Σ="3"/>
+    <s m="2" wt="" A="Ø">un</s><s m="3" wt="">and</s><s m="1" wt="l">i</s><w id="383" Σ="2"/>
+    <s m="2" wt="" A="Ø">auð</s><s m="1" wt="l">i</s><w id="384" Σ="2"/>
+    <s m="3" wt="" A="ST">stýr</s><s m="1" wt="l">a</s><w id="385" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="386" Σ="3"/>
+    <s m="3" wt="" A="S">sitj</s><s m="3" wt="">and</s><s m="1" wt="l">i</s><w id="387" Σ="2"/>
+    <s m="2" wt="" A="S">sæl</s><s m="1" wt="l">u</s><w id="388" Σ="2"/>
+    <s m="3" wt="" A="N">njót</s><s m="1" wt="l">a</s><w id="389" Σ="2"/>
+    <s m="2" wt="" A="Ø">Ein</s><s m="1" wt="l">u</s><w id="390" Σ="1"/>
+    <s m="2" wt="l" A="Þ">því</s><lb n="68;35" after="2"/>
+    <w id="391" Σ="2"/>
+    <s m="4" wt="" A="H">Högn</s><s m="1" wt="l">i</s><w id="392" Σ="2"/>
+    <s m="5" wt="" A="Ø">andsv</s><s m="3" wt="h">ör</s><w id="393" Σ="2"/>
+    <s m="3" wt="" A="V">veitt</s><s m="1" wt="l">i</s><w id="394" Σ="2"/>
+    <s m="2" wt="" A="S">Sam</s><s m="2" wt="l">ir</s><w id="395" Σ="2"/>
+    <s m="2" wt="" A="Ø">eig</s><s m="1" wt="l">i</s><w id="396" Σ="1"/>
+    <s m="4" wt="h" A="Ø">okkr</s><w id="397" Σ="1"/>
+    <s m="4" wt="h" A="S">slíkt</s><w id="398" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="399" Σ="2"/>
+    <s m="3" wt="" A="V">vinn</s><s m="1" wt="l">a</s><w id="400" Σ="2"/>
+    <s m="3" wt="" A="S">sverð</s><s m="1" wt="l">i</s><pb n="69"/>
+    <lb n="69;1"/>
+    <w id="401" Σ="2"/>
+    <s m="3" wt="" A="R">rofn</s><s m="1" wt="l">a</s><w id="402" Σ="2"/>
+    <s m="3" wt="" A="S">svarn</s><s m="1" wt="l">a</s><w id="403" Σ="2"/>
+    <s m="2" wt="" A="Ø">eið</s><s m="1" wt="l">a</s><w id="404" Σ="2"/>
+    <s m="2" wt="" A="Ø">eið</s><s m="1" wt="l">a</s><w id="405" Σ="2"/>
+    <s m="3" wt="" A="S">svarn</s><s m="1" wt="l">a</s><w id="406" Σ="2"/>
+    <s m="3" wt="" A="Ø">unn</s><s m="2" wt="l">ar</s><w id="407" Σ="2"/>
+    <s m="4" wt="" A="T">tryggð</s><s m="2" wt="l">ir</s><w id="408" Σ="2"/>
+    <s m="2" wt="" A="V">Vit</s><s m="2" wt="l">um</s><w id="409" Σ="1"/>
+    <s m="1" wt="l" A="Ø">a</s><w id="410" Σ="1"/>
+    <s m="2" wt="l" A="V">vit</s><w id="411" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><lb n="69;2" after="3"/>
+    <w emmends="moldo" id="412" Σ="2"/>
+    <s m="3" wt="" A="M">mold</s><s m="1" wt="l">u</s><w id="413" Σ="1"/>
+    <s m="3" wt="h" A="M">menn</s><w id="414" Σ="1"/>
+    <s m="2" wt="l" A="Ø">in</s><w id="415" Σ="2"/>
+    <s m="3" wt="" A="S">sæll</s><s m="1" wt="l">i</s><w id="416" Σ="2"/>
+    <s m="2" wt="" A="M">með</s><s m="2" wt="l">an</s><w id="417" Σ="2"/>
+    <s m="3" wt="" A="F">fjór</s><s m="2" wt="l">ir</s><w id="418" Σ="1"/>
+    <s m="3" wt="h" A="V">vér</s><w id="419" Σ="2"/>
+    <s m="3" wt="" A="F">folk</s><s m="1" wt="l">i</s><w id="420" Σ="2"/>
+    <s m="3" wt="" A="R">ráð</s><s m="2" wt="l">um</s><w id="421" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="422" Σ="1"/>
+    <s m="2" wt="l" A="S">sá</s><w id="423" Σ="1"/>
+    <s m="3" wt="h" A="Ø">inn</s><w id="424" Σ="2"/>
+    <s m="5" wt="" A="H">húnsk</s><s m="1" wt="l">i</s><w id="425" Σ="1"/>
+    <s m="2" wt="l" A="H">her</s><w id="426" Σ="1"/>
+    <s m="4" wt="h" A="B">Baldr</s><w id="427" Σ="2"/>
+    <s m="2" wt="" A="L">lif</s><s m="2" wt="l">ir</s><lb n="69;3"/>
+    <w id="428" Σ="1"/>
+    <s m="2" wt="l" A="N">né</s><w id="429" Σ="1"/>
+    <s m="2" wt="l" A="Ø">in</s><w id="430" Σ="2"/>
+    <s m="3" wt="" A="M">mætr</s><s m="1" wt="l">i</s><w id="431" Σ="1"/>
+    <s m="3" wt="h" A="M">mægð</s><w id="432" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="433" Σ="2"/>
+    <s m="3" wt="" A="F">fold</s><s m="1" wt="l">u</s><w id="434" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ef</s><w id="435" Σ="1"/>
+    <s m="3" wt="h" A="V">vér</s><w id="436" Σ="1"/>
+    <s m="3" wt="h" A="F">fimm</s><w id="437" Σ="2"/>
+    <s m="2" wt="" A="S">son</s><s m="1" wt="l">u</s><w id="438" Σ="2"/>
+    <s m="2" wt="" A="F">fæð</s><s m="2" wt="l">um</s><w id="439" Σ="2"/>
+    <s m="3" wt="" A="L">leng</s><s m="1" wt="l">i</s><w id="440" Σ="4"/>
+    <s m="4" wt="" A="Ø">átt</s><s m="3" wt="">umg</s><s m="3" wt="">óð</s><s m="1" wt="l">a</s><w id="441" Σ="2"/>
+    <s m="3" wt="" A="Ø">æxl</s><s m="1" wt="l">a</s><lb n="69;4"/>
+    <w id="442" Σ="2"/>
+    <s m="3" wt="" A="K">knætt</s><s m="2" wt="l">im</s><w id="443" Σ="1"/>
+    <s m="2" wt="l" A="Ø">Ek</s><w id="444" Σ="1"/>
+    <s m="2" wt="l" A="V">veit</s><w id="445" Σ="2"/>
+    <s m="4" wt="" A="G">görl</s><s m="1" wt="l">a</s><w id="446" Σ="2"/>
+    <s m="2" wt="" A="H">hvað</s><s m="2" wt="l">an</s><w id="447" Σ="2"/>
+    <s m="2" wt="" A="V">veg</s><s m="2" wt="l">ir</s><w id="448" Σ="2"/>
+    <s m="3" wt="" A="ST">stand</s><s m="1" wt="l">a</s><w id="449" Σ="2"/>
+    <s m="2" wt="" A="Ø">er</s><s m="1" wt="l">u</s><w id="450" Σ="3"/>
+    <s m="3" wt="" A="B">brynh</s><s m="3" wt="">ild</s><s m="2" wt="l">ar</s><w id="451" Σ="1"/>
+    <s m="2" wt="l" A="B">brek</s><lb n="69;5"/>
+    <w id="452" Σ="3"/>
+    <s m="3" wt="" A="Ø">ofm</s><s m="2" wt="">ik</s><s m="2" wt="l">il</s><w id="453" Σ="2"/>
+    <s m="3" wt="" A="G">Gunn</s><s m="3" wt="h">arr</s><w id="454" Σ="1"/>
+    <s m="2" wt="l" A="K">kvað</s><w id="455" Σ="1"/>
+    <s m="2" wt="l" A="V">Vit</s><w id="456" Σ="2"/>
+    <s m="2" wt="" A="S">skul</s><s m="2" wt="l">um</s><w id="457" Σ="2"/>
+    <s m="3" wt="" A="G">Guth</s><s m="3" wt="h">orm</s><w id="458" Σ="2"/>
+    <s m="3" wt="" A="G">gerv</s><s m="1" wt="l">a</s><w id="459" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="460" Σ="2"/>
+    <s m="3" wt="" A="V">víg</s><s m="1" wt="l">i</s><w id="461" Σ="2"/>
+    <s m="4" wt="" A="Ø">yngr</s><s m="1" wt="l">a</s><w id="462" Σ="2"/>
+    <s m="3" wt="" A="B">bróð</s><s m="2" wt="l">ur</s><lb n="69;6" after="4"/>
+    <w id="463" Σ="4"/>
+    <s m="3" wt="" A="Ø">ofr</s><s m="3" wt="">óð</s><s m="2" wt="">ar</s><s m="1" wt="l">a</s><w id="464" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><w id="465" Σ="1"/>
+    <s m="2" wt="l" A="V">var</s><w id="466" Σ="1"/>
+    <s m="2" wt="l" A="F">fyr</s><w id="467" Σ="2"/>
+    <s m="3" wt="" A="Ø">út</s><s m="2" wt="l">an</s><w id="468" Σ="2"/>
+    <s m="2" wt="" A="Ø">eið</s><s m="1" wt="l">a</s><w id="469" Σ="2"/>
+    <s m="3" wt="" A="S">svarn</s><s m="1" wt="l">a</s><w id="470" Σ="2"/>
+    <s m="2" wt="" A="Ø">eið</s><s m="1" wt="l">a</s><w id="471" Σ="2"/>
+    <s m="3" wt="" A="S">svarn</s><s m="1" wt="l">a</s><w id="472" Σ="2"/>
+    <s m="3" wt="" A="Ø">unn</s><s m="2" wt="l">ar</s><w id="473" Σ="2"/>
+    <s m="4" wt="" A="T">tryggð</s><s m="2" wt="l">ir</s><w id="474" Σ="1"/>
+    <s m="3" wt="h" A="D">Dælt</s><lb n="69;7"/>
+    <w id="475" Σ="1"/>
+    <s m="2" wt="l" A="V">var</s><w id="476" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="477" Σ="2"/>
+    <s m="4" wt="" A="Ø">eggj</s><s m="1" wt="l">a</s><w id="478" Σ="4"/>
+    <s m="3" wt="" A="Ø">ób</s><s m="4" wt="">ilgj</s><s m="3" wt="">arn</s><s m="2" wt="l">an</s><w id="479" Σ="1"/>
+    <s m="3" wt="h" A="ST">stóð</s><w id="480" Σ="1"/>
+    <s m="2" wt="l" A="T">til</s><w id="481" Σ="2"/>
+    <s m="3" wt="" A="H">hjart</s><s m="1" wt="l">a</s><w id="482" Σ="1"/>
+    <s m="4" wt="h" A="H">hjörr</s><w id="483" Σ="3"/>
+    <s m="2" wt="" A="S">Sig</s><s m="3" wt="">urð</s><s m="1" wt="l">i</s><w id="484" Σ="1"/>
+    <s m="3" wt="h" A="R">Réð</s><w id="485" Σ="1"/>
+    <s m="2" wt="l" A="T">til</s><lb n="69;8" after="3"/>
+    <w id="486" Σ="2"/>
+    <s m="4" wt="" A="H">hefnd</s><s m="1" wt="l">a</s><w id="487" Σ="2"/>
+    <s m="4" wt="" A="H">hergj</s><s m="3" wt="h">arn</s><w id="488" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="489" Σ="1"/>
+    <s m="2" wt="l" A="S">sal</s><w id="490" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="491" Σ="2"/>
+    <s m="3" wt="" A="Ø">eft</s><s m="2" wt="l">ir</s><w id="492" Σ="1"/>
+    <s m="3" wt="h" A="V">varp</s><w id="493" Σ="4"/>
+    <s m="3" wt="" A="Ø">ób</s><s m="4" wt="">ilgj</s><s m="4" wt="">örn</s><s m="2" wt="l">um</s><lb n="69;9"/>
+    <w id="494" Σ="1"/>
+    <s m="2" wt="l" A="F">fló</s><w id="495" Σ="1"/>
+    <s m="2" wt="l" A="T">til</s><w id="496" Σ="2"/>
+    <s m="3" wt="" A="G">Guth</s><s m="4" wt="h">orms</s><w id="497" Σ="1"/>
+    <s m="3" wt="h" A="G">Grams</s><w id="498" Σ="3"/>
+    <s m="3" wt="" A="R">raml</s><s m="2" wt="">ig</s><s m="1" wt="l">a</s><w id="499" Σ="2"/>
+    <s m="3" wt="" A="K">kynb</s><s m="3" wt="h">irt</s><w id="500" Σ="1"/>
+    <s m="4" wt="h" A="J">járn</s><w id="501" Σ="1"/>
+    <s m="3" wt="h" A="Ø">ór</s><w id="502" Σ="2"/>
+    <s m="2" wt="" A="K">kon</s><s m="4" wt="h">ungs</s><w id="503" Σ="2"/>
+    <s m="3" wt="" A="H">hend</s><s m="1" wt="l">i</s><w id="504" Σ="1"/>
+    <s m="2" wt="l" A="H">Hné</s><w id="505" Σ="1"/>
+    <s m="3" wt="h" A="H">hans</s><w id="506" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="507" Σ="1"/>
+    <s m="4" wt="h" A="D">dolgr</s><w id="508" Σ="1"/>
+    <s m="2" wt="l" A="T">til</s><lb n="69;10"/>
+    <w id="509" Σ="2"/>
+    <s m="2" wt="" A="H">hlut</s><s m="1" wt="l">a</s><w id="510" Σ="2"/>
+    <s m="4" wt="" A="T">tveggj</s><s m="1" wt="l">a</s><w id="511" Σ="1"/>
+    <s m="4" wt="h" A="H">hendr</s><w id="512" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="513" Σ="2"/>
+    <s m="3" wt="" A="H">höf</s><s m="2" wt="l">uð</s><w id="514" Σ="1"/>
+    <s m="2" wt="l" A="H">hné</s><w id="515" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="516" Σ="2"/>
+    <s m="3" wt="" A="Ø">ann</s><s m="2" wt="l">an</s><w id="517" Σ="1"/>
+    <s m="2" wt="l" A="V">veg</s><w id="518" Σ="1"/>
+    <s m="2" wt="l" A="Ø">en</s><w id="519" Σ="2"/>
+    <s m="3" wt="" A="F">fót</s><s m="1" wt="l">a</s><w id="520" Σ="1"/>
+    <s m="3" wt="h" A="H">hlutr</s><w id="521" Σ="1"/>
+    <s m="4" wt="h" A="F">féll</s><lb n="69;11"/>
+    <w id="522" Σ="1"/>
+    <s m="4" wt="h" A="Ø">aftr</s><w id="523" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="524" Σ="1"/>
+    <s m="2" wt="l" A="ST">stað</s><w id="525" Σ="2"/>
+    <s m="3" wt="" A="S">Sofn</s><s m="2" wt="l">uð</s><w id="526" Σ="1"/>
+    <s m="2" wt="l" A="V">var</s><w id="527" Σ="2"/>
+    <s m="3" wt="" A="G">Guðr</s><s m="3" wt="h">ún</s><w id="528" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="529" Σ="2"/>
+    <s m="3" wt="" A="S">sæing</s><s m="1" wt="l">u</s><w id="530" Σ="3"/>
+    <s m="3" wt="" A="S">sorg</s><s m="2" wt="">al</s><s m="2" wt="l">aus</s><w id="531" Σ="1"/>
+    <s m="2" wt="l" A="H">hjá</s><w id="532" Σ="3"/>
+    <s m="2" wt="" A="S">Sig</s><s m="3" wt="">urð</s><s m="1" wt="l">i</s><w id="533" Σ="1"/>
+    <s m="2" wt="l" A="Ø">en</s><w id="534" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><lb n="69;12"/>
+    <w id="535" Σ="3"/>
+    <s m="3" wt="" A="V">vakn</s><s m="2" wt="">að</s><s m="1" wt="l">i</s><w id="536" Σ="2"/>
+    <s m="3" wt="" A="V">vilj</s><s m="1" wt="l">a</s><w id="537" Σ="1"/>
+    <s m="4" wt="h" A="F">firrð</s><w id="538" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="539" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="540" Σ="1"/>
+    <s m="2" wt="l" A="F">Freys</s><w id="541" Σ="2"/>
+    <s m="2" wt="" A="V">vin</s><s m="2" wt="l">ar</s><w id="542" Σ="1"/>
+    <s m="2" wt="l" A="F">flaut</s><w id="543" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="544" Σ="2"/>
+    <s m="2" wt="" A="D">dreyr</s><s m="1" wt="l">a</s><w id="545" Σ="1"/>
+    <s m="2" wt="l" A="S">Svá</s><lb n="69;13"/>
+    <w id="546" Σ="1"/>
+    <s m="2" wt="l" A="S">sló</s><w id="547" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="548" Σ="2"/>
+    <s m="3" wt="" A="S">svár</s><s m="2" wt="l">ar</s><w id="549" Σ="2"/>
+    <s m="3" wt="" A="S">sín</s><s m="2" wt="l">ar</s><w id="550" Σ="1"/>
+    <s m="4" wt="h" A="H">hendr</s><w id="551" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="552" Σ="3"/>
+    <s m="4" wt="" A="R">rammh</s><s m="2" wt="">ug</s><s m="3" wt="h">aðr</s><w id="553" Σ="1"/>
+    <s m="2" wt="l" A="R">reis</s><w id="554" Σ="1"/>
+    <s m="3" wt="h" A="Ø">upp</s><w id="555" Σ="1"/>
+    <s m="2" wt="l" A="V">við</s><w id="556" Σ="1"/>
+    <s m="2" wt="l" A="B">beð</s><w id="557" Σ="1"/>
+    <s m="3" wt="h" A="G">Grát</s><w id="558" Σ="1"/>
+    <s m="1" wt="l" A="Ø">a</s><w id="559" Σ="1"/>
+    <s m="1" wt="l" A="Ð">ðu</s><lb n="69;14"/>
+    <w id="560" Σ="2"/>
+    <s m="3" wt="" A="G">Guðr</s><s m="3" wt="h">ún</s><w id="561" Σ="1"/>
+    <s m="2" wt="l" A="S">svá</s><w id="562" Σ="3"/>
+    <s m="4" wt="" A="G">grimml</s><s m="2" wt="">ig</s><s m="1" wt="l">a</s><w id="563" Σ="1"/>
+    <s m="4" wt="h" A="B">brúðr</s><w id="564" Σ="3"/>
+    <s m="2" wt="" A="F">frum</s><s m="3" wt="">ung</s><s m="1" wt="l">a</s><w id="565" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þér</s><w id="566" Σ="1"/>
+    <s m="3" wt="h" A="B">bræðr</s><w id="567" Σ="2"/>
+    <s m="2" wt="" A="L">lif</s><s m="1" wt="l">a</s><w id="568" Σ="1"/>
+    <s m="2" wt="l" A="Ø">Á</s><w id="569" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="570" Σ="1"/>
+    <s m="2" wt="l" A="T">til</s><w id="571" Σ="2"/>
+    <s m="3" wt="" A="Ø">ung</s><s m="2" wt="l">an</s><lb n="69;15"/>
+    <w id="572" Σ="4"/>
+    <s m="3" wt="" A="Ø">erf</s><s m="2" wt="">in</s><s m="3" wt="">ytj</s><s m="1" wt="l">a</s><w id="573" Σ="1"/>
+    <s m="3" wt="h" A="K">kann</s><w id="574" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="575" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><w id="576" Σ="2"/>
+    <s m="3" wt="" A="F">firr</s><s m="3" wt="h">ask</s><w id="577" Σ="1"/>
+    <s m="3" wt="h" A="Ø">ór</s><w id="578" Σ="3"/>
+    <s m="5" wt="" A="F">fjándg</s><s m="3" wt="">arð</s><s m="1" wt="l">i</s><w id="579" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þeir</s><w id="580" Σ="1"/>
+    <s m="3" wt="h" A="S">sér</s><w id="581" Σ="2"/>
+    <s m="2" wt="" A="H">haf</s><s m="1" wt="l">a</s><w id="582" Σ="1"/>
+    <s m="4" wt="h" A="S">svárt</s><lb n="69;16"/>
+    <w id="583" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="584" Σ="1"/>
+    <s m="4" wt="h" A="D">dátt</s><w id="585" Σ="1"/>
+    <s m="3" wt="h" A="Ø">enn</s><w id="586" Σ="1"/>
+    <s m="2" wt="l" A="N">nær</s><w id="587" Σ="2"/>
+    <s m="2" wt="" A="N">num</s><s m="2" wt="l">it</s><w id="588" Σ="2"/>
+    <s m="3" wt="" A="N">nýl</s><s m="2" wt="l">ig</s><w id="589" Σ="1"/>
+    <s m="3" wt="h" A="R">ráð</s><w id="590" Σ="1"/>
+    <s m="4" wt="h" A="R">Ríðr</s><w id="591" Σ="1"/>
+    <s m="1" wt="l" A="Ø">a</s><w id="592" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þeim</s><w id="593" Σ="2"/>
+    <s m="3" wt="" A="S">síð</s><s m="2" wt="l">an</s><w id="594" Σ="1"/>
+    <s m="4" wt="h" A="Þ">þótt</s><w id="595" Σ="1"/>
+    <s m="1" wt="l" A="S">sjau</s><lb n="69;17"/>
+    <w id="596" Σ="2"/>
+    <s m="2" wt="" A="Ø">al</s><s m="2" wt="l">ir</s><w id="597" Σ="3"/>
+    <s m="3" wt="" A="S">syst</s><s m="3" wt="">urs</s><s m="3" wt="h">onr</s><w id="598" Σ="1"/>
+    <s m="4" wt="h" A="S">slíkr</s><w id="599" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="600" Σ="2"/>
+    <s m="3" wt="" A="Þ">þing</s><s m="1" wt="l">i</s><w id="601" Σ="1"/>
+    <s m="2" wt="l" A="Ø">Ek</s><w id="602" Σ="1"/>
+    <s m="2" wt="l" A="V">veit</s><w id="603" Σ="2"/>
+    <s m="4" wt="" A="G">görl</s><s m="1" wt="l">a</s><w id="604" Σ="1"/>
+    <s m="2" wt="l" A="H">hví</s><w id="605" Σ="2"/>
+    <s m="3" wt="" A="G">gegn</s><s m="2" wt="l">ir</s><w id="606" Σ="1"/>
+    <s m="2" wt="l" A="N">nú</s><lb n="69;18"/>
+    <w id="607" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ein</s><w id="608" Σ="1"/>
+    <s m="4" wt="h" A="V">veldr</s><w id="609" Σ="2"/>
+    <s m="3" wt="" A="B">Brynh</s><s m="4" wt="h">ildr</s><w id="610" Σ="2"/>
+    <s m="4" wt="" A="Ø">öll</s><s m="1" wt="l">u</s><w id="611" Σ="2"/>
+    <s m="4" wt="" A="B">bölv</s><s m="1" wt="l">i</s><w id="612" Σ="1"/>
+    <s m="3" wt="h" A="M">Mér</s><w id="613" Σ="2"/>
+    <s m="3" wt="" A="Ø">unn</s><s m="1" wt="l">i</s><w id="614" Σ="1"/>
+    <s m="2" wt="l" A="M">mær</s><w id="615" Σ="1"/>
+    <s m="2" wt="l" A="F">fyr</s><w id="616" Σ="1"/>
+    <s m="3" wt="h" A="M">mann</s><w id="617" Σ="1"/>
+    <s m="3" wt="h" A="H">hvern</s><w id="618" Σ="1"/>
+    <s m="2" wt="l" A="Ø">en</s><lb n="69;19"/>
+    <w id="619" Σ="1"/>
+    <s m="2" wt="l" A="V">við</s><w id="620" Σ="2"/>
+    <s m="3" wt="" A="G">Gunn</s><s m="2" wt="l">ar</s><w id="621" Σ="1"/>
+    <s m="3" wt="h" A="G">grand</s><w id="622" Σ="2"/>
+    <s m="3" wt="" A="Ø">ekk</s><s m="1" wt="l">i</s><w id="623" Σ="1"/>
+    <s m="4" wt="h" A="V">vannk</s><w id="624" Σ="2"/>
+    <s m="4" wt="" A="Þ">þyrmð</s><s m="1" wt="l">a</s><w id="625" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="626" Σ="2"/>
+    <s m="3" wt="" A="S">sifj</s><s m="2" wt="l">um</s><w id="627" Σ="2"/>
+    <s m="4" wt="" A="S">svörn</s><s m="2" wt="l">um</s><w id="628" Σ="2"/>
+    <s m="2" wt="" A="Ø">eið</s><s m="2" wt="l">um</s><lb n="69;20"/>
+    <w id="629" Σ="1"/>
+    <s m="4" wt="h" A="S">síðr</s><w id="630" Σ="2"/>
+    <s m="2" wt="" A="V">vær</s><s m="2" wt="l">ak</s><w id="631" Σ="2"/>
+    <s m="2" wt="" A="H">heit</s><s m="3" wt="h">inn</s><w id="632" Σ="1"/>
+    <s m="3" wt="h" A="H">hans</s><w id="633" Σ="2"/>
+    <s m="3" wt="" A="K">kván</s><s m="2" wt="l">ar</s><w id="634" Σ="1"/>
+    <s m="3" wt="h" A="V">vinr</s><w id="635" Σ="2"/>
+    <s m="2" wt="" A="K">Kon</s><s m="1" wt="l">a</s><w id="636" Σ="1"/>
+    <s m="3" wt="h" A="V">varp</s><w id="637" Σ="2"/>
+    <s m="4" wt="" A="Ø">önd</s><s m="1" wt="l">u</s><w id="638" Σ="1"/>
+    <s m="2" wt="l" A="Ø">en</s><w id="639" Σ="2"/>
+    <s m="2" wt="" A="K">kon</s><s m="4" wt="h">ungr</s><lb n="69;21" after="4"/>
+    <w id="640" Σ="2"/>
+    <s m="4" wt="" A="F">fjörv</s><s m="1" wt="l">i</s><w id="641" Σ="1"/>
+    <s m="2" wt="l" A="S">svá</s><w id="642" Σ="1"/>
+    <s m="2" wt="l" A="S">sló</s><w id="643" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="644" Σ="2"/>
+    <s m="3" wt="" A="S">svár</s><s m="2" wt="l">ar</s><w id="645" Σ="2"/>
+    <s m="3" wt="" A="S">sín</s><s m="2" wt="l">ar</s><w id="646" Σ="1"/>
+    <s m="4" wt="h" A="H">hendr</s><w id="647" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="648" Σ="2"/>
+    <s m="3" wt="" A="K">kváð</s><s m="1" wt="l">u</s><w id="649" Σ="1"/>
+    <s m="2" wt="l" A="V">við</s><w id="650" Σ="2"/>
+    <s m="4" wt="" A="K">kálk</s><s m="2" wt="l">ar</s><w id="651" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="652" Σ="1"/>
+    <s m="2" wt="l" A="V">vá</s><w id="653" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><lb n="69;22" after="3"/>
+    <w id="654" Σ="2"/>
+    <s m="3" wt="" A="G">gull</s><s m="1" wt="l">u</s><w id="655" Σ="1"/>
+    <s m="2" wt="l" A="V">við</s><w id="656" Σ="1"/>
+    <s m="3" wt="h" A="G">gæss</s><w id="657" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="658" Σ="2"/>
+    <s m="3" wt="" A="T">tún</s><s m="1" wt="l">i</s><w id="659" Σ="1"/>
+    <s m="2" wt="l" A="H">Hló</s><w id="660" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="661" Σ="2"/>
+    <s m="3" wt="" A="B">brynh</s><s m="4" wt="h">ildr</s><w expands="b." id="662" Σ="2"/>
+    <s m="3" wt="" A="B">buðl</s><s m="1" wt="l">a</s><w expands="d." id="663" Σ="2"/>
+    <s m="4" wt="" A="D">dótt</s><s m="2" wt="l">ir</s><w id="664" Σ="2"/>
+    <s m="2" wt="" A="Ø">ein</s><s m="1" wt="l">u</s><w id="665" Σ="2"/>
+    <s m="3" wt="" A="S">sinn</s><s m="1" wt="l">i</s><w id="666" Σ="1"/>
+    <s m="2" wt="l" A="Ø">af</s><w id="667" Σ="2"/>
+    <s m="4" wt="" A="Ø">öll</s><s m="2" wt="l">um</s><lb n="69;23"/>
+    <w id="668" Σ="1"/>
+    <s m="2" wt="l" A="H">hug</s><w id="669" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="670" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="671" Σ="1"/>
+    <s m="2" wt="l" A="T">til</s><w id="672" Σ="2"/>
+    <s m="3" wt="" A="H">hvíl</s><s m="1" wt="l">u</s><w id="673" Σ="2"/>
+    <s m="2" wt="" A="H">heyr</s><s m="1" wt="l">a</s><w id="674" Σ="2"/>
+    <s m="4" wt="" A="K">knátt</s><s m="1" wt="l">i</s><w id="675" Σ="2"/>
+    <s m="3" wt="" A="G">gjall</s><s m="2" wt="l">an</s><w id="676" Σ="1"/>
+    <s m="3" wt="h" A="G">grát</s><w id="677" Σ="2"/>
+    <s m="3" wt="" A="G">Gjúk</s><s m="1" wt="l">a</s><w id="678" Σ="2"/>
+    <s m="4" wt="" A="D">dótt</s><s m="2" wt="l">ur</s><w id="679" Σ="1"/>
+    <s m="3" wt="h" A="H">Hitt</s><lb n="69;24"/>
+    <w id="680" Σ="1"/>
+    <s m="2" wt="l" A="K">kvað</s><w id="681" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="682" Σ="2"/>
+    <s m="3" wt="" A="G">Gunn</s><s m="3" wt="h">arr</s><w id="683" Σ="1"/>
+    <s m="3" wt="h" A="G">gramr</s><w id="684" Σ="3"/>
+    <s m="4" wt="" A="H">haukst</s><s m="3" wt="">ald</s><s m="1" wt="l">a</s><w id="685" Σ="1"/>
+    <s m="2" wt="l" A="H">Hlær</s><w id="686" Σ="1"/>
+    <s m="1" wt="l" A="Ø">a</s><w id="687" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þú</s><w id="688" Σ="1"/>
+    <s m="2" wt="l" A="Ø">af</s><w id="689" Σ="1"/>
+    <s m="2" wt="l" A="Þ">því</s><w id="690" Σ="1"/>
+    <s m="3" wt="h" A="H">heift</s><lb n="69;25"/>
+    <w id="691" Σ="1"/>
+    <s m="4" wt="h" A="G">gjörn</s><w id="692" Σ="2"/>
+    <s m="2" wt="" A="K">kon</s><s m="1" wt="l">a</s><w id="693" Σ="1"/>
+    <s m="3" wt="h" A="G">glöð</s><w id="694" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="695" Σ="2"/>
+    <s m="4" wt="" A="G">gólf</s><s m="1" wt="l">i</s><w id="696" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="697" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þér</s><w id="698" Σ="1"/>
+    <s m="4" wt="h" A="G">góðs</s><w id="699" Σ="2"/>
+    <s m="2" wt="" A="V">vit</s><s m="1" wt="l">i</s><w id="700" Σ="1"/>
+    <s m="2" wt="l" A="H">Hví</s><w id="701" Σ="2"/>
+    <s m="3" wt="" A="H">hafn</s><s m="2" wt="l">ar</s><w id="702" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þú</s><lb n="69;26"/>
+    <w id="703" Σ="2"/>
+    <s m="2" wt="" A="Ø">in</s><s m="2" wt="l">um</s><w id="704" Σ="2"/>
+    <s m="3" wt="" A="H">hvít</s><s m="1" wt="l">a</s><w id="705" Σ="1"/>
+    <s m="2" wt="l" A="L">lit</s><w id="706" Σ="2"/>
+    <s m="3" wt="" A="F">feikn</s><s m="1" wt="l">a</s><w id="707" Σ="2"/>
+    <s m="2" wt="" A="F">fæð</s><s m="2" wt="l">ir</s><w id="708" Σ="1"/>
+    <s m="3" wt="h" A="H">Hygg</s><w id="709" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="710" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="711" Σ="1"/>
+    <s m="2" wt="l" A="F">feig</s><w id="712" Σ="1"/>
+    <s m="3" wt="h" A="S">séir</s><w id="713" Σ="1"/>
+    <s m="2" wt="l" A="Þ">Þú</s><w id="714" Σ="2"/>
+    <s m="2" wt="" A="V">vær</s><s m="2" wt="l">ir</s><w id="715" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þess</s><lb n="69;27"/>
+    <w id="716" Σ="2"/>
+    <s m="3" wt="" A="V">verð</s><s m="3" wt="h">ust</s><w id="717" Σ="2"/>
+    <s m="3" wt="" A="K">kvenn</s><s m="1" wt="l">a</s><w id="718" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="719" Σ="1"/>
+    <s m="2" wt="l" A="F">fyr</s><w id="720" Σ="2"/>
+    <s m="2" wt="" A="Ø">aug</s><s m="2" wt="l">um</s><w id="721" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þér</s><w id="722" Σ="2"/>
+    <s m="3" wt="" A="Ø">Atl</s><s m="1" wt="l">a</s><w id="723" Σ="2"/>
+    <s m="4" wt="" A="H">hjögg</s><s m="2" wt="l">im</s><w id="724" Σ="1"/>
+    <s m="2" wt="l" A="S">sæir</s><w id="725" Σ="1"/>
+    <s m="3" wt="h" A="B">bræðr</s><w id="726" Σ="2"/>
+    <s m="3" wt="" A="Þ">þín</s><s m="2" wt="l">um</s><w id="727" Σ="2"/>
+    <s m="3" wt="" A="B">blóð</s><s m="3" wt="h">ugt</s><lb n="69;28"/>
+    <w id="728" Σ="1"/>
+    <s m="3" wt="h" A="S">sár</s><w id="729" Σ="2"/>
+    <s m="3" wt="" A="Ø">und</s><s m="2" wt="l">ir</s><w id="730" Σ="2"/>
+    <s m="3" wt="" A="D">dreyrg</s><s m="2" wt="l">ar</s><w id="731" Σ="2"/>
+    <s m="3" wt="" A="K">knætt</s><s m="2" wt="l">ir</s><w id="732" Σ="2"/>
+    <s m="2" wt="" A="Ø">yf</s><s m="2" wt="l">ir</s><w id="733" Σ="2"/>
+    <s m="3" wt="" A="B">bind</s><s m="1" wt="l">a</s><w emends="" id="734" Σ="2"/>
+    <s m="3" wt="" A="B">Brynh</s><s m="4" wt="h">ildr</s><w emends="" id="735" Σ="1"/>
+    <s m="2" wt="l" A="K">kvað</s><w id="736" Σ="1"/>
+    <s m="3" wt="h" A="F">Frýr</s><w id="737" Σ="1"/>
+    <s m="1" wt="l" A="Ø">a</s><w expands="ψ" id="738" Σ="1"/>
+    <s m="3" wt="h" A="M">maðr</s><w id="739" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þér</s><w id="740" Σ="2"/>
+    <s m="3" wt="" A="Ø">eng</s><s m="1" wt="l">i</s><lb n="69;29"/>
+    <w emends="gunnir" id="741"/><!-- look further into this emendation -->
+    <w id="742" Σ="2"/>
+    <s m="2" wt="" A="H">hef</s><s m="2" wt="l">ir</s><w id="743" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þú</s><w id="744" Σ="3"/>
+    <s m="4" wt="" A="F">fullv</s><s m="2" wt="">eg</s><s m="2" wt="l">it</s><w id="745" Σ="1"/>
+    <s m="4" wt="h" A="L">lítt</s><w id="746" Σ="1"/>
+    <s m="4" wt="h" A="S">sésk</s><w id="747" Σ="2"/>
+    <s m="3" wt="" A="Ø">Atl</s><s m="1" wt="l">i</s><w id="748" Σ="2"/>
+    <s m="3" wt="" A="Ø">óf</s><s m="1" wt="l">u</s><w id="749" Σ="2"/>
+    <s m="3" wt="" A="Þ">þín</s><s m="1" wt="l">a</s><w id="750" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><w id="751" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="752" Σ="2"/>
+    <s m="3" wt="" A="Ø">ykk</s><s m="2" wt="l">ar</s><lb n="69;30"/>
+    <w id="753" Σ="1"/>
+    <s m="4" wt="h" A="Ø">önd</s><w id="754" Σ="3"/>
+    <s m="3" wt="" A="S">síð</s><s m="2" wt="">ar</s><s m="1" wt="l">i</s><w id="755" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="756" Σ="1"/>
+    <s m="1" wt="l" A="Ø">æ</s><w id="757" Σ="2"/>
+    <s m="2" wt="" A="B">ber</s><s m="1" wt="l">a</s><w id="758" Σ="1"/>
+    <s m="3" wt="h" A="Ø">afl</s><w id="759" Σ="1"/>
+    <s m="2" wt="l" A="Ø">it</s><w id="760" Σ="2"/>
+    <s m="2" wt="" A="M">meir</s><s m="1" wt="l">a</s><w id="761" Σ="2"/>
+    <s m="3" wt="" A="S">Segj</s><s m="1" wt="l">a</s><w id="762" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="763" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="764" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þér</s><w id="765" Σ="2"/>
+    <s m="3" wt="" A="G">Gunn</s><s m="3" wt="h">arr</s><lb n="69;31"/>
+    <w id="766" Σ="1"/>
+    <s m="4" wt="h" A="S">sjalfr</s><w id="767" Σ="2"/>
+    <s m="3" wt="" A="V">veizt</s><s m="1" wt="l">u</s><w id="768" Σ="2"/>
+    <s m="4" wt="" A="G">görl</s><s m="1" wt="l">a</s><w id="769" Σ="1"/>
+    <s m="2" wt="l" A="H">hvé</s><w id="770" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="771" Σ="1"/>
+    <s m="3" wt="h" A="Ø">yðr</s><w id="772" Σ="2"/>
+    <s m="3" wt="" A="S">snemm</s><s m="1" wt="l">a</s><w id="773" Σ="1"/>
+    <s m="2" wt="l" A="T">til</s><w id="774" Σ="2"/>
+    <s m="2" wt="" A="S">sak</s><s m="1" wt="l">a</s><w id="775" Σ="2"/>
+    <s m="3" wt="" A="R">réð</s><s m="2" wt="l">uð</s><w id="776" Σ="1"/>
+    <s m="3" wt="h" A="V">varð</s><lb n="69;32"/>
+    <w id="777" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="778" Σ="1"/>
+    <s m="2" wt="l" A="T">til</s><w id="779" Σ="1"/>
+    <s m="3" wt="h" A="Ø">ung</s><w id="780" Σ="1"/>
+    <s m="2" wt="l" A="N">né</s><w id="781" Σ="3"/>
+    <s m="4" wt="" A="Ø">ofþr</s><s m="3" wt="">ung</s><s m="2" wt="l">in</s><w id="782" Σ="2"/>
+    <s m="4" wt="" A="F">fullg</s><s m="3" wt="h">ædd</s><w id="783" Σ="1"/>
+    <s m="2" wt="l" A="F">féi</s><w id="784" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="785" Σ="2"/>
+    <s m="2" wt="" A="F">flet</s><s m="1" wt="l">i</s><w id="786" Σ="2"/>
+    <s m="3" wt="" A="B">bróð</s><s m="2" wt="l">ur</s><lb n="69;33"/>
+    <w id="787" Σ="1"/>
+    <s m="2" wt="l" A="N">Né</s><w id="788" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="789" Σ="2"/>
+    <s m="3" wt="" A="V">vild</s><s m="1" wt="l">a</s><w id="790" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þat</s><w id="791" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="792" Σ="1"/>
+    <s m="2" wt="l" A="M">mik</s><w id="793" Σ="1"/>
+    <s m="3" wt="h" A="V">verr</s><w id="794" Σ="2"/>
+    <s m="3" wt="" A="Ø">ætt</s><s m="1" wt="l">i</s><w id="795" Σ="1"/>
+    <s m="4" wt="h" A="Ø">áðr</s><w id="796" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þér</s><w id="797" Σ="3"/>
+    <s m="3" wt="" A="G">Gjúk</s><s m="3" wt="">ung</s><s m="2" wt="l">ar</s><w id="798" Σ="2"/>
+    <s m="2" wt="" A="R">rið</s><s m="2" wt="l">uð</s><w id="799" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><lb n="69;34"/>
+    <w id="800" Σ="2"/>
+    <s m="3" wt="" A="G">garð</s><s m="1" wt="l">i</s><w id="801" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þrír</s><w id="802" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="803" Σ="2"/>
+    <s m="3" wt="" A="H">hest</s><s m="2" wt="l">um</s><w id="804" Σ="4"/>
+    <s m="4" wt="" A="Þ">þjóðk</s><s m="2" wt="">on</s><s m="3" wt="">ung</s><s m="2" wt="l">ar</s><w id="805" Σ="1"/>
+    <s m="2" wt="l" A="Ø">en</s><w id="806" Σ="2"/>
+    <s m="2" wt="" A="Þ">þeir</s><s m="1" wt="l">a</s><w id="807" Σ="1"/>
+    <s m="3" wt="h" A="F">för</s><w id="808" Σ="2"/>
+    <s m="5" wt="" A="Þ">þörfg</s><s m="1" wt="l">i</s><w id="809" Σ="2"/>
+    <s m="2" wt="" A="V">vær</s><s m="1" wt="l">i</s><w id="810" Σ="1"/>
+    <s m="2" wt="l" A="Þ">Þeim</s><lb n="69;35"/>
+    <w id="811" Σ="2"/>
+    <s m="3" wt="" A="H">hét</s><s m="3" wt="h">umk</s><w id="812" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="813" Σ="4"/>
+    <s m="4" wt="" A="Þ">þjóðk</s><s m="2" wt="">on</s><s m="3" wt="">ung</s><s m="1" wt="l">i</s><w id="814" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="815" Σ="1"/>
+    <s m="2" wt="l" A="M">með</s><w id="816" Σ="2"/>
+    <s m="3" wt="" A="G">gull</s><s m="1" wt="l">i</s><w id="817" Σ="1"/>
+    <s m="2" wt="l" A="S">sat</s><w id="818" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="819" Σ="2"/>
+    <s m="2" wt="" A="G">Gran</s><s m="1" wt="l">a</s><w id="820" Σ="2"/>
+    <s m="3" wt="" A="B">bóg</s><s m="2" wt="l">um</s><w id="821" Σ="1"/>
+    <s m="2" wt="l" A="V">var</s><w id="822" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="823" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><w id="824" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="825" Σ="2"/>
+    <s m="2" wt="" A="Ø">aug</s><s m="1" wt="l">u</s><lb n="69;36"/>
+    <w id="826" Σ="1"/>
+    <s m="3" wt="h" A="Ø">yðr</s><w id="827" Σ="1"/>
+    <s m="2" wt="l" A="Ø">um</s><w id="828" Σ="1"/>
+    <s m="4" wt="h" A="L">líkr</s><pb n="70"/>
+    <lb n="70;1"/>
+    <w id="829" Σ="1"/>
+    <s m="2" wt="l" A="N">né</s><w id="830" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="831" Σ="2"/>
+    <s m="3" wt="" A="Ø">eng</s><s m="1" wt="l">i</s><w id="832" Σ="1"/>
+    <s m="2" wt="l" A="H">hlut</s><w id="833" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="834" Σ="3"/>
+    <s m="3" wt="" A="Ø">ál</s><s m="2" wt="">it</s><s m="2" wt="l">um</s><w id="835" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þó</s><w id="836" Σ="2"/>
+    <s m="3" wt="" A="Þ">þykk</s><s m="3" wt="h">izk</s><w id="837" Σ="1"/>
+    <s m="3" wt="h" A="Ø">ér</s><w id="838" Σ="4"/>
+    <s m="4" wt="" A="Þ">þjóðk</s><s m="2" wt="">on</s><s m="3" wt="">ung</s><s m="2" wt="l">ar</s><w id="839" Σ="1"/>
+    <s m="2" wt="l" A="Ø">Ok</s><w id="840" Σ="1"/>
+    <s m="3" wt="h" A="M">mér</s><w id="841" Σ="2"/>
+    <s m="3" wt="" A="Ø">Atl</s><s m="1" wt="l">i</s><w id="842" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þat</s><lb n="70;2"/>
+    <w id="843" Σ="2"/>
+    <s m="3" wt="" A="Ø">einn</s><s m="1" wt="l">i</s><w id="844" Σ="2"/>
+    <s m="3" wt="" A="S">sagð</s><s m="1" wt="l">i</s><w id="845" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="846" Σ="2"/>
+    <s m="4" wt="" A="H">hvárk</s><s m="1" wt="l">i</s><w id="847" Σ="1"/>
+    <s m="4" wt="h" A="L">lézk</s><w id="848" Σ="1"/>
+    <s m="4" wt="h" A="H">höfn</s><w id="849" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="850" Σ="2"/>
+    <s m="2" wt="" A="D">deil</s><s m="1" wt="l">a</s><w id="851" Σ="1"/>
+    <s m="3" wt="h" A="G">gull</s><w id="852" Σ="1"/>
+    <s m="2" wt="l" A="N">né</s><w id="853" Σ="2"/>
+    <s m="3" wt="" A="J">jarð</s><s m="2" wt="l">ir</s><w id="854" Σ="2"/>
+    <s m="2" wt="" A="N">nem</s><s m="1" wt="l">a</s><w id="855" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><lb n="70;3"/>
+    <w id="856" Σ="2"/>
+    <s m="2" wt="" A="G">gef</s><s m="3" wt="h">ask</s><w id="857" Σ="2"/>
+    <s m="3" wt="" A="L">lét</s><s m="2" wt="l">ak</s><w id="858" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="859" Σ="2"/>
+    <s m="3" wt="" A="Ø">eng</s><s m="1" wt="l">i</s><w id="860" Σ="1"/>
+    <s m="2" wt="l" A="H">hlut</s><w id="861" Σ="2"/>
+    <s m="2" wt="" A="Ø">auð</s><s m="3" wt="h">ins</s><w id="862" Σ="1"/>
+    <s m="3" wt="h" A="F">féar</s><w id="863" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="864" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="865" Σ="1"/>
+    <s m="3" wt="h" A="M">mér</s><w id="866" Σ="3"/>
+    <s m="3" wt="" A="J">jóð</s><s m="4" wt="">ungr</s><s m="1" wt="l">i</s><lb n="70;4" after="2"/>
+    <w id="867" Σ="2"/>
+    <s m="2" wt="" A="Ø">eig</s><s m="1" wt="l">u</s><w emends="selldac" id="868" Σ="2"/>
+    <s m="3" wt="" A="S">seld</s><s m="1" wt="l">i</s><w id="869" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="870" Σ="1"/>
+    <s m="3" wt="h" A="M">mér</s><w id="871" Σ="3"/>
+    <s m="3" wt="" A="J">jóð</s><s m="4" wt="">ungr</s><s m="1" wt="l">i</s><w id="872" Σ="2"/>
+    <s m="2" wt="" A="Ø">aur</s><s m="1" wt="l">a</s><w id="873" Σ="2"/>
+    <s m="3" wt="" A="T">talð</s><s m="1" wt="l">i</s><w id="874" Σ="1"/>
+    <s m="2" wt="l" A="Þ">Þá</s><w id="875" Σ="1"/>
+    <s m="2" wt="l" A="V">var</s><w id="876" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="877" Σ="2"/>
+    <s m="4" wt="" A="H">hvörf</s><s m="2" wt="l">un</s><w id="878" Σ="1"/>
+    <s m="3" wt="h" A="H">hugr</s><lb n="70;5"/>
+    <w id="879" Σ="1"/>
+    <s m="3" wt="h" A="M">minn</s><w id="880" Σ="1"/>
+    <s m="2" wt="l" A="Ø">um</s><w id="881" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þat</s><w id="882" Σ="1"/>
+    <s m="4" wt="h" A="H">hvárt</s><w id="883" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="884" Σ="2"/>
+    <s m="3" wt="" A="S">skyld</s><s m="1" wt="l">a</s><w id="885" Σ="2"/>
+    <s m="2" wt="" A="V">veg</s><s m="1" wt="l">a</s><w id="886" Σ="2"/>
+    <s m="2" wt="" A="Ø">eð</s><s m="1" wt="l">a</s><w id="887" Σ="1"/>
+    <s m="2" wt="l" A="V">val</s><w id="888" Σ="2"/>
+    <s m="3" wt="" A="F">fell</s><s m="1" wt="l">a</s><w id="889" Σ="1"/>
+    <s m="4" wt="h" A="B">böll</s><w id="890" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="891" Σ="2"/>
+    <s m="3" wt="" A="B">brynj</s><s m="1" wt="l">u</s><w id="892" Σ="1"/>
+    <s m="2" wt="l" A="Ø">um</s><lb n="70;6"/>
+    <w id="893" Σ="2"/>
+    <s m="3" wt="" A="B">bróð</s><s m="2" wt="l">ur</s><w id="894" Σ="1"/>
+    <s m="3" wt="h" A="S">sök</s><w id="895" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þat</s><w id="896" Σ="2"/>
+    <s m="3" wt="" A="M">mynd</s><s m="1" wt="l">i</s><w id="897" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="898" Σ="2"/>
+    <s m="4" wt="" A="Þ">þjóðk</s><s m="4" wt="h">unnt</s><w id="899" Σ="2"/>
+    <s m="2" wt="" A="V">ver</s><s m="1" wt="l">a</s><w id="900" Σ="2"/>
+    <s m="4" wt="" A="M">mörg</s><s m="2" wt="l">um</s><w id="901" Σ="2"/>
+    <s m="3" wt="" A="M">mann</s><s m="1" wt="l">i</s><w id="902" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="903" Σ="2"/>
+    <s m="2" wt="" A="M">mun</s><s m="2" wt="l">ar</s><lb n="70;7"/>
+    <w id="904" Σ="2"/>
+    <s m="3" wt="" A="ST">stríð</s><s m="1" wt="l">i</s><w id="905" Σ="2"/>
+    <s m="3" wt="" A="L">Lét</s><s m="2" wt="l">um</s><w id="906" Σ="2"/>
+    <s m="3" wt="" A="S">síg</s><s m="1" wt="l">a</s><w id="907" Σ="2"/>
+    <s m="5" wt="" A="S">sáttm</s><s m="3" wt="h">ál</s><w id="908" Σ="2"/>
+    <s m="3" wt="" A="Ø">okk</s><s m="2" wt="l">ur</s><w id="909" Σ="1"/>
+    <s m="3" wt="h" A="L">lék</s><w id="910" Σ="1"/>
+    <s m="3" wt="h" A="M">mér</s><w id="911" Σ="1"/>
+    <s m="2" wt="l" A="M">meir</s><w id="912" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="913" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="914" Σ="2"/>
+    <s m="3" wt="" A="M">meiðm</s><s m="2" wt="l">ar</s><lb n="70;8"/>
+    <w id="915" Σ="2"/>
+    <s m="4" wt="" A="Þ">þiggj</s><s m="1" wt="l">a</s><w id="916" Σ="2"/>
+    <s m="2" wt="" A="B">baug</s><s m="1" wt="l">a</s><w id="917" Σ="2"/>
+    <s m="2" wt="" A="R">rauð</s><s m="1" wt="l">a</s><w id="918" Σ="2"/>
+    <s m="2" wt="" A="B">bur</s><s m="2" wt="l">ar</s><w id="919" Σ="3"/>
+    <s m="3" wt="" A="S">Sigm</s><s m="3" wt="">und</s><s m="2" wt="l">ar</s><w id="920" Σ="1"/>
+    <s m="2" wt="l" A="N">né</s><w id="921" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="922" Σ="2"/>
+    <s m="3" wt="" A="Ø">ann</s><s m="3" wt="h">ars</s><w id="923" Σ="1"/>
+    <s m="4" wt="h" A="M">manns</s><w id="924" Σ="2"/>
+    <s m="2" wt="" A="Ø">aur</s><s m="1" wt="l">a</s><lb n="70;9"/>
+    <w id="925" Σ="2"/>
+    <s m="3" wt="" A="V">vild</s><s m="2" wt="l">ak</s><w id="926" Σ="2"/>
+    <s m="3" wt="" A="Ø">Unn</s><s m="2" wt="l">ak</s><w id="927" Σ="2"/>
+    <s m="2" wt="" A="Ø">ein</s><s m="2" wt="l">um</s><w id="928" Σ="1"/>
+    <s m="2" wt="l" A="N">né</s><w id="929" Σ="3"/>
+    <s m="3" wt="" A="Ø">ým</s><s m="3" wt="">iss</s><s m="2" wt="l">um</s><w id="930" Σ="1"/>
+    <s m="2" wt="l" A="B">bjó</s><w id="931" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="932" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="933" Σ="2"/>
+    <s m="3" wt="" A="H">hverf</s><s m="2" wt="l">an</s><w id="934" Σ="1"/>
+    <s m="2" wt="l" A="H">hug</s><w id="935" Σ="1"/>
+    <s m="2" wt="l" A="M">men</s><w id="936" Σ="2"/>
+    <s m="3" wt="" A="S">Skög</s><s m="2" wt="l">ul</s><lb n="70;10"/>
+    <w id="937" Σ="1"/>
+    <s m="4" wt="h" A="Ø">allt</s><w id="938" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="939" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þat</s><w id="940" Σ="2"/>
+    <s m="3" wt="" A="Ø">Atl</s><s m="1" wt="l">i</s><w id="941" Σ="2"/>
+    <s m="3" wt="" A="Ø">eft</s><s m="2" wt="l">ir</s><w id="942" Σ="2"/>
+    <s m="3" wt="" A="F">finn</s><s m="1" wt="l">a</s><w id="943" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="944" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><w id="945" Σ="2"/>
+    <s m="3" wt="" A="M">mín</s><s m="1" wt="l">a</s><w id="946" Σ="1"/>
+    <s m="3" wt="h" A="SP">spyrr</s><w id="947" Σ="2"/>
+    <s m="4" wt="" A="M">morðf</s><s m="3" wt="h">ör</s><w id="948" Σ="2"/>
+    <s m="4" wt="" A="G">görv</s><s m="1" wt="l">a</s><lb n="70;11"/>
+    <w id="949" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="950" Σ="2"/>
+    <s m="2" wt="" A="Þ">þeyg</s><s m="1" wt="l">i</s><w id="951" Σ="1"/>
+    <s m="2" wt="l" A="S">skal</s><w id="952" Σ="2"/>
+    <s m="4" wt="" A="Þ">þunng</s><s m="2" wt="l">eð</s><w id="953" Σ="2"/>
+    <s m="2" wt="" A="K">kon</s><s m="1" wt="l">a</s><w id="954" Σ="3"/>
+    <s m="3" wt="" A="Ø">ann</s><s m="3" wt="">arr</s><s m="2" wt="l">ar</s><w id="955" Σ="1"/>
+    <s m="2" wt="l" A="V">ver</s><w id="956" Σ="2"/>
+    <s m="4" wt="" A="Ø">aldr</s><s m="1" wt="l">i</s><w id="957" Σ="2"/>
+    <s m="2" wt="" A="L">leið</s><s m="1" wt="l">a</s><w id="958" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="959" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="960" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><lb n="70;12" after="2"/>
+    <w id="961" Σ="2"/>
+    <s m="4" wt="" A="H">hefnd</s><s m="2" wt="l">um</s><w id="962" Σ="2"/>
+    <s m="3" wt="" A="H">harm</s><s m="1" wt="l">a</s><w id="963" Σ="2"/>
+    <s m="3" wt="" A="M">minn</s><s m="1" wt="l">a</s><w id="964" Σ="1"/>
+    <s m="3" wt="h" A="Ø">Upp</s><w id="965" Σ="1"/>
+    <s m="2" wt="l" A="R">reis</s><w id="966" Σ="2"/>
+    <s m="3" wt="" A="G">Gunn</s><s m="3" wt="h">arr</s><w id="967" Σ="1"/>
+    <s m="3" wt="h" A="G">gramr</s><w id="968" Σ="3"/>
+    <s m="3" wt="" A="V">verð</s><s m="3" wt="">ung</s><s m="2" wt="l">ar</s><w id="969" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="970" Σ="1"/>
+    <s m="2" wt="l" A="Ø">um</s><w id="971" Σ="1"/>
+    <s m="3" wt="h" A="H">hals</s><lb n="70;13" after="2"/>
+    <w id="972" Σ="2"/>
+    <s m="2" wt="" A="K">kon</s><s m="1" wt="l">u</s><w id="973" Σ="1"/>
+    <s m="4" wt="h" A="H">hendr</s><w id="974" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="975" Σ="2"/>
+    <s m="3" wt="" A="L">lagð</s><s m="1" wt="l">i</s><w id="976" Σ="2"/>
+    <s m="3" wt="" A="G">geng</s><s m="1" wt="l">u</s><w id="977" Σ="2"/>
+    <s m="3" wt="" A="Ø">all</s><s m="2" wt="l">ir</s><w id="978" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="979" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þó</s><w id="980" Σ="3"/>
+    <s m="3" wt="" A="Ø">ým</s><s m="3" wt="">iss</s><s m="2" wt="l">ir</s><w id="981" Σ="1"/>
+    <s m="2" wt="l" A="Ø">af</s><w id="982" Σ="2"/>
+    <s m="2" wt="" A="H">heil</s><s m="2" wt="l">um</s><w id="983" Σ="1"/>
+    <s m="2" wt="l" A="H">hug</s><w id="984" Σ="2"/>
+    <s m="2" wt="" A="H">han</s><s m="1" wt="l">a</s><lb n="70;14"/>
+    <w id="985" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="986" Σ="2"/>
+    <s m="3" wt="" A="L">letj</s><s m="1" wt="l">a</s><w id="987" Σ="1"/>
+    <s m="3" wt="h" A="H">Hratt</s><w id="988" Σ="1"/>
+    <s m="2" wt="l" A="Ø">af</s><w id="989" Σ="2"/>
+    <s m="3" wt="" A="H">hals</s><s m="1" wt="l">i</s><w id="990" Σ="1"/>
+    <s m="2" wt="l" A="H">hveim</s><w id="991" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þar</s><w id="992" Σ="1"/>
+    <s m="3" wt="h" A="S">sér</s><w id="993" Σ="1"/>
+    <s m="3" wt="h" A="L">lét</s><w id="994" Σ="1"/>
+    <s m="1" wt="l" A="Ø">a</s><w id="995" Σ="1"/>
+    <s m="3" wt="h" A="M">mann</s><w id="996" Σ="1"/>
+    <s m="2" wt="l" A="S">sik</s><w id="997" Σ="2"/>
+    <s m="3" wt="" A="L">letj</s><s m="1" wt="l">a</s><lb n="70;15" after="3"/>
+    <w id="998" Σ="2"/>
+    <s m="4" wt="" A="L">langr</s><s m="2" wt="l">ar</s><w id="999" Σ="2"/>
+    <s m="4" wt="" A="G">göng</s><s m="1" wt="l">u</s><w id="1000" Σ="1"/>
+    <s m="2" wt="l" A="N">Nam</s><w id="1001" Σ="1"/>
+    <s m="3" wt="h" A="H">hann</s><w id="1002" Σ="1"/>
+    <s m="3" wt="h" A="S">sér</s><w id="1003" Σ="2"/>
+    <s m="4" wt="" A="H">Högn</s><s m="1" wt="l">a</s><w id="1004" Σ="2"/>
+    <s m="3" wt="" A="H">hvetj</s><s m="1" wt="l">a</s><w id="1005" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1006" Σ="2"/>
+    <s m="3" wt="" A="R">rún</s><s m="2" wt="l">um</s><w id="1007" Σ="2"/>
+    <s m="3" wt="" A="S">Segg</s><s m="1" wt="l">i</s><w id="1008" Σ="1"/>
+    <s m="2" wt="l" A="V">vil</s><w id="1009" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="1010" Σ="2"/>
+    <s m="3" wt="" A="Ø">all</s><s m="1" wt="l">a</s><lb n="70;16"/>
+    <w id="1011" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="1012" Σ="1"/>
+    <s m="2" wt="l" A="S">sal</s><w id="1013" Σ="2"/>
+    <s m="3" wt="" A="G">gang</s><s m="1" wt="l">a</s><w id="1014" Σ="2"/>
+    <s m="3" wt="" A="Þ">þín</s><s m="1" wt="l">a</s><w id="1015" Σ="1"/>
+    <s m="2" wt="l" A="M">með</s><w id="1016" Σ="2"/>
+    <s m="3" wt="" A="M">mín</s><s m="2" wt="l">um</s><w id="1017" Σ="1"/>
+    <s m="2" wt="l" A="N">nú</s><w id="1018" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="1019" Σ="1"/>
+    <s m="4" wt="h" A="Þ">þörf</s><w id="1020" Σ="2"/>
+    <s m="2" wt="" A="M">mik</s><s m="2" wt="l">il</s><w id="1021" Σ="2"/>
+    <s m="2" wt="" A="V">vit</s><s m="1" wt="l">a</s><w id="1022" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ef</s><w id="1023" Σ="2"/>
+    <s m="2" wt="" A="M">mein</s><s m="1" wt="l">i</s><lb n="70;17"/>
+    <w id="1024" Σ="2"/>
+    <s m="4" wt="" A="M">morðf</s><s m="3" wt="h">ör</s><w id="1025" Σ="2"/>
+    <s m="2" wt="" A="K">kon</s><s m="1" wt="l">u</s><w id="1026" Σ="1"/>
+    <s m="3" wt="h" A="Ø">unz</s><w id="1027" Σ="1"/>
+    <s m="2" wt="l" A="Ø">af</s><w id="1028" Σ="2"/>
+    <s m="3" wt="" A="M">mél</s><s m="1" wt="l">i</s><w id="1029" Σ="1"/>
+    <s m="3" wt="h" A="Ø">enn</s><w id="1030" Σ="1"/>
+    <s m="2" wt="l" A="M">mein</s><w id="1031" Σ="2"/>
+    <s m="2" wt="" A="K">kom</s><s m="1" wt="l">i</s><w id="1032" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="1033" Σ="2"/>
+    <s m="3" wt="" A="L">lát</s><s m="2" wt="l">um</s><w id="1034" Σ="1"/>
+    <s m="2" wt="l" A="Þ">því</s><lb n="70;18"/>
+    <w id="1035" Σ="2"/>
+    <s m="3" wt="" A="Þ">þarf</s><s m="2" wt="l">ar</s><w id="1036" Σ="2"/>
+    <s m="3" wt="" A="R">ráð</s><s m="1" wt="l">a</s><w id="1037" Σ="2"/>
+    <s m="2" wt="" A="Ø">Ein</s><s m="1" wt="l">u</s><w id="1038" Σ="1"/>
+    <s m="2" wt="l" A="Þ">því</s><w id="1039" Σ="2"/>
+    <s m="4" wt="" A="H">Högn</s><s m="1" wt="l">i</s><w id="1040" Σ="2"/>
+    <s m="5" wt="" A="Ø">andsv</s><s m="3" wt="h">ör</s><w id="1041" Σ="2"/>
+    <s m="3" wt="" A="V">veitt</s><s m="1" wt="l">i</s><w id="1042" Σ="2"/>
+    <s m="2" wt="" A="L">Let</s><s m="1" wt="l">i</s><w id="1043" Σ="1"/>
+    <s m="1" wt="l" A="Ø">a</s><w expands="ψ" id="1044" Σ="1"/>
+    <s m="3" wt="h" A="M">maðr</s><w id="1045" Σ="2"/>
+    <s m="2" wt="" A="H">han</s><s m="1" wt="l">a</s><lb n="70;19"/>
+    <w id="1046" Σ="2"/>
+    <s m="4" wt="" A="L">langr</s><s m="2" wt="l">ar</s><w id="1047" Σ="2"/>
+    <s m="4" wt="" A="G">göng</s><s m="1" wt="l">u</s><w id="1048" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þars</s><w id="1049" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="1050" Σ="3"/>
+    <s m="5" wt="" A="Ø">aftrb</s><s m="2" wt="">or</s><s m="2" wt="l">in</s><w id="1051" Σ="2"/>
+    <s m="4" wt="" A="Ø">aldr</s><s m="1" wt="l">i</s><w id="1052" Σ="2"/>
+    <s m="3" wt="" A="V">verð</s><s m="1" wt="l">i</s><w id="1053" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="1054" Σ="1"/>
+    <s m="4" wt="h" A="K">kröng</s><w id="1055" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="1056" Σ="1"/>
+    <s m="4" wt="h" A="K">komsk</s><lb n="70;20"/>
+    <w id="1057" Σ="1"/>
+    <s m="2" wt="l" A="F">fyr</s><w id="1058" Σ="1"/>
+    <s m="2" wt="l" A="K">kné</s><w id="1059" Σ="2"/>
+    <s m="3" wt="" A="M">móð</s><s m="2" wt="l">ur</s><w id="1060" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="1061" Σ="1"/>
+    <s m="1" wt="l" A="Ø">æ</s><w id="1062" Σ="2"/>
+    <s m="2" wt="" A="B">bor</s><s m="2" wt="l">in</s><w id="1063" Σ="3"/>
+    <s m="3" wt="" A="Ø">óv</s><s m="3" wt="">ilj</s><s m="1" wt="l">a</s><w id="1064" Σ="1"/>
+    <s m="2" wt="l" A="T">til</s><w id="1065" Σ="2"/>
+    <s m="4" wt="" A="M">mörg</s><s m="2" wt="l">um</s><w id="1066" Σ="2"/>
+    <s m="3" wt="" A="M">mann</s><s m="1" wt="l">i</s><w id="1067" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1068" Σ="3"/>
+    <s m="5" wt="" A="M">móðtr</s><s m="2" wt="">eg</s><s m="1" wt="l">a</s><lb n="70;21"/>
+    <w id="1069" Σ="1"/>
+    <s m="3" wt="h" A="H">Hvarf</s><w id="1070" Σ="1"/>
+    <s m="3" wt="h" A="S">sér</s><w id="1071" Σ="3"/>
+    <s m="4" wt="" A="Ø">óhr</s><s m="3" wt="">óð</s><s m="3" wt="h">ugr</s><w id="1072" Σ="3"/>
+    <s m="5" wt="" A="Ø">andsp</s><s m="3" wt="">ill</s><s m="1" wt="l">i</s><w id="1073" Σ="1"/>
+    <s m="2" wt="l" A="F">frá</s><w id="1074" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þar</s><w id="1075" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="1076" Σ="1"/>
+    <s m="4" wt="h" A="M">mörk</s><w id="1077" Σ="2"/>
+    <s m="3" wt="" A="M">menj</s><s m="1" wt="l">a</s><w id="1078" Σ="2"/>
+    <s m="3" wt="" A="M">meiðm</s><s m="2" wt="l">um</s><lb n="70;22" after="4"/>
+    <w id="1079" Σ="2"/>
+    <s m="3" wt="" A="D">deild</s><s m="1" wt="l">i</s><w id="1080" Σ="1"/>
+    <s m="2" wt="l" A="L">Leit</s><w id="1081" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="1082" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="1083" Σ="2"/>
+    <s m="3" wt="" A="Ø">all</s><s m="1" wt="l">a</s><w id="1084" Σ="2"/>
+    <s m="2" wt="" A="Ø">eig</s><s m="1" wt="l">u</s><w id="1085" Σ="2"/>
+    <s m="3" wt="" A="S">sín</s><s m="1" wt="l">a</s><w id="1086" Σ="2"/>
+    <s m="4" wt="" A="S">soltn</s><s m="2" wt="l">ar</s><w id="1087" Σ="2"/>
+    <s m="3" wt="" A="Þ">þýj</s><s m="2" wt="l">ar</s><w id="1088" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="1089" Σ="3"/>
+    <s m="3" wt="" A="S">salk</s><s m="2" wt="">on</s><s m="2" wt="l">ur</s><w c="1" id="1090" Σ="1"/>
+    <s m="3" wt="h" A="G">gull</s><lb n="70;23"/>
+    <w c="2" id="1091" Σ="2"/>
+    <s m="3" wt="" A="B">brynj</s><s m="1" wt="l">u</s><w id="1092" Σ="1"/>
+    <s m="2" wt="l" A="S">smó</s><w id="1093" Σ="1"/>
+    <s m="2" wt="l" A="V">var</s><w id="1094" Σ="1"/>
+    <s m="1" wt="l" A="Ø">a</s><w id="1095" Σ="1"/>
+    <s m="3" wt="h" A="G">gott</s><w id="1096" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="1097" Σ="1"/>
+    <s m="2" wt="l" A="H">hug</s><w id="1098" Σ="1"/>
+    <s m="4" wt="h" A="Ø">áðr</s><w id="1099" Σ="1"/>
+    <s m="2" wt="l" A="S">sik</s><w id="1100" Σ="3"/>
+    <s m="3" wt="" A="M">miðl</s><s m="2" wt="">að</s><s m="1" wt="l">i</s><w id="1101" Σ="2"/>
+    <s m="2" wt="" A="M">mæk</s><s m="2" wt="l">is</s><w id="1102" Σ="2"/>
+    <s m="4" wt="" A="Ø">eggj</s><s m="2" wt="l">um</s><lb n="70;24"/>
+    <w id="1103" Σ="1"/>
+    <s m="2" wt="l" A="H">Hné</s><w id="1104" Σ="1"/>
+    <s m="2" wt="l" A="V">við</s><w id="1105" Σ="2"/>
+    <s m="6" wt="" A="B">bollstr</s><s m="1" wt="l">i</s><w id="1106" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="1107" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="1108" Σ="2"/>
+    <s m="3" wt="" A="Ø">ann</s><s m="2" wt="l">an</s><w id="1109" Σ="1"/>
+    <s m="2" wt="l" A="V">veg</s><w id="1110" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="1111" Σ="3"/>
+    <s m="3" wt="" A="H">hjör</s><s m="3" wt="">und</s><s m="2" wt="l">uð</s><w id="1112" Σ="2"/>
+    <s m="3" wt="" A="H">hugð</s><s m="1" wt="l">i</s><w id="1113" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1114" Σ="2"/>
+    <s m="3" wt="" A="R">ráð</s><s m="2" wt="l">um</s><lb n="70;25"/>
+    <w id="1115" Σ="1"/>
+    <s m="2" wt="l" A="N">Nú</s><w id="1116" Σ="2"/>
+    <s m="2" wt="" A="S">skul</s><s m="1" wt="l">u</s><w id="1117" Σ="2"/>
+    <s m="3" wt="" A="G">gang</s><s m="1" wt="l">a</s><w id="1118" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þeir</s><w id="1119" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="1120" Σ="1"/>
+    <s m="3" wt="h" A="G">gull</s><w id="1121" Σ="2"/>
+    <s m="2" wt="" A="V">vil</s><s m="1" wt="l">i</s><w id="1122" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="1123" Σ="2"/>
+    <s m="3" wt="" A="M">minn</s><s m="1" wt="l">i</s><w id="1124" Σ="1"/>
+    <s m="2" wt="l" A="Þ">því</s><w id="1125" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1126" Σ="1"/>
+    <s m="3" wt="h" A="M">mér</s><w id="1127" Σ="2"/>
+    <s m="4" wt="" A="Þ">þiggj</s><s m="1" wt="l">a</s><w id="1128" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="1129" Σ="1"/>
+    <s m="2" wt="l" A="G">gef</s><lb n="70;26" after="4"/>
+    <w id="1130" Σ="2"/>
+    <s m="3" wt="" A="H">hverr</s><s m="1" wt="l">i</s><w id="1131" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="1132" Σ="2"/>
+    <s m="3" wt="" A="H">hróð</s><s m="2" wt="l">it</s><w id="1133" Σ="2"/>
+    <s m="3" wt="" A="S">sigl</s><s m="1" wt="l">i</s><w id="1134" Σ="1"/>
+    <s m="3" wt="h" A="B">bók</s><w id="1135" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="1136" Σ="2"/>
+    <s m="2" wt="" A="B">blæj</s><s m="1" wt="l">u</s><w id="1137" Σ="2"/>
+    <s m="3" wt="" A="B">bjart</s><s m="2" wt="l">ar</s><w id="1138" Σ="2"/>
+    <s m="3" wt="" A="V">váð</s><s m="2" wt="l">ir</s><w id="1139" Σ="2"/>
+    <s m="4" wt="" A="Þ">Þögð</s><s m="1" wt="l">u</s><w id="1140" Σ="2"/>
+    <s m="3" wt="" A="Ø">all</s><s m="2" wt="l">ir</s><lb n="70;27"/>
+    <w emends="ingðo" id="1141" Σ="1"/>
+    <s m="2" wt="l" A="V">við</s><w emends="at" id="1142" Σ="1"/>
+    <s m="2" wt="l" A="Þ">því</s><w emends="raðō" id="1143" Σ="2"/>
+    <s m="3" wt="" A="Ø">orð</s><s m="1" wt="l">i</s><w expands="⁊" id="1144" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="1145" Σ="2"/>
+    <s m="3" wt="" A="Ø">all</s><s m="2" wt="l">ir</s><w id="1146" Σ="1"/>
+    <s m="3" wt="h" A="S">senn</s><w id="1147" Σ="2"/>
+    <s m="5" wt="" A="Ø">andsv</s><s m="3" wt="h">ör</s><w id="1148" Σ="2"/>
+    <s m="3" wt="" A="V">veitt</s><s m="1" wt="l">u</s><w id="1149" Σ="2"/>
+    <s m="3" wt="" A="Ø">Ærn</s><s m="2" wt="l">ar</s><w id="1150" Σ="2"/>
+    <s m="4" wt="" A="S">soltn</s><s m="2" wt="l">ar</s><lb n="70;28"/>
+    <w id="1151" Σ="2"/>
+    <s m="2" wt="" A="M">mun</s><s m="2" wt="l">um</s><w id="1152" Σ="1"/>
+    <s m="3" wt="h" A="Ø">enn</s><w id="1153" Σ="2"/>
+    <s m="2" wt="" A="L">lif</s><s m="1" wt="l">a</s><w id="1154" Σ="2"/>
+    <s m="3" wt="" A="V">Verð</s><s m="1" wt="l">a</s><w id="1155" Σ="3"/>
+    <s m="3" wt="" A="S">salk</s><s m="2" wt="">on</s><s m="2" wt="l">ur</s><w id="1156" Σ="1"/>
+    <s m="3" wt="h" A="S">sæmð</s><w id="1157" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1158" Σ="2"/>
+    <s m="3" wt="" A="V">vinn</s><s m="1" wt="l">a</s><w id="1159" Σ="1"/>
+    <s m="3" wt="h" A="Ø">Unz</s><w id="1160" Σ="1"/>
+    <s m="2" wt="l" A="Ø">af</s><lb n="70;29" after="6"/>
+    <w id="1161" Σ="3"/>    
+    <s m="4" wt="" A="H">hyggj</s><s m="3" wt="">and</s><s m="1" wt="l">i</s><w id="1162" Σ="2"/>
+    <s m="6" wt="" A="H">hörskr</s><s m="4" wt="h">ýdd</s><w id="1163" Σ="2"/>
+    <s m="2" wt="" A="K">kon</s><s m="1" wt="l">a</s><w id="1164" Σ="1"/>
+    <s m="3" wt="h" A="Ø">ung</s><w id="1165" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1166" Σ="2"/>
+    <s m="4" wt="" A="Ø">aldr</s><s m="1" wt="l">i</s><w id="1167" Σ="1"/>
+    <s m="3" wt="h" A="Ø">orð</s><w id="1168" Σ="1"/>
+    <s m="3" wt="h" A="V">viðr</s><w id="1169" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="1170" Σ="1"/>
+    <s m="2" wt="l" A="K">kvað</s><w id="1171" Σ="1"/>
+    <s m="3" wt="h" A="V">Vilk</s><w id="1172" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1173" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><lb n="70;30"/>
+    <w id="1174" Σ="1"/>
+    <s m="3" wt="h" A="M">mann</s><w id="1175" Σ="2"/>
+    <s m="2" wt="" A="T">trauð</s><s m="2" wt="l">an</s><w id="1176" Σ="1"/>
+    <s m="2" wt="l" A="N">né</s><w id="1177" Σ="3"/>
+    <s m="3" wt="" A="T">torb</s><s m="2" wt="">æn</s><s m="2" wt="l">an</s><w id="1178" Σ="1"/>
+    <s m="2" wt="l" A="Ø">um</s><w id="1179" Σ="2"/>
+    <s m="3" wt="" A="Ø">ór</s><s m="1" wt="l">a</s><w id="1180" Σ="1"/>
+    <s m="3" wt="h" A="S">sök</s><w id="1181" Σ="2"/>
+    <s m="4" wt="" A="Ø">aldr</s><s m="1" wt="l">i</s><w id="1182" Σ="2"/>
+    <s m="3" wt="" A="T">týn</s><s m="1" wt="l">a</s><w id="1183" Σ="1"/>
+    <s m="2" wt="l" A="Þ">Þó</s><w id="1184" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1185" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><lb n="70;31"/>
+    <w id="1186" Σ="2"/>
+    <s m="2" wt="" A="B">bein</s><s m="2" wt="l">um</s><w id="1187" Σ="2"/>
+    <s m="3" wt="" A="B">brenn</s><s m="1" wt="l">a</s><w id="1188" Σ="2"/>
+    <s m="3" wt="" A="Ø">yðr</s><s m="2" wt="l">um</s><w id="1189" Σ="2"/>
+    <s m="2" wt="" A="F">fær</s><s m="1" wt="l">i</s><w id="1190" Σ="2"/>
+    <s m="2" wt="" A="Ø">eyr</s><s m="2" wt="l">ir</s><w id="1191" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="1192" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="1193" Σ="1"/>
+    <s m="3" wt="h" A="Ø">ér</s><w id="1194" Σ="1"/>
+    <s m="2" wt="l" A="F">fram</s><w id="1195" Σ="2"/>
+    <s m="2" wt="" A="K">kom</s><s m="2" wt="l">ið</s><w id="1196" Σ="1"/>
+    <s m="3" wt="h" A="N">neitt</s><w id="1197" Σ="2"/>
+    <s m="3" wt="" A="M">Menj</s><s m="1" wt="l">u</s><lb n="70;32"/>
+    <w id="1198" Σ="1"/>
+    <s m="3" wt="h" A="G">góð</s><w id="1199" Σ="1"/>
+    <s m="3" wt="h" A="M">mín</s><w id="1200" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1201" Σ="2"/>
+    <s m="3" wt="" A="V">vitj</s><s m="1" wt="l">a</s><w id="1202" Σ="2"/>
+    <s m="4" wt="" A="S">Sezkt</s><s m="1" wt="l">u</s><w id="1203" Σ="1"/>
+    <s m="3" wt="h" A="N">niðr</s><w id="1204" Σ="2"/>
+    <s m="3" wt="" A="G">Gunn</s><s m="3" wt="h">arr</s><w id="1205" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1206" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="1207" Σ="2"/>
+    <s m="3" wt="" A="S">segj</s><s m="1" wt="l">a</s><w id="1208" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þér</s><w id="1209" Σ="1"/>
+    <s m="4" wt="h" A="L">lífs</s><lb n="70;33" after="2"/>
+    <w id="1210" Σ="3"/>
+    <s m="4" wt="" A="Ø">örv</s><s m="2" wt="">æn</s><s m="1" wt="l">a</s><w id="1211" Σ="2"/>
+    <s m="3" wt="" A="L">ljós</s><s m="1" wt="l">a</s><w id="1212" Σ="2"/>
+    <s m="3" wt="" A="B">brúð</s><s m="1" wt="l">i</s><w id="1213" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1214" Σ="1"/>
+    <s m="1" wt="l" A="Ø">a</s><w id="1215" Σ="2"/>
+    <s m="3" wt="" A="Ø">yðv</s><s m="3" wt="h">art</s><w id="1216" Σ="1"/>
+    <s m="2" wt="l" A="F">far</s><w id="1217" Σ="1"/>
+    <s m="4" wt="h" A="Ø">allt</s><w id="1218" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="1219" Σ="2"/>
+    <s m="3" wt="" A="S">sund</s><s m="1" wt="l">i</s><w id="1220" Σ="1"/>
+    <s m="4" wt="h" A="Þ">þótt</s><w id="1221" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="1222" Σ="2"/>
+    <s m="2" wt="" A="H">haf</s><s m="1" wt="l">a</s><lb n="70;34"/>
+    <w id="1223" Σ="2"/>
+    <s m="4" wt="" A="Ø">önd</s><s m="1" wt="l">u</s><w id="1224" Σ="2"/>
+    <s m="3" wt="" A="L">lát</s><s m="2" wt="l">it</s><w id="1225" Σ="1"/>
+    <s m="4" wt="h" A="S">Sátt</s><w id="1226" Σ="2"/>
+    <s m="2" wt="" A="M">mun</s><s m="2" wt="l">uð</s><w id="1227" Σ="1"/>
+    <s m="2" wt="l" A="Ø">it</s><w id="1228" Σ="2"/>
+    <s m="3" wt="" A="G">Guðr</s><s m="3" wt="h">ún</s><w id="1229" Σ="1"/>
+    <s m="3" wt="h" A="S">snemr</s><w id="1230" Σ="1"/>
+    <s m="2" wt="l" A="Ø">en</s><w id="1231" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þú</s><w id="1232" Σ="2"/>
+    <s m="3" wt="" A="H">hygg</s><s m="2" wt="l">ir</s><w id="1233" Σ="2"/>
+    <s m="2" wt="" A="H">hef</s><s m="2" wt="l">ir</s><lb n="70;35"/>
+    <w id="1234" Σ="1"/>
+    <s m="3" wt="h" A="K">kunn</s><w id="1235" Σ="2"/>
+    <s m="2" wt="" A="K">kon</s><s m="1" wt="l">a</s><w id="1236" Σ="1"/>
+    <s m="2" wt="l" A="V">við</s><w id="1237" Σ="3"/>
+    <s m="2" wt="" A="K">kon</s><s m="3" wt="">ung</s><s m="1" wt="l">i</s><w id="1238" Σ="2"/>
+    <s m="3" wt="" A="D">dapr</s><s m="2" wt="l">ar</s><w id="1239" Σ="2"/>
+    <s m="3" wt="" A="M">minj</s><s m="2" wt="l">ar</s><w id="1240" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1241" Σ="2"/>
+    <s m="2" wt="" A="D">dauð</s><s m="2" wt="l">an</s><w id="1242" Σ="1"/>
+    <s m="2" wt="l" A="V">ver</s><w id="1243" Σ="1"/>
+    <s m="2" wt="l" A="Þ">Þar</s><lb n="70;36"/>
+    <w id="1244" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="1245" Σ="1"/>
+    <s m="2" wt="l" A="M">mær</s><w id="1246" Σ="2"/>
+    <s m="2" wt="" A="B">bor</s><s m="2" wt="l">in</s><w id="1247" Σ="2"/>
+    <s m="3" wt="" A="M">móð</s><s m="2" wt="l">ir</s><w id="1248" Σ="2"/>
+    <s m="2" wt="" A="F">fæð</s><s m="2" wt="l">ir</s><w id="1249" Σ="1"/>
+    <s m="2" wt="l" A="S">sú</s><w id="1250" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1251" Σ="3"/>
+    <s m="3" wt="" A="H">hvít</s><s m="2" wt="">ar</s><s m="1" wt="l">i</s><w id="1252" Σ="1"/>
+    <s m="2" wt="l" A="Ø">en</s><w id="1253" Σ="1"/>
+    <s m="3" wt="h" A="Ø">inn</s><w id="1254" Σ="2"/>
+    <s m="2" wt="" A="H">heið</s><s m="1" wt="l">i</s><pb n="71"/> 
+    <lb n="71;1"/>
+    <w id="1255" Σ="1"/>
+    <s m="3" wt="h" A="D">dagr</s><w id="1256" Σ="2"/>
+    <s m="3" wt="" A="S">Svanh</s><s m="4" wt="h">ildr</s><w id="1257" Σ="2"/>
+    <s m="2" wt="" A="V">ver</s><s m="1" wt="l">a</s><w id="1258" Σ="2"/>
+    <s m="3" wt="" A="S">sól</s><s m="2" wt="l">ar</s><w id="1259" Σ="2"/>
+    <s m="3" wt="" A="G">geisl</s><s m="1" wt="l">a</s><w id="1260" Σ="2"/>
+    <s m="2" wt="" A="G">Gef</s><s m="1" wt="l">a</s><w id="1261" Σ="2"/>
+    <s m="3" wt="" A="M">munt</s><s m="1" wt="l">u</s><w id="1262" Σ="3"/>
+    <s m="3" wt="" A="G">Guðr</s><s m="3" wt="">ún</s><s m="1" wt="l">u</s><w id="1263" Σ="2"/>
+    <s m="4" wt="" A="G">góðr</s><s m="1" wt="l">a</s><lb n="71;2" after="5"/>
+    <w id="1264" Σ="3"/>
+    <s m="4" wt="" A="N">nökk</s><s m="2" wt="">ur</s><s m="2" wt="l">um</s><w id="1265" Σ="2"/>
+    <s m="2" wt="" A="S">skeyt</s><s m="1" wt="l">i</s><w id="1266" Σ="2"/>
+    <s m="2" wt="" A="S">skæð</s><s m="1" wt="l">a</s><w id="1267" Σ="2"/>
+    <s m="3" wt="" A="S">skatn</s><s m="1" wt="l">a</s><w id="1268" Σ="2"/>
+    <s m="3" wt="" A="M">meng</s><s m="1" wt="l">i</s><w id="1269" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1270" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1271" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1272" Σ="2"/>
+    <s m="3" wt="" A="V">vilj</s><s m="1" wt="l">a</s><w id="1273" Σ="2"/>
+    <s m="3" wt="" A="V">vers</s><s m="2" wt="l">æl</s><w id="1274" Σ="2"/>
+    <s m="2" wt="" A="G">gef</s><s m="2" wt="l">in</s><w id="1275" Σ="2"/>
+    <s m="2" wt="" A="H">han</s><s m="1" wt="l">a</s><lb n="71;3"/>
+    <w id="1276" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1277" Σ="2"/>
+    <s m="3" wt="" A="Ø">Atl</s><s m="1" wt="l">i</s><w id="1278" Σ="2"/>
+    <s m="2" wt="" A="Ø">eig</s><s m="1" wt="l">a</s><w id="1279" Σ="2"/>
+    <s m="3" wt="" A="G">gang</s><s m="1" wt="l">a</s><w id="1280" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="1281" Σ="2"/>
+    <s m="2" wt="" A="B">bor</s><s m="3" wt="h">inn</s><w id="1282" Σ="2"/>
+    <s m="3" wt="" A="B">Buðl</s><s m="1" wt="l">a</s><w id="1283" Σ="2"/>
+    <s m="3" wt="" A="B">bróð</s><s m="2" wt="l">ir</s><w id="1284" Σ="1"/>
+    <s m="3" wt="h" A="M">minn</s><w id="1285" Σ="1"/>
+    <s m="4" wt="h" A="M">Margs</s><w id="1286" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="1287" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><lb n="71;4" after="4"/>
+    <w id="1288" Σ="2"/>
+    <s m="3" wt="" A="M">minn</s><s m="3" wt="h">ask</s><w id="1289" Σ="1"/>
+    <s m="2" wt="l" A="H">hvé</s><w id="1290" Σ="1"/>
+    <s m="2" wt="l" A="V">við</s><w id="1291" Σ="1"/>
+    <s m="2" wt="l" A="M">mik</s><w id="1292" Σ="2"/>
+    <s m="3" wt="" A="F">fór</s><s m="1" wt="l">u</s><w id="1293" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="1294" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="1295" Σ="1"/>
+    <s m="2" wt="l" A="M">mik</s><w id="1296" Σ="2"/>
+    <s m="3" wt="" A="S">sár</s><s m="1" wt="l">a</s><w id="1297" Σ="2"/>
+    <s m="3" wt="" A="S">svikn</s><s m="1" wt="l">a</s><w id="1298" Σ="2"/>
+    <s m="4" wt="" A="H">höfð</s><s m="2" wt="l">uð</s><w id="1299" Σ="2"/>
+    <s m="2" wt="" A="V">vað</s><s m="2" wt="l">in</s><w id="1300" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><lb n="71;5"/>
+    <w id="1301" Σ="2"/>
+    <s m="3" wt="" A="V">vilj</s><s m="1" wt="l">a</s><w id="1302" Σ="1"/>
+    <s m="3" wt="h" A="V">vark</s><w id="1303" Σ="2"/>
+    <s m="2" wt="" A="M">með</s><s m="2" wt="l">an</s><w id="1304" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="1305" Σ="2"/>
+    <s m="3" wt="" A="L">lifð</s><s m="2" wt="l">ak</s><w id="1306" Σ="2"/>
+    <s m="3" wt="" A="M">Munt</s><s m="1" wt="l">u</s><w id="1307" Σ="3"/>
+    <s m="4" wt="" A="Ø">Oddr</s><s m="3" wt="">ún</s><s m="1" wt="l">u</s><w id="1308" Σ="2"/>
+    <s m="2" wt="" A="Ø">eig</s><s m="1" wt="l">a</s><w id="1309" Σ="2"/>
+    <s m="3" wt="" A="V">vilj</s><s m="1" wt="l">a</s><w id="1310" Σ="1"/>
+    <s m="2" wt="l" A="Ø">en</s><w id="1311" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þik</s><lb n="71;6"/>
+    <w id="1312" Σ="2"/>
+    <s m="3" wt="" A="Ø">atl</s><s m="1" wt="l">i</s><w id="1313" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1314" Σ="2"/>
+    <s m="2" wt="" A="Ø">eig</s><s m="1" wt="l">i</s><w id="1315" Σ="2"/>
+    <s m="3" wt="" A="L">lát</s><s m="1" wt="l">a</s><w id="1316" Σ="1"/>
+    <s m="2" wt="l" A="Ø">it</s><w id="1317" Σ="2"/>
+    <s m="2" wt="" A="M">mun</s><s m="2" wt="l">uð</s><w id="1318" Σ="2"/>
+    <s m="3" wt="" A="L">lút</s><s m="1" wt="l">a</s><w id="1319" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="1320" Σ="1"/>
+    <s m="2" wt="l" A="L">laun</s><w id="1321" Σ="2"/>
+    <s m="2" wt="" A="S">sam</s><s m="2" wt="l">an</s><w id="1322" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="1323" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1324" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þér</s><w id="1325" Σ="2"/>
+    <s m="3" wt="" A="Ø">unn</s><s m="1" wt="l">a</s><lb n="71;7"/>
+    <w id="1326" Σ="1"/>
+    <s m="2" wt="l" A="S">sem</s><w id="1327" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="1328" Σ="2"/>
+    <s m="3" wt="" A="S">skyld</s><s m="2" wt="l">ak</s><w id="1329" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ef</s><w id="1330" Σ="1"/>
+    <s m="4" wt="h" A="Ø">okkr</s><w id="1331" Σ="1"/>
+    <s m="3" wt="h" A="G">góð</s><w id="1332" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="1333" Σ="1"/>
+    <s m="3" wt="h" A="S">sköp</s><w id="1334" Σ="2"/>
+    <s m="3" wt="" A="G">gerð</s><s m="1" wt="l">i</s><w id="1335" Σ="2"/>
+    <s m="3" wt="" A="V">verð</s><s m="1" wt="l">a</s><w id="1336" Σ="1"/>
+    <s m="2" wt="l" A="Þ">Þik</s><w id="1337" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1338" Σ="2"/>
+    <s m="3" wt="" A="Ø">Atl</s><s m="1" wt="l">i</s><w id="1339" Σ="2"/>
+    <s m="3" wt="" A="Ø">ill</s><s m="1" wt="l">u</s><lb n="71;8"/>
+    <w id="1340" Σ="2"/>
+    <s m="2" wt="" A="B">beit</s><s m="1" wt="l">a</s><w id="1341" Σ="2"/>
+    <s m="3" wt="" A="M">munt</s><s m="1" wt="l">u</s><w id="1342" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="1343" Σ="2"/>
+    <s m="4" wt="" A="Ø">öng</s><s m="2" wt="l">an</s><w id="1344" Σ="2"/>
+    <s m="4" wt="" A="Ø">ormg</s><s m="3" wt="h">arð</s><w id="1345" Σ="2"/>
+    <s m="2" wt="" A="L">lag</s><s m="3" wt="h">iðr</s><w id="1346" Σ="1"/>
+    <s m="2" wt="l" A="Þ">Þat</s><w id="1347" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1348" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="1349" Σ="2"/>
+    <s m="3" wt="" A="V">verð</s><s m="1" wt="l">a</s><w id="1350" Σ="2"/>
+    <s m="3" wt="" A="Þ">þvíg</s><s m="2" wt="l">it</s><lb n="71;9" after="3"/>
+    <w id="1351" Σ="2"/>
+    <s m="4" wt="" A="L">lengr</s><s m="1" wt="l">a</s><w id="1352" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1353" Σ="2"/>
+    <s m="3" wt="" A="Ø">atl</s><s m="1" wt="l">i</s><w id="1354" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1355" Σ="2"/>
+    <s m="4" wt="" A="Ø">önd</s><s m="1" wt="l">u</s><w id="1356" Σ="2"/>
+    <s m="3" wt="" A="T">týn</s><s m="1" wt="l">a</s><w id="1357" Σ="2"/>
+    <s m="2" wt="" A="S">sæl</s><s m="1" wt="l">u</s><w id="1358" Σ="2"/>
+    <s m="3" wt="" A="S">sinn</s><s m="1" wt="l">i</s><w id="1359" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="1360" Σ="2"/>
+    <s m="2" wt="" A="S">son</s><s m="1" wt="l">a</s><w id="1361" Σ="2"/>
+    <s m="3" wt="" A="L">líf</s><s m="1" wt="l">i</s><w id="1362" Σ="1"/>
+    <s m="2" wt="l" A="Þ">því</s><w id="1363" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1364" Σ="2"/>
+    <s m="3" wt="" A="H">hán</s><s m="2" wt="l">um</s><w id="1365" Σ="2"/>
+    <s m="3" wt="" A="G">Guðr</s><s m="3" wt="h">ún</s><lb n="71;10"/>
+    <w id="1366" Σ="2"/>
+    <s m="3" wt="" A="G">grým</s><s m="2" wt="l">ir</s><w id="1367" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="1368" Σ="1"/>
+    <s m="2" wt="l" A="B">beð</s><w id="1369" Σ="2"/>
+    <s m="4" wt="" A="S">snörp</s><s m="2" wt="l">um</s><w id="1370" Σ="2"/>
+    <s m="4" wt="" A="Ø">eggj</s><s m="2" wt="l">um</s><w id="1371" Σ="1"/>
+    <s m="2" wt="l" A="Ø">af</s><w id="1372" Σ="2"/>
+    <s m="3" wt="" A="S">sár</s><s m="2" wt="l">um</s><w id="1373" Σ="1"/>
+    <s m="2" wt="l" A="H">hug</s><w id="1374" Σ="2"/>
+    <s m="3" wt="" A="S">Sæmr</s><s m="1" wt="l">i</s><w id="1375" Σ="2"/>
+    <s m="2" wt="" A="V">vær</s><s m="1" wt="l">i</s><w id="1376" Σ="2"/>
+    <s m="3" wt="" A="G">Guðr</s><s m="3" wt="h">ún</s><w id="1377" Σ="2"/>
+    <s m="3" wt="" A="S">syst</s><s m="2" wt="l">ir</s><lb n="71;11"/>
+    <w id="1378" Σ="2"/>
+    <s m="3" wt="" A="Ø">ykk</s><s m="2" wt="l">ur</s><w id="1379" Σ="2"/>
+    <s m="3" wt="" A="F">frumv</s><s m="2" wt="l">er</s><w id="1380" Σ="2"/>
+    <s m="3" wt="" A="S">sín</s><s m="2" wt="l">um</s><w id="1381" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1382" Σ="2"/>
+    <s m="4" wt="" A="F">fylgj</s><s m="1" wt="l">a</s><w id="1383" Σ="2"/>
+    <s m="2" wt="" A="D">dauð</s><s m="2" wt="l">um</s><w id="1384" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ef</s><w id="1385" Σ="2"/>
+    <s m="3" wt="" A="H">henn</s><s m="1" wt="l">i</s><w id="1386" Σ="2"/>
+    <s m="2" wt="" A="G">gæf</s><s m="1" wt="l">i</s><w id="1387" Σ="2"/>
+    <s m="4" wt="" A="G">góðr</s><s m="1" wt="l">a</s><w id="1388" Σ="2"/>
+    <s m="3" wt="" A="R">ráð</s><s m="1" wt="l">a</s><w id="1389" Σ="2"/>
+    <s m="2" wt="" A="Ø">eð</s><s m="1" wt="l">a</s><w id="1390" Σ="2"/>
+    <s m="3" wt="" A="Ø">ætt</s><s m="1" wt="l">i</s><w id="1391" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="1392" Σ="1"/>
+    <s m="2" wt="l" A="H">hug</s><lb n="71;12" after="3"/>
+    <w id="1393" Σ="2"/>
+    <s m="3" wt="" A="Ø">oss</s><s m="2" wt="l">um</s><w id="1394" Σ="2"/>
+    <s m="3" wt="" A="L">lík</s><s m="2" wt="l">an</s><w id="1395" Σ="1"/>
+    <s m="2" wt="l" A="R">rt</s><w id="1396" Σ="2"/>
+    <s m="2" wt="" A="M">mæl</s><s m="1" wt="l">i</s><w id="1397" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="1398" Σ="1"/>
+    <s m="2" wt="l" A="N">nú</s><w id="1399" Σ="1"/>
+    <s m="2" wt="l" A="Ø">en</s><w id="1400" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="1401" Σ="2"/>
+    <s m="2" wt="" A="Ø">eig</s><s m="1" wt="l">i</s><w id="1402" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1403" Σ="1"/>
+    <s m="2" wt="l" A="Ø">of</s><w id="1404" Σ="2"/>
+    <s m="3" wt="" A="Ø">ór</s><s m="1" wt="l">a</s><w id="1405" Σ="1"/>
+    <s m="3" wt="h" A="S">sök</s><w id="1406" Σ="2"/>
+    <s m="4" wt="" A="Ø">aldr</s><s m="1" wt="l">i</s><w id="1407" Σ="2"/>
+    <s m="3" wt="" A="T">týn</s><s m="1" wt="l">a</s><lb n="71;13"/>
+    <w id="1408" Σ="2"/>
+    <s m="2" wt="" A="H">han</s><s m="1" wt="l">a</s><w id="1409" Σ="2"/>
+    <s m="2" wt="" A="M">mun</s><s m="1" wt="l">u</s><w id="1410" Σ="2"/>
+    <s m="3" wt="" A="H">hefj</s><s m="1" wt="l">a</s><w id="1411" Σ="2"/>
+    <s m="3" wt="" A="H">háv</s><s m="2" wt="l">ar</s><w id="1412" Σ="2"/>
+    <s m="3" wt="" A="B">bár</s><s m="2" wt="l">ur</s><w id="1413" Σ="1"/>
+    <s m="2" wt="l" A="T">til</s><w id="1414" Σ="2"/>
+    <s m="3" wt="" A="J">jón</s><s m="4" wt="h">akrs</s><w id="1415" Σ="4"/>
+  <s m="3" wt="" A="Ø">óð</s><s m="3" wt="">alt</s><s m="3" wt="">orf</s><s m="1" wt="l">u</s><!--  <w>Ala</w> Manuscript is a mess here
+    <w>mun</w>
+    <w>hún</w>
+    <w>sér</w>
+    <w>jóð</w>
+    <w>erfivörðu</w>-->
+    <lb n="71;14" after="6"/>
+    <w id="1416" Σ="4"/>
+    <s m="3" wt="" A="Ø">erf</s><s m="2" wt="">iv</s><s m="4" wt="">örð</s><s m="1" wt="l">u</s><w id="1417" Σ="2"/>
+    <s m="3" wt="" A="J">Jón</s><s m="4" wt="h">akrs</s><w id="1418" Σ="2"/>
+    <s m="2" wt="" A="S">son</s><s m="2" wt="l">um</s><w id="1419" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1420" Σ="1"/>
+    <s m="2" wt="l" A="H">hon</s><w id="1421" Σ="3"/>
+    <s m="3" wt="" A="S">Svanh</s><s m="3" wt="">ild</s><s m="1" wt="l">i</s><w id="1422" Σ="2"/>
+    <s m="3" wt="" A="S">send</s><s m="1" wt="l">a</s><w id="1423" Σ="1"/>
+    <s m="2" wt="l" A="Ø">af</s><w id="1424" Σ="2"/>
+    <s m="3" wt="" A="L">land</s><s m="1" wt="l">i</s><w id="1425" Σ="2"/>
+    <s m="3" wt="" A="S">sín</s><s m="1" wt="l">a</s><w id="1426" Σ="1"/>
+    <s m="1" wt="l" A="M">mey</s><lb n="71;15"/>
+    <w id="1427" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="1428" Σ="3"/>
+    <s m="2" wt="" A="S">Sig</s><s m="3" wt="">urð</s><s m="2" wt="l">ar</s><w id="1429" Σ="2"/>
+    <s m="2" wt="" A="H">Han</s><s m="1" wt="l">a</s><w id="1430" Σ="2"/>
+    <s m="2" wt="" A="M">mun</s><s m="1" wt="l">u</s><w id="1431" Σ="2"/>
+    <s m="3" wt="" A="B">bít</s><s m="1" wt="l">a</s><w id="1432" Σ="2"/>
+    <s m="3" wt="" A="B">Bikk</s><s m="1" wt="l">a</s><w id="1433" Σ="1"/>
+    <s m="3" wt="h" A="R">ráð</s><w id="1434" Σ="1"/>
+    <s m="2" wt="l" A="Þ">því</s><w id="1435" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w c="1" id="1436" Σ="2"/>
+    <s m="4" wt="" A="J">jörm</s><s m="2" wt="l">un</s><w c="2" id="1437" Σ="1"/>
+    <s m="4" wt="h" A="R">rekkr</s><w id="1438" Σ="2"/>
+    <s m="3" wt="" A="Ø">óþ</s><s m="4" wt="h">arft</s><w id="1439" Σ="2"/>
+    <s m="2" wt="" A="L">lif</s><s m="2" wt="l">ir</s><lb n="71;16"/>
+    <w id="1440" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="1441" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="1442" Σ="1"/>
+    <s m="4" wt="h" A="Ø">öll</s><w id="1443" Σ="2"/>
+    <s m="2" wt="" A="F">far</s><s m="2" wt="l">in</s><w id="1444" Σ="1"/>
+    <s m="3" wt="h" A="Ø">ætt</s><w id="1445" Σ="3"/>
+    <s m="2" wt="" A="S">Sig</s><s m="3" wt="">urð</s><s m="2" wt="l">ar</s><w id="1446" Σ="2"/>
+    <s m="2" wt="" A="Ø">er</s><s m="1" wt="l">u</s><w id="1447" Σ="3"/>
+    <s m="3" wt="" A="G">Guðr</s><s m="3" wt="">ún</s><s m="2" wt="l">ar</s><w id="1448" Σ="2"/>
+    <s m="2" wt="" A="G">græt</s><s m="1" wt="l">i</s><w id="1449" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1450" Σ="2"/>
+    <s m="2" wt="" A="F">fleir</s><s m="1" wt="l">i</s><w id="1451" Σ="2"/>
+    <s m="3" wt="" A="B">Biðj</s><s m="1" wt="l">a</s><lb n="71;17"/>
+    <w id="1452" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1453" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="1454" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þik</s><w id="1455" Σ="2"/>
+    <s m="2" wt="" A="B">bæn</s><s m="2" wt="l">ar</s><w id="1456" Σ="2"/>
+    <s m="3" wt="" A="Ø">einn</s><s m="2" wt="l">ar</s><w id="1457" Σ="1"/>
+    <s m="2" wt="l" A="S">sú</s><w id="1458" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1459" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="1460" Σ="2"/>
+    <s m="2" wt="" A="H">heim</s><s m="1" wt="l">i</s><w id="1461" Σ="1"/>
+    <s m="4" wt="h" A="H">hinzt</s><w id="1462" Σ="1"/>
+    <s m="2" wt="l" A="B">bæn</s><w id="1463" Σ="2"/>
+    <s m="2" wt="" A="V">ver</s><s m="1" wt="l">a</s><w id="1464" Σ="2"/>
+    <s m="4" wt="" A="L">Látt</s><s m="1" wt="l">u</s><w id="1465" Σ="1"/>
+    <s m="2" wt="l" A="S">svá</s><lb n="71;18" after="2"/>
+    <w id="1466" Σ="2"/>
+    <s m="2" wt="" A="B">breið</s><s m="1" wt="l">a</s><w id="1467" Σ="1"/>
+    <s m="3" wt="h" A="B">borg</s><w id="1468" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="1469" Σ="2"/>
+    <s m="3" wt="" A="V">vell</s><s m="1" wt="l">i</s><w id="1470" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1471" Σ="2"/>
+    <s m="3" wt="" A="Ø">und</s><s m="2" wt="l">ir</s><w id="1472" Σ="1"/>
+    <s m="3" wt="h" A="Ø">oss</s><w id="1473" Σ="2"/>
+    <s m="4" wt="" A="Ø">öll</s><s m="2" wt="l">um</s><w id="1474" Σ="2"/>
+    <s m="4" wt="" A="J">jafnr</s><s m="4" wt="h">úmt</s><w id="1475" Σ="1"/>
+    <s m="2" wt="l" A="S">séi</s><w id="1476" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þeim</s><w id="1477" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="1478" Σ="2"/>
+    <s m="3" wt="" A="S">sult</s><s m="1" wt="l">u</s><w id="1479" Σ="1"/>
+    <s m="2" wt="l" A="M">með</s><lb n="71;19"/>
+    <w id="1480" Σ="3"/>
+    <s m="2" wt="" A="S">Sig</s><s m="3" wt="">urð</s><s m="1" wt="l">i</s><w id="1481" Σ="2"/>
+    <s m="3" wt="" A="T">Tjald</s><s m="1" wt="l">i</s><w id="1482" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þar</s><w id="1483" Σ="1"/>
+    <s m="2" wt="l" A="Ø">um</s><w id="1484" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="1485" Σ="1"/>
+    <s m="3" wt="h" A="B">borg</s><w id="1486" Σ="2"/>
+    <s m="4" wt="" A="T">tjöld</s><s m="2" wt="l">um</s><w id="1487" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="1488" Σ="2"/>
+    <s m="4" wt="" A="S">skjöld</s><s m="2" wt="l">um</s><w id="1489" Σ="3"/>
+    <s m="2" wt="" A="V">val</s><s m="2" wt="">ar</s><s m="3" wt="h">ift</s><w id="1490" Σ="1"/>
+    <s m="2" wt="l" A="V">vel</s><w id="1491" Σ="1"/>
+    <s m="3" wt="h" A="F">fáð</s><lb n="71;20"/>
+    <w id="1492" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="1493" Σ="2"/>
+    <s m="2" wt="" A="V">Val</s><s m="1" wt="l">a</s><w id="1494" Σ="2"/>
+    <s m="3" wt="" A="M">meng</s><s m="1" wt="l">i</s><w id="1495" Σ="2"/>
+    <s m="3" wt="" A="B">brenn</s><s m="1" wt="l">i</s><w id="1496" Σ="1"/>
+    <s m="3" wt="h" A="M">mér</s><w id="1497" Σ="1"/>
+    <s m="3" wt="h" A="Ø">inn</s><w id="1498" Σ="2"/>
+    <s m="5" wt="" A="H">húnsk</s><s m="1" wt="l">a</s><w id="1499" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="1500" Σ="1"/>
+    <s m="2" wt="l" A="H">hlið</s><w id="1501" Σ="2"/>
+    <s m="3" wt="" A="Ø">aðr</s><s m="1" wt="l">a</s><w id="1502" Σ="2"/>
+    <s m="3" wt="" A="B">Brenn</s><s m="1" wt="l">i</s><w id="1503" Σ="2"/>
+    <s m="2" wt="" A="Ø">in</s><s m="2" wt="l">um</s><lb n="71;21" after="3"/>
+    <w id="1504" Σ="2"/>
+    <s m="5" wt="" A="H">húnsk</s><s m="1" wt="l">a</s><w id="1505" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><w id="1506" Σ="1"/>
+    <s m="2" wt="l" A="H">hlið</s><w id="1507" Σ="2"/>
+    <s m="3" wt="" A="Ø">aðr</s><s m="1" wt="l">a</s><w id="1508" Σ="2"/>
+    <s m="3" wt="" A="M">mín</s><s m="1" wt="l">a</s><w id="1509" Σ="2"/>
+    <s m="3" wt="" A="Þ">þjón</s><s m="1" wt="l">a</s><w id="1510" Σ="2"/>
+    <s m="3" wt="" A="M">menj</s><s m="2" wt="l">um</s><w id="1511" Σ="2"/>
+<s m="4" wt="" A="G">göfg</s><s m="1" wt="l">a</s><!--    <w expands="&inodot;&inodot;.">tveir</w>
+    <w>at</w>
+    <w>höfðum</w>
+    <w>ok</w>
+    <w expands="&inodot;&inodot;.">tveir</w>-->
+    <lb n="71;22" after="3"/>
+    <w id="1512" Σ="2"/>
+    <s m="2" wt="" A="H">hauk</s><s m="2" wt="l">ar</s><w id="1513" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="1514" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="1515" Σ="2"/>
+    <s m="4" wt="" A="Ø">öll</s><s m="1" wt="l">u</s><w id="1516" Σ="1"/>
+    <s m="3" wt="h" A="S">skipt</s><w id="1517" Σ="1"/>
+    <s m="2" wt="l" A="T">til</s><w id="1518" Σ="3"/>
+    <s m="3" wt="" A="J">jafn</s><s m="2" wt="">að</s><s m="2" wt="l">ar</s><w id="1519" Σ="2"/>
+    <s m="3" wt="" A="L">Ligg</s><s m="1" wt="l">i</s><w id="1520" Σ="2"/>
+    <s m="3" wt="" A="Ø">okk</s><s m="2" wt="l">ar</s><w id="1521" Σ="1"/>
+    <s m="3" wt="h" A="Ø">enn</s><w id="1522" Σ="1"/>
+    <s m="2" wt="l" A="Ø">í</s><w id="1523" Σ="2"/>
+    <s m="3" wt="" A="M">mill</s><s m="1" wt="l">i</s><lb n="71;23" after="3"/>
+    <w id="1524" Σ="1"/>
+    <s m="4" wt="h" A="M">malmr</s><w id="1525" Σ="3"/>
+    <s m="4" wt="" A="H">hringv</s><s m="2" wt="">ar</s><s m="3" wt="h">iðr</s><w id="1526" Σ="2"/>
+    <s m="5" wt="" A="Ø">egghv</s><s m="3" wt="h">ast</s><w id="1527" Σ="1"/>
+    <s m="4" wt="h" A="J">járn</s><w id="1528" Σ="1"/>
+    <s m="2" wt="l" A="S">sem</s><w id="1529" Σ="1"/>
+    <s m="4" wt="h" A="Ø">endr</s><w id="1530" Σ="2"/>
+    <s m="2" wt="" A="L">lag</s><s m="2" wt="l">it</s><w id="1531" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="1532" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="1533" Σ="1"/>
+    <s m="2" wt="l" A="V">vit</s><w id="1534" Σ="2"/>
+    <s m="2" wt="" A="B">bæð</s><s m="1" wt="l">i</s><lb n="71;24"/>
+    <w id="1535" Σ="1"/>
+    <s m="2" wt="l" A="B">beð</s><w id="1536" Σ="1"/>
+    <s m="3" wt="h" A="Ø">einn</s><w id="1537" Σ="2"/>
+    <s m="2" wt="" A="ST">stig</s><s m="2" wt="l">um</s><w id="1538" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="1539" Σ="2"/>
+    <s m="3" wt="" A="H">hét</s><s m="2" wt="l">um</s><w id="1540" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="1541" Σ="2"/>
+    <s m="3" wt="" A="H">hjón</s><s m="1" wt="l">a</s><w id="1542" Σ="2"/>
+    <s m="3" wt="" A="N">nafn</s><s m="1" wt="l">i</s><w id="1543" Σ="2"/>
+    <s m="3" wt="" A="H">Hrynj</s><s m="1" wt="l">a</s><w id="1544" Σ="2"/>
+    <s m="3" wt="" A="H">hán</s><s m="2" wt="l">um</s><w id="1545" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þá</s><w id="1546" Σ="1"/>
+    <s m="2" wt="l" A="Ø">á</s><lb n="71;25"/>
+    <w id="1547" Σ="1"/>
+    <s m="2" wt="l" A="H">hæl</s><w id="1548" Σ="2"/>
+    <s m="2" wt="" A="Þ">þeyg</s><s m="1" wt="l">i</s><w id="1549" Σ="2"/>
+    <s m="5" wt="" A="H">hlunnbl</s><s m="2" wt="l">ik</s><w id="1550" Σ="2"/>
+    <s m="3" wt="" A="H">hall</s><s m="2" wt="l">ar</s><w id="1551" Σ="2"/>
+    <s m="3" wt="" A="H">hring</s><s m="1" wt="l">i</s><w id="1552" Σ="2"/>
+    <s m="3" wt="" A="L">litk</s><s m="2" wt="l">uð</s><w id="1553" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ef</s><w id="1554" Σ="2"/>
+    <s m="3" wt="" A="H">hán</s><s m="2" wt="l">um</s><w id="1555" Σ="2"/>
+    <s m="3" wt="" A="F">fylg</s><s m="2" wt="l">ir</s><w id="1556" Σ="1"/>
+    <s m="3" wt="h" A="F">ferð</s><lb n="71;26"/>
+    <w id="1557" Σ="1"/>
+    <s m="3" wt="h" A="M">mín</s><w id="1558" Σ="2"/>
+    <s m="2" wt="" A="H">heð</s><s m="2" wt="l">an</s><w id="1559" Σ="2"/>
+    <s m="2" wt="" A="Þ">þeyg</s><s m="1" wt="l">i</s><w id="1560" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1561" Σ="1"/>
+    <s m="3" wt="h" A="Ø">ór</s><w id="1562" Σ="1"/>
+    <s m="3" wt="h" A="F">för</s><w id="1563" Σ="2"/>
+    <s m="3" wt="" A="Ø">auml</s><s m="2" wt="l">ig</s><w id="1564" Σ="2"/>
+    <s m="2" wt="" A="V">ver</s><s m="1" wt="l">a</s><w id="1565" Σ="1"/>
+    <s m="2" wt="l" A="Þ">Því</s><w id="1566" Σ="1"/>
+    <s m="2" wt="l" A="Ø">at</s><w id="1567" Σ="2"/>
+    <s m="3" wt="" A="H">hán</s><s m="2" wt="l">um</s><w id="1568" Σ="2"/>
+    <s m="4" wt="" A="F">fylgj</s><s m="1" wt="l">a</s><lb n="71;27"/>
+    <w expands="v." id="1569" Σ="1"/>
+    <s m="3" wt="h" A="F">fimm</s><w id="1570" Σ="3"/>
+    <s m="3" wt="" A="Ø">amb</s><s m="4" wt="">átt</s><s m="2" wt="l">ir</s><w expands="viii." id="1571" Σ="2"/>
+    <s m="4" wt="" A="Ø">átt</s><s m="1" wt="l">a</s><w id="1572" Σ="2"/>
+    <s m="3" wt="" A="Þ">þjón</s><s m="2" wt="l">ar</s><w id="1573" Σ="2"/>
+    <s m="3" wt="" A="Ø">eðl</s><s m="2" wt="l">um</s><w id="1574" Σ="2"/>
+    <s m="3" wt="" A="G">góð</s><s m="2" wt="l">ir</s><w id="1575" Σ="2"/>
+    <s m="6" wt="" A="F">fóstrm</s><s m="2" wt="l">an</s><w id="1576" Σ="1"/>
+    <s m="3" wt="h" A="M">mitt</s><w id="1577" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ok</s><w id="1578" Σ="3"/>
+    <s m="2" wt="" A="F">fað</s><s m="3" wt="">ern</s><s m="1" wt="l">i</s><lb n="71;28"/>
+    <w id="1579" Σ="1"/>
+    <s m="2" wt="l" A="Þ">þat</s><w id="1580" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="1581" Σ="2"/>
+    <s m="3" wt="" A="B">Buðl</s><s m="1" wt="l">i</s><w id="1582" Σ="1"/>
+    <s m="2" wt="l" A="G">gaf</s><w id="1583" Σ="2"/>
+    <s m="3" wt="" A="B">barn</s><s m="1" wt="l">i</s><w id="1584" Σ="2"/>
+    <s m="3" wt="" A="S">sín</s><s m="1" wt="l">u</s><w id="1585" Σ="1"/>
+    <s m="4" wt="h" A="M">Margt</s><w id="1586" Σ="2"/>
+    <s m="3" wt="" A="S">sagð</s><s m="1" wt="l">a</s><w id="1587" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="1588" Σ="2"/>
+    <s m="3" wt="" A="M">mund</s><s m="1" wt="l">a</s><w id="1589" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="1590" Σ="2"/>
+    <s m="2" wt="" A="F">fleir</s><s m="1" wt="l">a</s><lb n="71;29"/>
+    <w id="1591" Σ="1"/>
+    <s m="2" wt="l" A="Ø">er</s><w id="1592" Σ="1"/>
+    <s m="3" wt="h" A="M">mér</s><w id="1593" Σ="1"/>
+    <s m="2" wt="l" A="M">meir</s><w id="1594" Σ="2"/>
+    <s m="3" wt="" A="M">mjöt</s><s m="3" wt="h">uðr</s><w id="1595" Σ="2"/>
+    <s m="4" wt="" A="M">málr</s><s m="3" wt="h">úm</s><w id="1596" Σ="2"/>
+    <s m="2" wt="" A="G">gæf</s><s m="1" wt="l">i</s><w id="1597" Σ="2"/>
+    <s m="3" wt="" A="Ø">óm</s><s m="2" wt="l">um</s><w id="1598" Σ="1"/>
+    <s m="3" wt="h" A="Þ">þverr</s><w id="1599" Σ="2"/>
+    <s m="3" wt="" A="Ø">und</s><s m="2" wt="l">ir</s><lb n="71;30" after="4"/>
+    <w id="1600" Σ="2"/>
+    <s m="3" wt="" A="S">svell</s><s m="1" wt="l">a</s><w id="1601" Σ="1"/>
+    <s m="3" wt="h" A="S">satt</s><w id="1602" Σ="1"/>
+    <s m="3" wt="h" A="Ø">eitt</s><w id="1603" Σ="2"/>
+    <s m="3" wt="" A="S">sagð</s><s m="2" wt="l">ak</s><w id="1604" Σ="1"/>
+    <s m="2" wt="l" A="S">svá</s><w id="1605" Σ="1"/>
+    <s m="2" wt="l" A="M">mun</s><w id="1606" Σ="1"/>
+    <s m="2" wt="l" A="Ø">ek</s><w id="1607" Σ="2"/>
+<s m="3" wt="" A="L">lát</s><s m="1" wt="l">a</s></xml>

@@ -1,0 +1,596 @@
+<xml>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    Old Saxon Genesis &amp; Genesis B
+                </title>
+                <subtitle>
+                    Overlap section
+                </subtitle>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    Manuscript - Pal.lat.1447
+                    Bodleian Library MS. Junius 11
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profDesc>
+            <langUsage> 
+                <language ident="ang" usage="50">Old English</language>
+                <language ident="osx" usage="50">Old Saxon</language>
+            </langUsage>
+        </profDesc>
+    </teiHeader>
+    <lb/>
+    <p>Old Saxon Genesis</p>
+    <p>Manuscript - Pal.lat.1447</p>
+    <pb n="1r"/>
+    <lb n="1r;1"/>
+    <w wc="t" msa="xAV">uuela</w>
+    <w wc="t" msa="x">that</w>
+    <w wc="t" msa="x">thu</w>
+    <w wc="t" msa="x">nu</w>
+    <w wc="s" msa="x">eua</w>
+    <w wc="t" msa="x">habas</w>
+    <w wc="t" msa="xVB fF">quađ</w>
+    <w wc="s" msa="xNP">ađam</w>
+    <w wc="s" msa="xNC">ubilo</w>
+    <w wc="c" msa="xPX" p="1">gi</w>
+    <w wc="t" msa="xVB fF" p="2">marakot</w>
+    <w wc="c" msa="x">unkaro</w>
+    <w wc="s" msa="x">selbaro</w>
+    <w wc="s" msa="x">siđ</w>
+    <w wc="t" msa="x">nu</w>
+    <w wc="t" msa="x">maht</w>
+    <w wc="t" msa="x">thu</w>
+    <w wc="t" msa="x">sean</w>
+    <w wc="t" msa="x">thia</w>
+    <lb n="1r;2"/>
+    <w wc="s" msa="x">suarton</w>
+    <w wc="s" msa="x">hell</w>
+    <w wc="" msa="x">ginon</w>
+    <w wc="" msa="x">gradaga</w>
+    <w wc="" msa="x">nu</w>
+    <w wc="" msa="x">thu</w>
+    <w wc="" msa="x">dia</w>
+    <w wc="" msa="x">grimman</w>
+    <w wc="" msa="x">maht</w>
+    <w wc="" msa="x">hinana</w>
+    <w wc="" msa="x" p="1">gi</w>
+    <w wc="" msa="x" p="2">horean</w>
+    <w wc="" msa="x">nis</w>
+    <w wc="" msa="x" c="1">heƀan</w>
+    <w wc="" msa="x" c="2">riki</w>
+    <w wc="" msa="x" p="1">ge</w>
+    <w wc="" msa="x" p="2">lihc</w>
+    <w wc="" msa="x">sulicaro</w>
+    <w wc="" msa="x">lognun</w>
+    <lb n="1r;3"/>
+    <w wc="" msa="x">thit</w>
+    <w wc="" msa="x">uuas</w>
+    <w wc="" msa="x">alloro</w>
+    <w wc="" msa="x">lando</w>
+    <w wc="" msa="x">sconiust</w>
+    <w wc="" msa="x">that</w>
+    <w wc="" msa="x">uuit</w>
+    <w wc="" msa="x">hier</w>
+    <w wc="" msa="x">thuruh</w>
+    <w wc="" msa="x">unkas</w>
+    <w wc="" msa="x">herran</w>
+    <w wc="" msa="x">thank</w>
+    <w wc="" msa="x">hebbian</w>
+    <w wc="" msa="x">muostun</w>
+    <w wc="" msa="x">thar</w>
+    <w wc="" msa="x">thu</w>
+    <w wc="" msa="x">them</w>
+    <w wc="" msa="x">ni</w>
+    <w wc="" msa="x">hordis</w>
+    <lb n="1r;4"/>
+    <w wc="" msa="x">thie</w>
+    <w wc="" msa="x">unk</w>
+    <w wc="" msa="x">thesan</w>
+    <w wc="" msa="x">haram</w>
+    <w wc="" msa="x" p="1">gi</w>
+    <w wc="" msa="x" p="2">ried</w>
+    <w wc="" msa="x">that</w>
+    <w wc="" msa="x">uuit</w>
+    <w wc="" msa="x">uualdandas</w>
+    <w wc="" msa="x">uuord</w>
+    <w wc="" msa="x">farbrakun</w>
+    <w wc="" msa="x">hebankuningas</w>
+    <w wc="" msa="x">Nu</w>
+    <w wc="" msa="x">uuit</w>
+    <w wc="" msa="x">hriuuig</w>
+    <w wc="" msa="x">mugun</w>
+    <w wc="" msa="x">sorogon</w>
+    <lb n="1r;5"/>
+    <w wc="" msa="x">for</w>
+    <w wc="" msa="x" emends="the">them</w>
+    <w wc="" msa="x">siđa</w>
+    <w wc="" msa="x">uuand</w>
+    <w wc="" msa="x">he</w>
+    <w wc="" msa="x">hunk</w>
+    <w wc="" msa="x">selbo</w>
+    <w wc="" msa="x" p="1">gi</w>
+    <w wc="" msa="x" p="2">bood</w> <!-- the second 'o' is written above the word as a correction. different hand? -->
+    <w wc="" msa="x">that</w>
+    <w wc="" msa="x">uuit</w>
+    <w wc="" msa="x">hunk</w>
+    <w wc="" msa="x">sulic</w>
+    <w wc="" msa="x">uuiti</w>
+    <w wc="" msa="x">uuardon</w>
+    <w wc="" msa="x">scoldin</w>
+    <w wc="" msa="x">haramo</w>
+    <w wc="" msa="x">mestan</w>
+    <w wc="" msa="x">nu</w>
+    <w wc="" msa="x" emends="">thuingit</w> <!-- illegible in the facsimile -->
+    <w wc="" msa="x" emends="">mi</w>
+    <lb n="1r;6"/>
+    <w wc="" msa="x">giu</w>
+    <w wc="" msa="x">hungar</w>
+    <w wc="" msa="x">endi</w>
+    <w wc="" msa="x">thrust</w>
+    <w wc="" msa="x">bitter</w>
+    <w wc="" msa="x">balouuerek</w>
+    <w wc="" msa="x">thero</w>
+    <w wc="" msa="x">uuaron</w>
+    <w wc="" msa="x">uuit</w>
+    <w wc="" msa="x">er</w>
+    <w wc="" msa="x">beđero</w>
+    <w wc="" msa="x">tuom</w>
+    <pc>·</pc>
+    <w wc="" msa="x">Hu</w>
+    <w wc="" msa="x">sculon</w>
+    <w wc="" msa="x">uuit</w>
+    <w wc="" msa="x">nu</w>
+    <w wc="" msa="x">libbian</w>
+    <w wc="" msa="x">efto</w>
+    <w wc="" msa="x">hu</w> 
+    <w wc="" msa="x">sculon</w>
+    <w wc="" msa="x">uuit</w>
+    <lb n="1r;7"/>
+    <w wc="" msa="x">an</w>
+    <w wc="" msa="x">thesum</w>
+    <w wc="" msa="x" emends="liata">liahta</w>
+    <w wc="" msa="x">uuesan</w>
+    <w wc="" msa="x">nu</w>
+    <w wc="" msa="x">hier</w>
+    <w wc="" msa="x">huuilum</w>
+    <w wc="" msa="x">uuind</w>
+    <w wc="" msa="x">kumit</w>
+    <w wc="" msa="x">uuestan</w>
+    <w wc="" msa="x">efto</w>
+    <w wc="" msa="x">ostan</w>
+    <w wc="" msa="x">suđan</w>
+    <w wc="" msa="x">efto</w>
+    <w wc="" msa="x">nordan</w>
+    <w wc="" msa="x" p="1">gi</w>
+    <w wc="" msa="x" p="2">suuerek</w>
+    <w wc="" msa="x">upp</w>
+    <w wc="" msa="x">dribit</w>
+    <lb n="1r;8"/>
+    <w wc="" msa="x">kumit</w> <!-- the k is written in the margin -->
+    <w wc="" msa="x">haglas</w>
+    <w wc="" msa="x">skion</w>
+    <w wc="" msa="x">himile</w>
+    <w wc="" msa="x">bitengi</w>
+    <w wc="" msa="x">feriđ</w>
+    <w wc="" msa="x">ford</w>
+    <w wc="" msa="x">an</w>
+    <w wc="" msa="x" p="1">gi</w>
+    <w wc="" msa="x" p="2">mang</w>
+    <w wc="" msa="x">that</w>
+    <w wc="" msa="x">is</w>
+    <w wc="" msa="x">firinum</w>
+    <w wc="" msa="x">kald</w>
+    <pc>·</pc><!-- interdot -->
+    <w wc="" msa="x">huilum</w>
+    <w wc="" msa="x">thanne</w>
+    <w wc="" msa="x">fan</w>
+    <w wc="" msa="x">himile</w>
+    <w wc="" msa="x">heto</w>
+    <w wc="" msa="x">skinit</w>
+    <lb n="1r;9"/>
+    <w wc="" msa="x">blikit</w>
+    <w wc="" msa="x">thiu</w>
+    <w wc="" msa="x">berahto</w>
+    <w wc="" msa="x">sunna</w>
+    <w wc="" msa="x">uuit</w>
+    <w wc="" msa="x">hier</w>
+    <w wc="" msa="x">thus</w>
+    <w wc="" msa="x">bara</w>
+    <w wc="" msa="x">standat</w>
+    <w wc="" msa="x">unuuerid</w>
+    <w wc="" msa="x">miđ</w>
+    <w wc="" msa="x" p="1">gi</w>
+    <w wc="" msa="x" p="2">uuadi</w>
+    <w wc="" msa="x">nis</w>
+    <w wc="" msa="x">unk</w>
+    <w wc="" msa="x">hier</w>
+    <w wc="" msa="x">uuiht</w>
+    <w wc="" msa="x" emends="bi">biuoran</w> <!-- illegible -->
+    <lb n="1r;10"/>
+    <w wc="" msa="x">ni</w>
+    <w wc="" msa="x" emends="t">te</w>
+    <w wc="" msa="x" emends="sk">skerema</w>
+    <w wc="" msa="x">ni</w>
+    <w wc="" msa="x">te</w>
+    <w wc="" msa="x">scura</w>
+    <w wc="" msa="x">unk</w>
+    <w wc="" msa="x">nis</w>
+    <w wc="" msa="x">hier</w>
+    <w wc="" msa="x">scattas</w>
+    <w wc="" msa="x">uuiht</w>
+    <w wc="" msa="x">te</w>
+    <w wc="" msa="x">meti</w>
+    <w wc="" msa="x" p="1">gi</w>
+    <w wc="" msa="x" p="2">marcot</w>
+    <w wc="" msa="x">uuit</w>
+    <w wc="" msa="x">ebbiat</w>
+    <w wc="" msa="x">unk</w>
+    <w wc="" msa="x" p="1">gi</w>
+    <w wc="" msa="x" p="2">duan</w>
+    <w wc="" msa="x">mathigna</w>
+    <w wc="" msa="x">god</w>
+    <w wc="" msa="x">uualdand</w>
+    <w wc="" msa="x" emends="uureda">uuredan</w>
+    <lb n="1r;11"/>   
+    <w wc="" msa="x">te</w>
+    <w wc="" msa="x">hui</w>
+    <w wc="" msa="x">sculun</w>
+    <w wc="" msa="x">uuit</w>
+    <w wc="" msa="x">uuerdan</w>
+    <w wc="" msa="x">nu</w>
+    <w wc="" msa="x">Nu</w> <!--N capitalized -->
+    <w wc="" msa="x">mag</w>
+    <w wc="" msa="x">mi</w>
+    <w wc="" msa="x">that</w>
+    <w wc="" msa="x">hreuuan</w>
+    <w wc="" msa="x">that</w>
+    <w wc="" msa="x">ik</w>
+    <w wc="" msa="x">is</w>
+    <w wc="" msa="x">io</w>
+    <w wc="" msa="x">bad</w>
+    <w wc="" msa="x" c="1">heban</w>
+    <w wc="" msa="x" c="2">rikean</w>
+    <w wc="" msa="x">god</w>
+    
+    <lb/>
+    <p>Genesis B</p>
+    <p>Bodleian Library MS. Junius 11</p>
+    <pb n="37"/>
+    <lb n="37;19"/>
+    <w wc="" msa="x">adam</w>
+    <w wc="" msa="x" p="1">ġe</w>
+    <w wc="" msa="x" p="2">mælde</w>
+    <w wc="" msa="x">and</w>
+    <w wc="" msa="x">to</w>
+    <w wc="" msa="x">euan</w>
+    <w wc="" msa="x">spræc</w>
+    <pc>·</pc><!-- interdot -->
+    <w wc="" msa="x">hwæt</w>
+    <lb n="37;20"/>
+    <w wc="" msa="x">þu</w>
+    <w wc="" msa="x">eue</w>
+    <w wc="" msa="x">hæfst</w>
+    <pc>·</pc>
+    <w wc="" msa="x">yfele</w>
+    <w wc="" msa="x" p="1">ġe</w>
+    <w wc="" msa="x" p="2">mearcod</w>
+    <pc>·</pc>
+    <w wc="" msa="x">uncer</w>
+    <w wc="" msa="x">sylfra</w>
+    <w wc="" msa="x">sið</w>
+    <pc>·</pc>
+    <w wc="" msa="x" p="1">ġe</w>
+    <lb n="37;21"/>
+    <w wc="" msa="x" p="2">syhst</w>
+    <w wc="" msa="x">þu</w>
+    <w wc="" msa="x">nu</w>
+    <w wc="" msa="x">þa</w>
+    <w wc="" msa="x">sweartan</w>
+    <w wc="" msa="x">helle</w>
+    <pc>·</pc>
+    <w wc="" msa="x">grædige</w>
+    <w wc="" msa="x">and</w>
+    <w wc="" msa="x">gifre</w>
+    <pc>.</pc>
+    <w wc="" msa="x">nu</w>
+    <w wc="" msa="x">þu</w>
+    <lb n="37;22"/>
+    <w wc="" msa="x">hie</w>
+    <w wc="" msa="x">grimman</w>
+    <w wc="" msa="x">meaht</w>
+    <pc>·</pc>
+    <w wc="" msa="x">heonana</w>
+    <w wc="" msa="x" p="1">ġe</w>
+    <w wc="" msa="x" p="2">hyran</w>
+    <pc>·</pc>
+    <w wc="" msa="x" contr="ne is">nis</w>
+    <w wc="" msa="x" c="1">heofon</w>
+    <lb n="37;23"/>   
+    <w wc="" msa="x" c="2">rice</w>
+    <w wc="" msa="x" p="1">ġe</w>
+    <w wc="" msa="x" p="2">lic</w>
+    <w wc="" msa="x">þam</w>
+    <w wc="" msa="x">lige</w>
+    <pc>.</pc>   
+    <w wc="" msa="x">ac</w>
+    <w wc="" msa="x">þis</w>
+    <w wc="" msa="x">is</w>
+    <w wc="" msa="x">landa</w>
+    <w wc="" msa="x">betst</w>
+    <pc>.</pc>   
+    <w wc="" msa="x" expands="ꝥ">þæt</w>
+    <w wc="" msa="x">wit</w>
+    <w wc="" msa="x">þurh</w>
+    <lb n="37;24"/>   
+    <w wc="" msa="x">uncres</w>
+    <w wc="" msa="x">hearran</w>
+    <w wc="" msa="x">þanc</w>
+    <pc>·</pc>
+    <w wc="" msa="x">habban</w>
+    <w wc="" msa="x">moston</w>
+    <pc>·</pc>
+    <w wc="" msa="x">þær</w>
+    <w wc="" msa="x">þu</w>
+    <w wc="" msa="x">þam</w>
+    <w wc="" msa="x">ne</w>
+    <lb n="37;25"/> 
+    <w wc="" msa="x">hierde</w>
+    <pc>.</pc>
+    <w wc="" msa="x">þe</w>
+    <w wc="" msa="x">unc</w>
+    <w wc="" msa="x">þisne</w>
+    <w wc="" msa="x">hearm</w>
+    <w wc="" msa="x" p="1">ġe</w>
+    <w wc="" msa="x" p="2">ræd</w>
+    <pc>·</pc>
+    <w wc="" msa="x" expands="ꝥ">þæt</w>
+    <w wc="" msa="x">wit</w>
+    <w wc="" msa="x">waldendes</w>
+    <w wc="" msa="x">word</w>
+    <lb n="37;26"/> 
+    <w wc="" msa="x">forbræcon</w>
+    <pc>·</pc>
+    <w wc="" msa="x" c="1">heofon</w>
+    <w wc="" msa="x" c="2">cyninges</w>
+    <pc>·</pc>
+    <w wc="" msa="x">nu</w>
+    <w wc="" msa="x">wit</w>
+    <w wc="" msa="x">hreowige</w>
+    <w wc="" msa="x">magon</w>
+    <pc>·</pc>
+    <pb n="38"/>
+    <lb n="38;1"/>
+    <w wc="" msa="x">sorgian</w>
+    <w wc="" msa="x">for</w>
+    <w wc="" msa="x">þis</w>
+    <w wc="" msa="x">siðe</w>
+    <pc>.</pc>
+    <w wc="" msa="x">forþon</w>
+    <w wc="" msa="x">he</w>
+    <w wc="" msa="x">unc</w>
+    <w wc="" msa="x">self</w>
+    <w wc="" msa="x">bebead</w>
+    <pc>·</pc>
+    <w wc="" msa="x" expands="ꝥ">þæt</w>
+    <w wc="" msa="x">wit</w>
+    <lb n="38;2"/>
+    <w wc="" msa="x">unc</w>
+    <w wc="" msa="x">wite</w>
+    <pc>·</pc> 
+    <w wc="" msa="x">warian</w>
+    <w wc="" msa="x">sceolden</w>
+    <pc>·</pc>
+    <w wc="" msa="x">hearma</w>
+    <w wc="" msa="x">mæstne</w>
+    <pc>.</pc>
+    <w wc="" msa="x">nu</w>
+    <w wc="" msa="x">slit</w>
+    <lb n="38;3"/>
+    <w wc="" msa="x">me</w>
+    <w wc="" msa="x">hunger</w>
+    <w wc="" msa="x" expands="⁊">and</w>
+    <w wc="" msa="x">þurst</w>
+    <pc>.</pc>
+    <w wc="" msa="x">bitre</w>
+    <w wc="" msa="x">on</w>
+    <w wc="" msa="x">breostum</w>
+    <pc>·</pc>
+    <w wc="" msa="x">þæs</w>
+    <w wc="" msa="x">wit</w>
+    <w wc="" msa="x">begra</w>
+    <lb n="38;4"/>
+    <w wc="" msa="x">ær</w>
+    <w wc="" msa="x">wæron</w>
+    <w wc="" msa="x" c="1">or</w>
+    <w wc="" msa="x" c="2">sorge</w>
+    <pc>.</pc>
+    <w wc="" msa="x">on</w>
+    <w wc="" msa="x">ealle</w>
+    <w wc="" msa="x">tid</w>
+    <pc>·</pc>
+    <w wc="" msa="x">hu</w>
+    <w wc="" msa="x">sculon</w>
+    <w wc="" msa="x">wit</w>
+    <w wc="" msa="x">nu</w>
+    <lb n="38;5"/>   
+    <w wc="" msa="x">libban</w>
+    <pc>·</pc>
+    <w wc="" msa="x">oððe</w>
+    <w wc="" msa="x">on</w>
+    <w wc="" msa="x">þis</w>
+    <w wc="" msa="x">land</w>
+    <w wc="" msa="x">wesan</w>
+    <pc>·</pc>
+    <w wc="" msa="x">ġif</w>
+    <w wc="" msa="x">her</w>
+    <w wc="" msa="x">wind</w>
+    <w wc="" msa="x">cymð</w>
+    <pc>·</pc>
+    <lb n="38;6"/>   
+    <w wc="" msa="x">westan</w>
+    <w wc="" msa="x">oððe</w>
+    <w wc="" msa="x">eastan</w>
+    <pc>·</pc>
+    <w wc="" msa="x">suðan</w>
+    <w wc="" msa="x">oððe</w>
+    <w wc="" msa="x">norðan</w>
+    <pc>·</pc>
+    <w wc="" msa="x" p="1">ġe</w>
+    <w wc="" msa="x" p="2">sweorc</w>
+    <lb n="38;7"/> 
+    <w wc="" msa="x">up</w>
+    <w wc="" msa="x">færeð</w>
+    <pc>·</pc>
+    <w wc="" msa="x">cymeð</w>
+    <w wc="" msa="x">hæġles</w>
+    <w wc="" msa="x">scur</w>
+    <pc>·</pc>
+    <w wc="" msa="x">heofone</w>
+    <w wc="" msa="x" p="1">ġe</w>
+    <w wc="" msa="x" p="2">tenġe</w>
+    <pc>·</pc>
+    <w wc="" msa="x">færeð</w>
+    <lb n="38;8"/>
+    <w wc="" msa="x">forst</w>
+    <w wc="" msa="x">on</w>
+    <w wc="" msa="x" p="1">ġe</w>
+    <w wc="" msa="x" p="2">mang</w>
+    <pc>·</pc>
+    <w wc="" msa="x">se</w>
+    <w wc="" msa="x">byð</w>
+    <w wc="" msa="x">fyrnum</w>
+    <w wc="" msa="x">ceald</w>
+    <pc>·</pc>
+    <w wc="" msa="x">hwilum</w>
+    <w wc="" msa="x">of</w>
+    <lb n="38;9" after="4"/>
+    <w wc="" msa="x">heofnum</w>
+    <w wc="" msa="x">hate</w>
+    <w wc="" msa="x">scineð</w>
+    <pc>·</pc>
+    <w wc="" msa="x">blicð</w>
+    <w wc="" msa="x">þeos</w>
+    <w wc="" msa="x">beorhte</w>
+    <w wc="" msa="x">sunne</w>
+    <pc>·</pc>
+    <w wc="" msa="x" expands="⁊">and</w>
+    <w wc="" msa="x">wit</w>
+    <lb n="38;10"/>
+    <w wc="" msa="x">her</w>
+    <w wc="" msa="x">baru</w>
+    <w wc="" msa="x">standað</w>
+    <pc>·</pc>
+    <w wc="" msa="x" p="1">un</w>
+    <w wc="" msa="x" p="2">wered</w>
+    <w wc="" msa="x">wædo</w>
+    <pc>·</pc>
+    <w wc="" msa="x" expands="ne is">nys</w>
+    <w wc="" msa="x">unc</w>
+    <w wc="" msa="x">wuht</w>
+    <w wc="" msa="x" p="1">be</w>
+    <lb n="38;11"/>
+    <w wc="" msa="x" p="2">foran</w>
+    <pc>·</pc>
+    <w wc="" msa="x">to</w>
+    <w wc="" msa="x" c="1">scur</w>
+    <w wc="" msa="x" c="2">sceade</w>
+   <pc>.</pc>
+    <w wc="" msa="x">ne</w>
+    <w wc="" msa="x">sceattes</w>
+    <w wc="" msa="x">wiht</w>
+    <pc>·</pc>
+    <w wc="" msa="x">to</w>
+    <w wc="" msa="x">mete</w>
+    <w wc="" msa="x" p="1">ġe</w>
+    <lb n="38;12"/>
+    <w wc="" msa="x" p="2">mearcod</w>
+    <pc>·</pc>
+    <w wc="" msa="x">ac</w>
+    <w wc="" msa="x">unc</w>
+    <w wc="" msa="x">is</w>
+    <w wc="" msa="x">mihtig</w>
+    <w wc="" msa="x">god</w>
+    <pc>·</pc>
+    <w wc="" msa="x">waldend</w>
+    <w wc="" msa="x" c="1">wrað</w>
+    <w wc="" msa="x" c="2">mod</w>
+    <pc>·</pc>
+    <lb n="38;13"/>
+    <w wc="" msa="x">to</w>
+    <w wc="" msa="x">hwon</w>
+    <w wc="" msa="x">sculon</w>
+    <w wc="" msa="x">wit</w>
+    <w wc="" msa="x">weorðan</w>
+    <w wc="" msa="x">nu</w>
+    <pc>·</pc>
+    <w wc="" msa="x">Nu</w> <!-- capital N -->
+    <w wc="" msa="x">me</w>
+    <w wc="" msa="x">mæg</w>
+    <w wc="" msa="x">hreowan</w>
+    <pc>·</pc>
+    <lb n="38;14"/>
+    <w wc="" msa="x" expands="ꝥ">þæt</w>
+    <w wc="" msa="x">ic</w>
+    <w wc="" msa="x">bæd</w>
+    <w wc="" msa="x">hoefnes</w>
+    <w wc="" msa="x">god</w>
+    <pc>·</pc>
+    <w wc="" msa="x">waldend</w>
+    <w wc="" msa="x">þone</w>
+    <w wc="" msa="x">godan</w>
+    <pc>·</pc>
+    <w wc="" msa="x" expands="ꝥ">þæt</w>
+    <w wc="" msa="x">he</w>
+    <w wc="" msa="x">þe</w>
+    <w wc="" msa="x">her</w>
+    <lb n="38;15"/>
+    <w wc="" msa="x">worhte</w>
+    <w wc="" msa="x">to</w>
+    <w wc="" msa="x">me</w>
+    <pc>·</pc>
+    <w wc="" msa="x">of</w>
+    <w wc="" msa="x">liðum</w>
+    <w wc="" msa="x">minum</w>
+    <pc>·</pc>
+    <w wc="" msa="x">nu</w>
+    <w wc="" msa="x">þu</w>
+    <w wc="" msa="x">me</w>
+    <w wc="" msa="x" p="1">for</w>
+    <w wc="" msa="x" p="2">læred</w>
+    <lb n="38;16"/>
+    <w wc="" msa="x">hæfst</w>
+    <w wc="" msa="x">on</w>
+    <w wc="" msa="x">mines</w>
+    <w wc="" msa="x">herran</w>
+    <w wc="" msa="x">hete</w>
+    <pc>·</pc>
+    <w wc="" msa="x">swa</w>
+    <w wc="" msa="x">me</w>
+    <w wc="" msa="x">nu</w>
+    <w wc="" msa="x">hreowan</w>
+    <lb n="38;17"/>
+    <w wc="" msa="x">mæg</w>
+    <pc>·</pc>
+    <w wc="" msa="x">æfre</w>
+    <w wc="" msa="x">to</w>
+    <w wc="" msa="x">aldre</w>
+    <pc>.</pc>
+    <w wc="" msa="x" expands="ꝥ">þæt</w>
+    <w wc="" msa="x">ic</w>
+    <w wc="" msa="x">þe</w>
+    <w wc="" msa="x" expands="minũ">minum</w>
+    <w wc="" msa="x">eagum</w>
+    <w wc="" msa="x" p="1">ġe</w>
+    <w wc="" msa="x" p="2">seah</w>
+    <pc>⁖</pc>
+</xml>

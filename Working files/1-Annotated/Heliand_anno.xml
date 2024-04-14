@@ -1,0 +1,882 @@
+<xml>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> The Hêliand</title>
+                <subtitle> Fitts IV-V </subtitle>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p> *** </p>
+            </sourceDesc>
+        </fileDesc>
+        <profDesc>
+            <langUsage>
+                <language ident="osx">Old Saxon</language>
+            </langUsage>
+        </profDesc>
+    </teiHeader>
+    <pb n="4r"/>
+    <lb n="4r;1"/>
+    <w>Thô</w>
+    <w>ni</w>
+    <w>uuas</w>
+    <w>lang</w>
+    <w>aftar</w>
+    <w>thiu</w>
+    <w>ne</w>
+    <w>it</w>
+    <w>al</w>
+    <w>sô</w>
+    <w p="1">gi</w>
+    <w p="2">lêstid</w>
+    <w>uuarð</w>
+    <w>sô</w>
+    <w>he</w>
+    <lb n="4r;2" after="6"/>
+    <w>mancunnea</w>
+    <w>managa</w>
+    <w>huîla</w>
+    <w>god</w>
+    <w>alomahtig</w>
+    <w>forgeƀen</w>
+    <w>habda</w>
+    <w>that</w>
+    <w>he</w>
+    <w>is</w>
+    <lb n="4r;3"/>
+    <w>himilisc</w>
+    <w>barn</w>
+    <w>herod</w>
+    <w>te</w>
+    <w>uueroldi</w>
+    <w>is</w>
+    <w>selƀes</w>
+    <w>sunu</w>
+    <w>sendean</w>
+    <w>uueldi</w>
+    <w>te</w>
+    <lb n="4r;4"/>
+    <w>thiu</w>
+    <w>that</w>
+    <w>he</w>
+    <w>hêr</w>
+    <w>alôsdi</w>
+    <w>al</w>
+    <w>liudstamna</w>
+    <w>uuerod</w>
+    <w>fon</w>
+    <w>uuîtea</w>
+    <pb n="4v"/>
+    <lb n="4v;1"/>
+    <w>Thô</w>
+    <w>uuarð</w>
+    <w>is</w>
+    <w>uuisbodo</w>
+    <w>an</w>
+    <w>Galilealand</w>
+    <w>Gabriel</w>
+    <w>cuman</w>
+    <w>engil</w>
+    <w>thes</w>
+    <lb n="4v;2"/>
+    <w>alouualdon</w>
+    <w>thar</w>
+    <w>he</w>
+    <w>êne</w>
+    <w>idis</w>
+    <w>uuisse</w>
+    <w>munilîca</w>
+    <w>magað</w>
+    <w>Maria</w>
+    <w>uuas</w>
+    <w>siu</w>
+    <lb n="4v;3"/>
+    <w>hêten</w>
+    <w>uuas</w>
+    <w>iru</w>
+    <w>thiorna</w>
+    <w>githigan</w>
+    <w>Sea</w>
+    <w>ên</w>
+    <w>thegan</w>
+    <w>habda</w>
+    <w>Ioseph</w>
+    <w>gimahlit</w>
+    <lb n="4v;4"/>
+    <w>gôdes</w>
+    <w>cunnies</w>
+    <w>man</w>
+    <w>thea</w>
+    <w>Dauides</w>
+    <w>dohter</w>
+    <w>that</w>
+    <w>uuas</w>
+    <w>sô</w>
+    <w>diurlîc</w>
+    <w>uuîf</w>
+    <lb n="4v;5"/>
+    <w>idis</w>
+    <w>anthêti</w>
+    <w>Thar</w>
+    <w>sie</w>
+    <w>the</w>
+    <w>engil</w>
+    <w>godes</w>
+    <w>an</w>
+    <w>Nazarethburg</w>
+    <w>bi</w>
+    <w>namon</w>
+    <w>selƀo</w>
+    <lb n="4v;6"/>
+    <w>grôtte</w>
+    <w>geginuuarde</w>
+    <w>endi</w>
+    <w>sie</w>
+    <w>fon</w>
+    <w>gode</w>
+    <w>quedda</w>
+    <w>Hêl</w>
+    <w>uuis</w>
+    <w>thu</w>
+    <w>maria</w>
+    <lb n="4v;7"/>
+    <w>quað</w>
+    <w>he</w>
+    <w>thu</w>
+    <w>bist</w>
+    <w>thînun</w>
+    <w>hêrron</w>
+    <w>liof</w>
+    <w>uualdande</w>
+    <w>uuirðig</w>
+    <w>huuand</w>
+    <lb n="4v;8"/>
+    <w>thu</w>
+    <w>giuuit</w>
+    <w>haƀes</w>
+    <w>idis</w>
+    <w>enstio</w>
+    <w>fol</w>
+    <w>Thu</w>
+    <w>scalt</w>
+    <w>for</w>
+    <w>allun</w>
+    <w>uuesan</w>
+    <w>uuîƀun</w>
+    <lb n="4v;9"/>
+    <w>giuuîhit</w>
+    <w>Ne</w>
+    <w>haƀe</w>
+    <w>thu</w>
+    <w>uuêcan</w>
+    <w>hugi</w>
+    <w>ne</w>
+    <w>forhti</w>
+    <w>thu</w>
+    <w>thînun</w>
+    <w>ferhe</w>
+    <lb n="4v;10"/>
+    <w>ne</w>
+    <w>quam</w>
+    <w>ic</w>
+    <w>thi</w>
+    <w>te</w>
+    <w>ênigun</w>
+    <w>frêson</w>
+    <w>herod</w>
+    <w>ne</w>
+    <w>dragu</w>
+    <w>ic</w>
+    <w>ênig</w>
+    <w c="1">drugi</w>
+    <lb n="4v;11"/>
+    <w c="2">thing</w>
+    <w>Thu</w>
+    <w>scalt</w>
+    <w>ûses</w>
+    <w>drohtines</w>
+    <w>uuesan</w>
+    <w>môdar</w>
+    <w>mid</w>
+    <w>mannun</w>
+    <w>endi</w>
+    <lb n="4v;12"/>
+    <w>scalt</w>
+    <w>thana</w>
+    <w>magu</w>
+    <w>fôdean</w>
+    <w>thes</w>
+    <w>hôhon</w>
+    <w>heƀancuninges</w>
+    <w>suno</w>
+    <w>The</w>
+    <w>scal</w>
+    <lb n="4v;13"/>
+    <w>hêliand</w>
+    <w>te</w>
+    <w>namon</w>
+    <w>êgan</w>
+    <w>mid</w>
+    <w>eldiun</w>
+    <w>Neo</w>
+    <w>endi</w>
+    <w>ni</w>
+    <w>kumid</w>
+    <w>thes</w>
+    <lb n="4v;14" after="3"/>
+    <w>uuîdon</w>
+    <w>rîkeas</w>
+    <w>giuuand</w>
+    <w>the</w>
+    <w>he</w>
+    <w>giuualdan</w>
+    <w>scal</w>
+    <w>mâri</w>
+    <w>theodan</w>
+    <lb n="4v;15"/>
+    <w>Thô</w>
+    <w>sprac</w>
+    <w>im</w>
+    <w>eft</w>
+    <w>thiu</w>
+    <w>magað</w>
+    <w>angegin</w>
+    <w>uuið</w>
+    <w>thana</w>
+    <w>engil</w>
+    <w>godes</w>
+    <lb n="4v;16"/>
+    <w>idiso</w>
+    <w>scôniost</w>
+    <w>allaro</w>
+    <w>uuîƀo</w>
+    <w>uulitigost</w>
+    <w>huô</w>
+    <w>mag</w>
+    <w>that</w>
+    <lb n="4v;17" after="6"/>
+    <w>giuuerðen</w>
+    <w emends="sô"></w><!-- phrase is repeated in the manuscript -->
+    <w emends="quað"></w>
+    <w>sô</w>
+    <w>quað</w>
+    <w>siu</w>
+    <w>that</w>
+    <w>ic</w>
+    <w>magu</w>
+    <w>fôdie</w>
+    <w>Ne</w>
+    <w>ic</w>
+    <w>gio</w>
+    <w>mannes</w>
+    <lb n="4v;18"/> 
+    <w>ni</w>
+    <w>uuarð</w>
+    <w>uuîs</w>
+    <w>an</w>
+    <w>mînera</w>
+    <w>uueroldi</w>
+    <w>Tho</w>
+    <w>habde</w>
+    <w>eft</w>
+    <w>is</w>
+    <w>uuord</w>
+    <lb n="4v;19"/>
+    <w>garu</w>
+    <w>engil</w>
+    <w>thes</w>
+    <w>alouualdon</w>
+    <w>thero</w>
+    <w>idisiu</w>
+    <w>tegegnes</w>
+    <w>an</w>
+    <w>thi</w>
+    <w>scal</w>
+    <w>hêlag</w>
+    <lb n="4v;20"/>
+    <w>gêst</w>
+    <w>fon</w>
+    <w>heƀanuuange</w>
+    <w>cuman</w>
+    <w>thurh</w>
+    <w>craft</w>
+    <w>godes</w>
+    <w>Thanan</w>
+    <w>scal</w>
+    <w>thi</w>
+    <w>kind</w>
+    <lb n="4v;21"/>
+    <w>ôdan</w>
+    <w>uuerðan</w>
+    <w>an</w>
+    <w>thesaro</w>
+    <w>uueroldi</w>
+    <w>Uualdandes</w>
+    <w>craft</w>
+    <w>scal</w>
+    <w>thi</w>
+    <w>fon</w>
+    <w>them</w>
+    <lb n="4v;22"/>
+    <w>hôhoston</w>
+    <w>heƀancuninge</w>
+    <w>scadouuan</w>
+    <w>mid</w>
+    <w>skimon</w>
+    <w>Ni</w>
+    <w>uuarð</w>
+    <w>scôniera</w>
+    <lb n="4v;23"/>
+    <w>giburd</w>
+    <w>ne</w>
+    <w>sô</w>
+    <w>mâri</w>
+    <w>mid</w>
+    <w>mannun</w>
+    <w>huand</w>
+    <w>siu</w>
+    <w>kumid</w>
+    <w>thurh</w>
+    <w>maht</w>
+    <w>godes</w>
+    <lb n="4v;24"/>
+    <w>an</w>
+    <w>these</w>
+    <w>uuîdon</w>
+    <w>uuerold</w>
+    <pb n="5r"/>
+    <lb n="5r;1"/>
+    <w>Thô</w>
+    <w>uuarð</w>
+    <w>eft</w>
+    <w>thes</w>
+    <w>uuîbes</w>
+    <w>hugi</w>
+    <w>aftar</w>
+    <w>them</w>
+    <w>ârundie</w>
+    <w>al</w>
+    <w>gihuorƀen</w>
+    <lb n="5r;2"/>
+    <w>an</w>
+    <w>godes</w>
+    <w>uuilleon</w>
+    <w>Than</w>
+    <w>ic</w>
+    <w>hêr</w>
+    <w>garu</w>
+    <w>standu</w>
+    <w>quað</w>
+    <w>siu</w>
+    <w>te</w>
+    <w>sulicun</w>
+    <lb n="5r;3"/>
+    <w>ambahtskepi</w>
+    <w>sô</w>
+    <w>he</w>
+    <w>mi</w>
+    <w>êgan</w>
+    <w>uuili</w>
+    <w>Thiu</w>
+    <w>bium</w>
+    <w>ic</w>
+    <w>theot</w>
+    <w>godes</w>
+    <w>Nu</w>
+    <w>ik</w>
+    <lb n="5r;4"/>
+    <w>theses</w>
+    <w>thinges</w>
+    <w>gitrûon</w>
+    <w>uuerðe</w>
+    <w>mi</w>
+    <w>aftar</w>
+    <w>thînun</w>
+    <w>uuordun</w>
+    <w>al</w>
+    <w>sô</w>
+    <w>is</w>
+    <lb n="5r;5"/>
+    <w>uuilleo</w>
+    <w>sî</w>
+    <w>hêrron</w>
+    <w>mînes</w>
+    <w>nis</w>
+    <w>mi</w>
+    <w>hugi</w>
+    <w>tuîfli</w>
+    <w>ne</w>
+    <w>uuord</w>
+    <w>ne</w>
+    <w>uuîsa</w>
+    <lb n="5r;6"/>
+    <w>Sô</w>
+    <w>gifragn</w>
+    <w>ik</w>
+    <w>that</w>
+    <w>that</w>
+    <w>uuîf</w>
+    <w>antfeng</w>
+    <w>that</w>
+    <w>godes</w>
+    <w>ârundi</w>
+    <w>gerno</w>
+    <w>suîðo</w>
+    <lb n="5r;7"/>
+    <w>mid</w>
+    <w>leohtu</w>
+    <w>hugi</w>
+    <w>endi</w>
+    <w>mid</w>
+    <w>gilôƀon</w>
+    <w>gôdun</w>
+    <w>endi</w>
+    <w>mid</w>
+    <w>hluttrun</w>
+    <lb n="5r;8"/>
+    <w>treuun</w>
+    <w>Uuard</w>
+    <w>the</w>
+    <w>hêlago</w>
+    <w>gêst</w>
+    <w>that</w>
+    <w>barn</w>
+    <w>an</w>
+    <w>ira</w>
+    <w>bôsma</w>
+    <w>endi</w>
+    <w>siu</w>
+    <w>ira</w>
+    <lb n="5r;9"/>
+    <w>breostun</w>
+    <w>forstôd</w>
+    <w>iac</w>
+    <w>an</w>
+    <w>ire</w>
+    <w>seƀon</w>
+    <w>selƀo</w>
+    <w>sagda</w>
+    <w>them</w>
+    <w>siu</w>
+    <w>uuelda</w>
+    <w>that</w>
+    <lb n="5r;10"/>
+    <w>sie</w>
+    <w>habde</w>
+    <w>giôcana</w>
+    <w>thes</w>
+    <w>alouualdon</w>
+    <w>craft</w>
+    <w>hêlag</w>
+    <w>fon</w>
+    <w>himile</w>
+    <w>Thô</w>
+    <w>uuarð</w>
+    <lb n="5r;11"/>
+    <w>hugi</w>
+    <w>Iosepes</w>
+    <w>is</w>
+    <w>môd</w>
+    <w>giuuorrid</w>
+    <w>the</w>
+    <w>im</w>
+    <w>êr</w>
+    <w>thea</w>
+    <w>magað</w>
+    <w>habda</w>
+    <w>thea</w>
+    <w>idis</w>
+    <lb n="5r;12"/>
+    <w>anthêttea</w>
+    <w>aðalcnôsles</w>
+    <w>uuîf</w>
+    <w>giboht</w>
+    <w>im</w>
+    <w>te</w>
+    <w>brûdiu</w>
+    <w>He</w>
+    <w>afsôf</w>
+    <w>that</w>
+    <w>siu</w>
+    <lb n="5r;13"/>
+    <w>habda</w>
+    <w>barn</w>
+    <w>undar</w>
+    <w>iru</w>
+    <w>ni</w>
+    <w>uuânda</w>
+    <w>thes</w>
+    <w>mid</w>
+    <w>uuihti</w>
+    <w>that</w>
+    <w>iru</w>
+    <w>that</w>
+    <w>uuîf</w>
+    <lb n="5r;14"/>
+    <w>habdi</w>
+    <w>giuuardod</w>
+    <w>sô</w>
+    <w>uuarolîco</w>
+    <w>ni</w>
+    <w>uuisse</w>
+    <w>uualdandes</w>
+    <w>thô</w>
+    <w>noh</w>
+    <w>blîði</w>
+    <lb n="5r;15"/>
+    <w>gibodskepi</w>
+    <w>Ni</w>
+    <w>uuelda</w>
+    <w>sia</w>
+    <w>imo</w>
+    <w>te</w>
+    <w>brûdi</w>
+    <w>thô</w>
+    <w>halon</w>
+    <w>imo</w>
+    <w>te</w>
+    <w>hîuuon</w>
+    <w>ac</w>
+    <lb n="5r;16"/>
+    <w>bigan</w>
+    <w>im</w>
+    <w>thô</w>
+    <w>an</w>
+    <w>hugi</w>
+    <w>thenkean</w>
+    <w>huô</w>
+    <w>he</w>
+    <w>sie</w>
+    <w>sô</w>
+    <w>forlêti</w>
+    <w>sô</w>
+    <w>iru</w>
+    <w>thar</w>
+    <lb n="5r;17"/>
+    <w>ni</w>
+    <w>uurði</w>
+    <w>lêðes</w>
+    <w>uuiht</w>
+    <w>ôdan</w>
+    <w>arƀides</w>
+    <w>Ni</w>
+    <w>uuelda</w>
+    <w>sie</w>
+    <w>aftar</w>
+    <w>thiu</w>
+    <lb n="5r;18" after="3"/>
+    <w>meldon</w>
+    <w>for</w>
+    <w>menigi</w>
+    <w>antdrêd</w>
+    <w>that</w>
+    <w>sie</w>
+    <w>manno</w>
+    <w>barn</w>
+    <w>lîƀu</w>
+    <w>binâmin</w>
+    <w>Sô</w>
+    <lb n="5r;19"/>
+    <w>uuas</w>
+    <w>than</w>
+    <w>thero</w>
+    <w>liudeo</w>
+    <w>thau</w>
+    <w>thurh</w>
+    <w>then</w>
+    <w>aldon</w>
+    <w>êu</w>
+    <w>ebreo</w>
+    <w>folkes</w>
+    <lb n="5r;20"/>
+    <w>sô</w>
+    <w>huilik</w>
+    <w>sô</w>
+    <w>thar</w>
+    <w>an</w>
+    <w>unreht</w>
+    <w>idis</w>
+    <w>gihîuuida</w>
+    <w>that</w>
+    <w>siu</w>
+    <w>simbla</w>
+    <w>thana</w>
+    <lb n="5r;21"/>
+    <w>bedskepi</w>
+    <w>buggean</w>
+    <w>scolda</w>
+    <w>frî</w>
+    <w>mid</w>
+    <w>ira</w>
+    <w>ferhu</w>
+    <w>ni</w>
+    <w>uuas</w>
+    <w>gio</w>
+    <w>thiu</w>
+    <lb n="5r;22"/>
+    <w>fêmea</w>
+    <w>sô</w>
+    <w>gôd</w>
+    <w>that</w>
+    <w>siu</w>
+    <w>mid</w>
+    <w>them</w>
+    <w>liudiun</w>
+    <w>leng</w>
+    <w>libbien</w>
+    <w>môsti</w>
+    <lb n="5r;23"/>
+    <w>uuesan</w>
+    <w>undar</w>
+    <w>them</w>
+    <w>uueroda</w>
+    <w>Bigan</w>
+    <w>im</w>
+    <w>the</w>
+    <w>uuîso</w>
+    <w>mann</w>
+    <w>suîðo</w>
+    <lb n="5r;24"/>
+    <w>gôd</w>
+    <w>gumo</w>
+    <w>Ioseph</w>
+    <w>an</w>
+    <w>is</w>
+    <w>môda</w>
+    <w>thenkean</w>
+    <w>thero</w>
+    <w>thingo</w>
+    <w>huô</w>
+    <w>he</w>
+    <w>thea</w>
+    <pb n="5v"/>
+    <lb n="5v;1"/>
+    <w>thiornun</w>
+    <w>thô</w>
+    <w>listiun</w>
+    <w>forlêti</w>
+    <w>Thô</w>
+    <w>ni</w>
+    <w>uuas</w>
+    <w>lang</w>
+    <w>te</w>
+    <w>thiu</w>
+    <w>that</w>
+    <w>im</w>
+    <w>thar</w>
+    <lb n="5v;2"/>
+    <w>an</w>
+    <w>drôma</w>
+    <w>quam</w>
+    <w>drohtines</w>
+    <w>engil</w>
+    <w>heƀancuninges</w>
+    <w>bodo</w>
+    <w>endi</w>
+    <w>hêt</w>
+    <lb n="5v;3"/>
+    <w>sie</w>
+    <w>ina</w>
+    <w>haldan</w>
+    <w>uuel</w>
+    <w>minnion</w>
+    <w>sie</w>
+    <w>an</w>
+    <w>is</w>
+    <w>môde</w>
+    <w>Ni</w>
+    <w>uuis</w>
+    <w>thu</w>
+    <w>quað</w>
+    <w>he</w>
+    <lb n="5v;4"/>
+    <w>mariun</w>
+    <w>uurêð</w>
+    <w>thiornun</w>
+    <w>thînaro</w>
+    <w>siu</w>
+    <w>is</w>
+    <w>githungan</w>
+    <w>uuîf</w>
+    <w>ne</w>
+    <lb n="5v;5"/>
+    <w>forhugi</w>
+    <w>thu</w>
+    <w>sie</w>
+    <w>te</w>
+    <w>hardo</w>
+    <w>thu</w>
+    <w>scalt</w>
+    <w>sie</w>
+    <w>haldan</w>
+    <w>uuel</w>
+    <w>uuardon</w>
+    <w>ira</w>
+    <w>an</w>
+    <lb n="5v;6"/>
+    <w>thesaro</w>
+    <w>uueroldi</w>
+    <w>Lêsti</w>
+    <w>thu</w>
+    <w>inca</w>
+    <w>uuinitreuua</w>
+    <w>forð</w>
+    <w>sô</w>
+    <w>thu</w>
+    <w>dâdi</w>
+    <w>endi</w>
+    <lb n="5v;7"/>
+    <w>hald</w>
+    <w>incan</w>
+    <w c="1">friund</w>
+    <w c="2">skepi</w>
+    <w>uuel</w>
+    <w>Ne</w>
+    <w>lât</w>
+    <w>thu</w>
+    <w>sie</w>
+    <w>thi</w>
+    <w>thiu</w>
+    <w>lêðaron</w>
+    <lb n="5v;8"/>
+    <w>thoh</w>
+    <w>siu</w>
+    <w>undar</w>
+    <w>ira</w>
+    <w>liðon</w>
+    <w>êgi</w>
+    <w>barn</w>
+    <w>an</w>
+    <w>ira</w>
+    <w>bôsma</w>
+    <w>It</w>
+    <w>cumid</w>
+    <w>thurh</w>
+    <lb n="5v;9"/>
+    <w>gibod</w>
+    <w>godes</w>
+    <w>hêlages</w>
+    <w>gêstes</w>
+    <w>fon</w>
+    <w c="1">heƀan</w>
+    <w c="2">uuanga</w>
+    <w>that</w>
+    <w>is</w>
+    <w>iêsu</w>
+    <w>krist</w>
+    <lb n="5v;10"/>
+    <w>godes</w>
+    <w>êgan</w>
+    <w>barn</w>
+    <w>uualdandes</w>
+    <w>sunu</w>
+    <w>Thu</w>
+    <w>scalt</w>
+    <w>sie</w>
+    <w>uuel</w>
+    <w>haldan</w>
+    <lb n="5v;11"/>
+    <w>hêlaglîco</w>
+    <w>Ne</w>
+    <w>lât</w>
+    <w>thu</w>
+    <w>thi</w>
+    <w>thînan</w>
+    <w>hugi</w>
+    <w>tuîflien</w>
+    <w>merrean</w>
+    <w>thîna</w>
+    <lb n="5v;12"/>
+    <w c="1">môd</w>
+    <w c="2">
+        <w p="1">gi</w>
+        <w p="2">thâht</w>
+    </w>
+    <w>Thô</w>
+    <w>uuarð</w>
+    <w>eft</w>
+    <w>thes</w>
+    <w>mannes</w>
+    <w>hugi</w>
+    <w>giuuendid</w>
+    <lb n="5v;13"/>
+    <w>aftar</w>
+    <w>them</w>
+    <w>uuordun</w>
+    <w>that</w>
+    <w>he</w>
+    <w>im</w>
+    <w>te</w>
+    <w>them</w>
+    <w>uuîƀa</w>
+    <w>genam</w>
+    <w>te</w>
+    <w>thera</w>
+    <lb n="5v;14"/>
+    <w>magað</w>
+    <w>minnea</w>
+    <w>antkenda</w>
+    <w>maht</w>
+    <w>godes</w>
+    <w>uualdandes</w>
+    <w>gibod</w>
+    <lb n="5v;15"/>
+    <w>Uuas</w>
+    <w>im</w>
+    <w>uuilleo</w>
+    <w>mikil</w>
+    <w>that</w>
+    <w>he</w>
+    <w>sia</w>
+    <w>sô</w>
+    <w>hêlaglîco</w>
+    <w>haldan</w>
+    <w>môsti</w>
+    <w c="1">bisor</w>
+    <lb n="5v;16"/>
+    <w c="2">goda</w>
+    <w>sie</w>
+    <w>an</w>
+    <w>is</w>
+    <w p="1">gi</w>
+    <w p="2">sîðea</w>
+    <w>endi</w>
+    <w>siu</w>
+    <w>sô</w>
+    <w>sûƀro</w>
+    <w>drôg</w>
+    <w>al</w>
+    <w>te</w>
+    <w>huldi</w>
+    <w>godes</w>
+    <lb n="5v;17"/>
+    <w>hêlagna</w>
+    <w>gêst</w>
+    <w>gôdlîcan</w>
+    <w>gumon</w>
+    <w>antthat</w>
+    <w>sie</w>
+    <w>godes</w>
+    <w>giscapu</w>
+    <w>mahtig</w>
+    <lb n="5v;18"/>
+    <w p="1">gi</w>
+    <w p="2">manodun</w>
+    <w>that</w>
+    <w>siu</w>
+    <w>ina</w>
+    <w>an</w>
+    <w>manno</w>
+    <w>lioht</w>
+    <w>allaro</w>
+    <w>barno</w>
+    <w>bezt</w>
+    <lb n="5v;19"/>
+    <w>brengean</w>
+    <w>scolda</w>
+</xml>

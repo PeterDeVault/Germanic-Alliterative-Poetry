@@ -1,0 +1,1386 @@
+<xml>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    Beowulf
+                </title>
+                <subtitle>
+                    Fitts III-V
+                </subtitle>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    Cotton MS Vitellius A XV
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profDesc>
+            <langUsage> 
+                <language ident="ang">Old English</language>
+            </langUsage>
+        </profDesc>
+    </teiHeader>
+    <pb n="134r"/>
+    <lb n="134r;8"/><p>·III·</p><!-- this is the fitt heading centered in the manuscript line -->
+    <lb n="134r;9"/>
+    <w wc="t" msa="xAV" id="0" Σ="1"/>
+    <s m="2" wt="h" A="S">swā</s><w wc="c" msa="xPD" id="1" Σ="1"/>
+    <s m="1" wt="l" A="Þ">ða</s><w wc="s" msa="xAJ" c="1" id="2" Σ="1"/>
+    <s m="3" wt="o" A="M">mǣl</s><w wc="s" msa="xNC" c="2" id="3" Σ="2"/>
+    <s m="1" wt="l" A="K">ċea</s><s m="1" wt="l">re</s><w wc="s" msa="xNC" id="4" Σ="2"/>
+    <s m="1" wt="l" A="M">ma</s><s m="1" wt="l">ga</s><w wc="s" msa="xNP" c="1" id="5" Σ="1"/>
+    <s m="3" wt="o" A="H">healf</s><w wc="s" msa="xNP" c="2" id="6" Σ="2"/>
+    <s m="1" wt="l" A="D">de</s><s m="2" wt="h">nes</s><lb n="134r;10" after="5"/><!-- the line break occurs after the first five upcoming letters (singa/la) -->
+    <w wc="t" msa="xAV" id="7" Σ="3"/>
+    <s m="2" wt="h" A="S">sin</s><s m="2" wt="h">gā</s><s m="1" wt="l">la</s><w wc="t" msa="xVB fF" id="8" Σ="1"/>
+    <s m="3" wt="o" A="S">sēað</s><w wc="c" msa="xNX" id="9" Σ="1"/>
+    <s m="1" wt="l" A="N">ne</s><w wc="t" msa="xVX fF" id="10" Σ="2"/><s m="2" wt="h" A="M">mih</s><s m="1" wt="l">te</s><!--auxiliary verb-->
+    <w wc="s" msa="xAJ" epen="snotor" id="11" Σ="1"/>
+    <s m="3" wt="o" A="S">snotr</s><w wc="s" msa="xNC" id="12" Σ="2"/>
+    <s m="1" wt="l" A="H">hæ</s><s m="2" wt="h">leð</s><w wc="s" msa="xNC" id="13" Σ="1"/>
+    <s m="3" wt="o" A="W">wēan</s><w wc="c" msa="" c="1" id="14" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><lb n="134r;11"/>
+    <w wc="t" msa="xVB fI" c="2" id="15" Σ="2"/>
+    <s m="2" wt="h" A="W">wen</s><s m="2" wt="h">dan</s><w wc="t" msa="xVB fF" id="16" Σ="1"/>
+    <s m="2" wt="h" A="W">wæs</s><w wc="t" msa="xPD" expands="ꝥ" id="17" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="c" msa="xPX" p="1" id="18" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xNC" p="2" id="19" Σ="1"/>
+    <s m="2" wt="h" A="W">win</s><w wc="c" msa="xAV" id="20" Σ="1"/>
+    <s m="2" wt="h" A="T">tō</s><w wc="s" msa="xAJ" id="21" Σ="1"/>
+    <s m="3" wt="o" A="S">swȳð</s><w wc="s" msa="xAJ" id="22" Σ="1"/>
+    <s m="3" wt="o" A="L">lāþ</s><w wc="c" msa="xCC" expands="⁊" id="23" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><w wc="s" msa="xAJ" id="24" Σ="2"/>
+    <s m="3" wt="o" A="L">long</s><s m="2" wt="h">sum</s><w wc="t" msa="xRP" id="25" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þē</s><lb n="134r;12"/>
+    <w wc="c" msa="xAP" id="26" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="c" msa="xPD" id="27" Σ="1"/>
+    <s m="2" wt="h" A="Þ">ðā</s><w wc="s" msa="xNC" id="28" Σ="2"/>
+    <s m="2" wt="h" A="L">lēo</s><s m="1" wt="l">de</s><w wc="t" msa="xVB fF" id="29" Σ="2"/>
+    <s m="1" wt="l" A="B">be</s><s m="3" wt="o">cōm</s><w wc="s" msa="xNC" c="1" id="30" Σ="1"/>
+    <s m="3" wt="o" A="N">nȳd</s><w wc="s" msa="xNC" c="2" id="31" Σ="2"/>
+    <s m="1" wt="l" A="W">wra</s><s m="1" wt="l">cu</s><w wc="s" msa="xNC" c="1" id="32" Σ="1"/>
+    <s m="3" wt="o" A="N">nīþ</s><w wc="s" msa="sNC" c="2" id="33" Σ="1"/>
+    <s m="2" wt="h" A="G">grim</s><w wc="s" msa="xNC" c="1" id="34" Σ="1"/>
+    <s m="3" wt="o" A="N">niht</s><lb n="134r;13"/>
+    <w wc="s" msa="xNC" c="2" id="35" Σ="2"/>
+    <s m="2" wt="h" A="B">beal</s><s m="1" wt="l">wa</s><w wc="s" msa="xAJ" id="36" Σ="1"/>
+    <s m="4" wt="o" A="M">mǣst</s><w wc="c" msa="xPD" expands="ꝥ" id="37" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="c" msa="xAP" id="38" Σ="1"/>
+    <s m="2" wt="h" A="F">fram</s><w wc="s" msa="xNC" id="39" Σ="1"/>
+    <s m="3" wt="o" A="H">hām</s><w wc="c" msa="xPX" p="1" id="40" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="41" Σ="1"/>
+    <s m="3" wt="o" A="F">fræġn</s><w wc="s" msa="xNP" c="1" id="42" Σ="2"/>
+    <s m="1" wt="l" A="H">hi</s><s m="1" wt="l">ġe</s><lb n="134r;14" after="2"/>
+    <w wc="s" msa="xNP" c="2" id="43" Σ="2"/>
+    <s m="2" wt="h" A="L">lā</s><s m="2" wt="h">ces</s><w wc="s" msa="xNC" id="44" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þeġn</s><w wc="s" msa="xAJ" id="45" Σ="1"/>
+    <s m="2" wt="h" A="G">god</s><w wc="c" msa="xAP" id="46" Σ="1"/>
+    <s m="2" wt="h" A="M">mid</s><w wc="s" msa="xNC" id="47" Σ="2"/>
+    <s m="1" wt="l" A="G">ġea</s><s m="2" wt="h">tum</s><w wc="s" msa="xNP" id="48" Σ="2"/>
+    <s m="2" wt="h" A="G">gren</s><s m="2" wt="h">dles</s><w wc="s" msa="xNC" id="49" Σ="2"/>
+    <s m="2" wt="h" A="D">dǣ</s><s m="1" wt="l">da</s><lb n="134r;15"/>
+    <w wc="t" msa="xPD" id="50" Σ="1"/>
+    <s m="1" wt="l" A="S">se</s><w wc="t" msa="xVB fF" id="51" Σ="1"/>
+    <s m="2" wt="h" A="W">wæs</s><w wc="s" msa="xNC" c="1" id="52" Σ="1"/>
+    <s m="2" wt="h" A="M">mon</s><w wc="s" msa="xNC" c="2" id="53" Σ="2"/>
+    <s m="2" wt="h" A="K">cyn</s><s m="2" wt="h">nes</s><w wc="s" msa="xNC" id="54" Σ="3"/>
+    <s m="1" wt="l" A="M">mæ</s><s m="1" wt="l">ġe</s><s m="2" wt="h">nes</s><w wc="s" msa="xNC" id="55" Σ="2"/>
+    <s m="2" wt="h" A="ST">stren</s><s m="3" wt="o">ġest</s><w wc="c" msa="xAP" id="56" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><lb n="134r;16"/>
+    <w wc="c" msa="xPD" id="57" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þǣm</s><w wc="s" msa="xNC" id="58" Σ="2"/>
+    <s m="1" wt="l" A="D">dæ</s><s m="1" wt="l">ġe</s><w wc="c" msa="xPD" id="59" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þys</s><s m="2" wt="h">ses</s><w wc="s" msa="xNC" id="60" Σ="2"/>
+    <s m="2" wt="h" A="L">lī</s><s m="2" wt="h">fes</s><w wc="s" msa="xAJ" id="61" Σ="3"/>
+    <s m="1" wt="l" A="Ø">æ</s><s m="1" wt="l">þe</s><s m="1" wt="l">le</s><w wc="c" msa="xCC" expands="⁊" id="62" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><w wc="s" msa="xAJ" id="63" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ēa</s><s m="2" wt="h">cen</s><w wc="t" msa="xVB fF" id="64" Σ="1"/>
+    <s m="3" wt="o" A="H">hēt</s><lb n="134r;17"/>
+    <w wc="t" msa="xPE" id="65" Σ="1"/>
+    <s m="2" wt="h" A="H">him</s><w wc="s" msa="xNC" c="1" id="66" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ȳð</s><w wc="s" msa="xNC" c="2" id="67" Σ="2"/>
+    <s m="1" wt="l" A="L">li</s><s m="2" wt="h">dan</s><w wc="s" msa="xAJ" id="68" Σ="2"/>
+    <s m="2" wt="h" A="G">gō</s><s m="1" wt="l">dne</s><w wc="c" msa="xPX" p="1" id="69" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fI" p="2" id="70" Σ="2"/>
+    <s m="2" wt="h" A="G">ġyr</s><s m="2" wt="h">wan</s><w wc="t" msa="xVB fF" id="71" Σ="1"/>
+    <s m="2" wt="h" A="K">cwæð</s><w wc="t" msa="xPE" id="72" Σ="1"/>
+    <s m="2" wt="h" A="H">hē</s><w wc="s" msa="xNC" c="1" id="73" Σ="1"/>
+    <s m="3" wt="o" A="G">gūð</s><lb n="134r;18"/>
+    <w wc="s" msa="xNC" c="2" id="74" Σ="2"/>
+    <s m="1" wt="l" A="K">cy</s><s m="3" wt="o">ning</s><w wc="c" msa="xAP" id="75" Σ="2"/>
+    <s m="1" wt="l" A="Ø">o</s><s m="2" wt="h">fer</s><w wc="s" msa="xNC" c="1" id="76" Σ="1"/>
+    <s m="2" wt="h" A="S">swan</s><w wc="s" msa="xNC" c="2" id="77" Σ="2"/>
+    <s m="2" wt="h" A="R">rā</s><s m="1" wt="l">de</s><w wc="t" msa="xVB fI" id="78" Σ="2"/>
+    <s m="2" wt="h" A="S">sē</s><s m="2" wt="h">ċean</s><w wc="t" msa="xVB fF" id="79" Σ="2"/>
+    <s m="2" wt="h" A="W">wol</s><s m="1" wt="l">de</s><lb n="134r;19" after="3"/>
+    <w wc="s" msa="xAJ" id="80" Σ="2"/>
+    <s m="3" wt="o" A="M">mǣr</s><s m="1" wt="l">ne</s><w wc="s" msa="xNC" id="81" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þēo</s><s m="2" wt="h">den</s><w wc="t" msa="xCS" id="82" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="t" msa="xPE" id="83" Σ="1"/>
+    <s m="2" wt="h" A="H">him</s><w wc="t" msa="xVB fF" id="84" Σ="1"/>
+    <s m="2" wt="h" A="W">wæs</s><w wc="s" msa="xNC" id="85" Σ="2"/>
+    <s m="2" wt="h" A="M">man</s><s m="1" wt="l">na</s><w wc="s" msa="xNC" id="86" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þearf</s><w wc="c" msa="xPD" id="87" Σ="2"/>
+    <s m="1" wt="l" A="Þ">ðo</s><s m="1" wt="l">ne</s><lb n="134r;20"/>
+    <w wc="s" msa="xNC" c="1" id="88" Σ="1"/>
+    <s m="3" wt="o" A="S">sīð</s><w wc="s" msa="xNC" c="2" id="89" Σ="1"/>
+    <s m="2" wt="h" A="F">fæt</s><w wc="t" msa="xPE" id="90" Σ="1"/>
+    <s m="2" wt="h" A="H">him</s><w wc="s" msa="sAJ" id="91" Σ="3"/>
+    <s m="1" wt="l" A="S">sno</s><s m="1" wt="l">te</s><s m="1" wt="l">re</s><w wc="s" msa="xNC" id="92" Σ="2"/>
+    <s m="2" wt="h" A="K">ċeor</s><s m="2" wt="h">las</s><w wc="t" msa="xAV" c="1" id="93" Σ="1"/>
+    <s m="3" wt="o" A="L">lȳt</s><w wc="t" msa="xAV" c="2" id="94" Σ="1"/>
+    <s m="3" wt="o" A="H">hwōn</s><w wc="t" msa="xVB" id="95" Σ="2"/>
+    <s m="2" wt="h" A="L">lō</s><s m="2" wt="h">gon</s><pb n="134v"/><!-- the top line and top left margin have defects reflected in emendations below-->
+    <lb n="134v;1"/>
+    <w wc="t" msa="xCS" id="96" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þēah</s><w wc="t" msa="xPE" id="97" Σ="1"/>
+    <s m="2" wt="h" A="H">hē</s><w wc="t" msa="xPE" id="98" Σ="1"/>
+    <s m="2" wt="h" A="H">him</s><w wc="s" msa="xAJ" id="99" Σ="1"/>
+    <s m="3" wt="o" A="L">lēof</s><w wc="t" msa="xVB fF" id="100" Σ="2"/>
+    <s m="2" wt="h" A="W">wǣ</s><s m="1" wt="l">re</s><w wc="t" msa="xVB fF" id="101" Σ="2"/>
+    <s m="2" wt="h" A="H">hwet</s><s m="2" wt="h">ton</s><w wc="s" msa="xNC" c="1" id="102" Σ="2"/>
+    <s m="1" wt="l" A="H">hi</s><s m="1" wt="l">ge</s><w wc="s" msa="xNC" c="2" emends="" id="103" Σ="2"/>
+    <s m="2" wt="h" A="R">rō</s><s m="1" wt="l">fne</s><lb n="134v;2"/>
+    <w wc="s" msa="xNC" emends="l" id="104" Σ="1"/>
+    <s m="3" wt="o" A="H">hǣl</s><w wc="t" msa="xVB fF" id="105" Σ="3"/>
+    <s m="2" wt="h" A="S">scēa</s><s m="1" wt="l">we</s><s m="2" wt="h">don</s><w wc="t" msa="xVX" id="106" Σ="2"/>
+    <s m="2" wt="h" A="H">hæf</s><s m="1" wt="l">de</s><w wc="c" msa="xPD" id="107" Σ="1"/>
+    <s m="1" wt="l" A="S">se</s><w wc="s" msa="xNC" id="108" Σ="2"/><s m="2" wt="h" A="G">gō</s><s m="1" wt="l">da</s><!--substantivized adjective-->
+    <w wc="s" msa="xNP" id="109" Σ="2"/>
+    <s m="2" wt="h" A="G">ġēa</s><s m="1" wt="l">ta</s><w wc="s" msa="xNC" id="110" Σ="2"/>
+    <s m="2" wt="h" A="L">lēo</s><s m="1" wt="l">da</s><lb n="134v;3"/>
+    <w wc="s" msa="xNC" emends="empan" id="111" Σ="2"/>
+    <s m="2" wt="h" A="K">cem</s><s m="2" wt="h">pan</s><w wc="c" msa="xPX" p="1" id="112" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xVB fP" p="2" id="113" Σ="3"/>
+    <s m="1" wt="l" A="K">co</s><s m="1" wt="l">ro</s><s m="1" wt="l">ne</s><w wc="t" msa="xRP" id="114" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þā</s><s m="1" wt="l">ra</s><w wc="t" msa="xRP" id="115" Σ="1"/>
+    <s m="1" wt="l" A="Þ">þe</s><w wc="t" msa="xPE" id="116" Σ="1"/>
+    <s m="2" wt="h" A="H">hē</s><w wc="t" msa="xVB fF" id="117" Σ="3"/>
+    <s m="2" wt="h" A="K">cē</s><s m="2" wt="h">nos</s><s m="1" wt="l">te</s><lb n="134v;4"/>
+    <w wc="t" msa="xVB fI" id="118" Σ="2"/>
+    <s m="2" wt="h" A="F">fin</s><s m="2" wt="h">dan</s><w wc="t" msa="xVX" id="119" Σ="2"/>
+    <s m="2" wt="h" A="M">mih</s><s m="1" wt="l">te</s><w wc="s" msa="xAJ" expands="·XV·" id="120" Σ="3"/><s m="3" wt="o" A="F">fīf</s><s m="2" wt="h">tȳ</s><s m="1" wt="l">na</s><!-- 'NA' written above numerals -->
+    <w wc="s" msa="xAJ" id="121" Σ="1"/>
+    <s m="2" wt="h" A="S">sum</s><w wc="s" msa="xNC" c="1" id="122" Σ="1"/>
+    <s m="3" wt="o" A="S">sund</s><w wc="s" msa="xNC" c="2" id="123" Σ="2"/>
+    <s m="1" wt="l" A="W">wu</s><s m="1" wt="l">du</s><w wc="t" msa="xVB fF" id="124" Σ="2"/>
+    <s m="3" wt="o" A="S">sōh</s><s m="1" wt="l">te</s><lb n="134v;5"/>
+    <w wc="s" msa="xNC" id="125" Σ="1"/>
+    <s m="3" wt="o" A="S">secg</s><w wc="t" msa="xVB fF" id="126" Σ="3"/>
+    <s m="2" wt="h" A="W">wī</s><s m="1" wt="l">sa</s><s m="1" wt="l">de</s><w wc="s" msa="xNC" c="1" id="127" Σ="2"/>
+    <s m="1" wt="l" A="L">la</s><s m="1" wt="l">gu</s><w wc="s" msa="xAJ" c="2" id="128" Σ="2"/>
+    <s m="2" wt="h" A="K">cræf</s><s m="2" wt="h">tiġ</s><w wc="s" msa="xNC" id="129" Σ="1"/>
+    <s m="2" wt="h" A="M">mon</s><w wc="s" msa="xNC" c="1" id="130" Σ="1"/>
+    <s m="3" wt="o" A="L">land</s><lb n="134v;6" after="5"/><!--line begins after first element of compound ('land'), 
+                        the prefix of the second element (ge), 
+                        and the first three letters of the root (myr)-->
+    <w c="2" id="133">
+        </w>
+    <w wc="c" msa="xPX" p="1" id="132" Σ="1"/><s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xNC" p="2" id="131" Σ="2"/><s m="2" wt="h" A="M">myr</s><s m="1" wt="l">ċu</s><w wc="s" msa="xNC" id="134" Σ="1"/>
+    <s m="4" wt="o" A="F">fyrst</s><w wc="t" msa="xAV" id="135" Σ="1"/>
+    <s m="3" wt="o" A="F">forð</s><w wc="c" msa="xPX" pre="1" id="136" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" pre="2" id="137" Σ="1"/>
+    <s m="3" wt="o" A="W">wāt</s><w wc="s" msa="xNC" id="138" Σ="2"/>
+    <s m="1" wt="l" A="F">flo</s><s m="1" wt="l">ta</s><w wc="t" msa="xVB fF" id="139" Σ="1"/>
+    <s m="2" wt="h" A="W">wæs</s><w wc="c" msa="xAP" id="140" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="s" msa="xNC" id="141" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ȳ</s><s m="2" wt="h">ðum</s><pc>·</pc><!-- interdot -->
+    <lb n="134v;7"/>
+    <w wc="s" msa="xNC" id="142" Σ="1"/>
+    <s m="3" wt="o" A="B">bāt</s><w wc="c" msa="xAP" id="143" Σ="2"/>
+    <s m="2" wt="h" A="Ø">un</s><s m="2" wt="h">der</s><w wc="s" msa="xNC" id="144" Σ="2"/>
+    <s m="2" wt="h" A="B">beor</s><s m="1" wt="l">ge</s><w wc="s" msa="xNC" id="145" Σ="2"/>
+    <s m="2" wt="h" A="B">beor</s><s m="2" wt="h">nas</s><w wc="t" msa="xAJ" id="146" Σ="2"/>
+    <s m="2" wt="h" A="G">ġear</s><s m="1" wt="l">we</s><w wc="t" msa="xAP" id="147" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><lb n="134v;8"/>
+    <w wc="s" msa="xNC" id="148" Σ="1"/>
+    <s m="3" wt="o" A="ST">stefn</s><w wc="t" msa="xVB" id="149" Σ="2"/>
+    <s m="1" wt="l" A="ST">sti</s><s m="2" wt="h">gon</s><w wc="s" msa="xNC" id="150" Σ="2"/>
+    <s m="2" wt="h" A="ST">strēa</s><s m="2" wt="h">mas</s><w wc="t" msa="xVB fF" id="151" Σ="2"/>
+    <s m="2" wt="h" A="W">wun</s><s m="2" wt="h">don</s><w wc="s" msa="xNC" id="152" Σ="1"/>
+    <s m="3" wt="o" A="S">sund</s><w wc="t" msa="xAP" id="153" Σ="1"/>
+    <s m="2" wt="h" A="W">wið</s><lb n="134v;9" after="3"/>
+    <w wc="s" msa="xNC" id="154" Σ="2"/>
+    <s m="2" wt="h" A="S">san</s><s m="1" wt="l">de</s><w wc="s" msa="sNC" id="155" Σ="2"/>
+    <s m="2" wt="h" A="S">sec</s><s m="2" wt="h">gas</s><w wc="t" msa="xVB fF" id="156" Σ="2"/>
+    <s m="2" wt="h" A="B">bǣ</s><s m="2" wt="h">ron</s><w wc="c" msa="xAP" id="157" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="s" msa="xNC" id="158" Σ="1"/>
+    <s m="3" wt="o" A="B">bearm</s><w wc="s" msa="xNC" id="159" Σ="2"/>
+    <s m="1" wt="l" A="N">na</s><s m="2" wt="h">can</s><w wc="s" msa="xAJ" id="160" Σ="2"/>
+    <s m="3" wt="o" A="B">beorh</s><s m="1" wt="l">te</s><lb n="134v;10"/>
+    <w wc="s" msa="xNC" id="161" Σ="2"/>
+    <s m="2" wt="h" A="F">fræt</s><s m="1" wt="l">we</s><w wc="s" msa="xNC" c="1" id="162" Σ="1"/>
+    <s m="3" wt="o" A="G">gūð</s><w wc="s" msa="xNC" c="2" id="163" Σ="2"/>
+    <s m="1" wt="l" A="S">sea</s><s m="1" wt="l">ro</s><w wc="s" msa="xAJ" id="164" Σ="3"/>
+    <s m="1" wt="l" A="G">ġea</s><s m="1" wt="l">to</s><s m="2" wt="h">liċ</s><w wc="s" msa="xNC" id="165" Σ="2"/>
+    <s m="1" wt="l" A="G">gu</s><s m="2" wt="h">man</s><w wc="t" msa="xAV" id="166" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ūt</s><lb n="134v;11" after="3"/>
+    <w wc="t" msa="xVB fF" id="167" Σ="2"/>
+    <s m="1" wt="l" A="S">scu</s><s m="2" wt="h">fon</s><w wc="s" msa="xNC" id="168" Σ="2"/>
+    <s m="1" wt="l" A="W">we</s><s m="2" wt="h">ras</s><w wc="t" msa="xAP" id="169" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="s" msa="xNC" id="170" Σ="2"/>
+    <s m="2" wt="h" A="W">wil</s><s m="3" wt="o">sīð</s><w wc="s" msa="xNC" id="171" Σ="2"/>
+    <s m="1" wt="l" A="W">wu</s><s m="1" wt="l">du</s><w wc="s" msa="xVB fP" id="172" Σ="3"/>
+    <s m="2" wt="h" A="B">bun</s><s m="2" wt="h">den</s><s m="1" wt="l">ne</s><pc>·</pc>
+    <w wc="c" msa="xPX" p="1" id="173" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="174" Σ="1"/>
+    <s m="3" wt="o" A="W">wāt</s><lb n="134v;12"/>
+    <w wc="t" msa="xAV" id="175" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="c" msa="xAP" id="176" Σ="2"/>
+    <s m="1" wt="l" A="Ø">o</s><s m="2" wt="h">fer</s><w wc="s" msa="xNC" c="1" id="177" Σ="1"/>
+    <s m="3" wt="o" A="W">wǣġ</s><w wc="s" msa="xNC" c="2" id="178" Σ="1"/>
+    <s m="3" wt="o" A="H">holm</s><w wc="s" msa="" id="179" Σ="2"/>
+    <s m="2" wt="h" A="W">win</s><s m="1" wt="l">de</s><w wc="c" msa="xPX" p="1" id="180" Σ="1"/>&gt; <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fP" p="2" id="181" Σ="2"/>
+    <s m="2" wt="h" A="F">fȳ</s><s m="2" wt="h">sed</s><w wc="s" msa="" id="182" Σ="2"/>
+    <s m="1" wt="l" A="F">flo</s><s m="1" wt="l">ta</s><lb n="134v;13" after="2"/>
+    <w wc="s" msa="xAJ" c="1" id="183" Σ="2"/>
+    <s m="2" wt="h" A="F">fā</s><s m="2" wt="h">mī</s><w wc="s" msa="xNC" c="2" id="184" Σ="1"/>
+    <s m="3" wt="o" A="H">heals</s><w wc="s" msa="xNC" id="185" Σ="2"/>
+    <s m="2" wt="h" A="F">fug</s><s m="1" wt="l">le</s><w wc="c" msa="xPX" p="1" id="186" Σ="1"/>&gt; <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xAJ" p="2" id="187" Σ="2"/>
+    <s m="2" wt="h" A="L">lī</s><s m="3" wt="o">cost</s><w wc="t" msa="xSC" id="188" Σ="1"/>
+    <s m="2" wt="h" A="Ø">oð</s><w wc="t" msa="xSC" id="189" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="c" msa="xAP" id="190" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ymb</s><w wc="s" msa="xNC" c="1" id="191" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ān</s><w wc="s" msa="xNC" c="2" id="192" Σ="1"/>
+    <s m="3" wt="o" A="T">tīd</s><lb n="134v;14"/>
+    <w wc="s" msa="xAJ" id="193" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ō</s><s m="2" wt="h">þres</s><w wc="s" msa="xNC" epen="dōgores" id="194" Σ="2"/>
+    <s m="2" wt="h" A="D">dō</s><s m="2" wt="h">gres</s><w wc="s" msa="xVB fP" c="1" id="195" Σ="2"/>
+    <s m="2" wt="h" A="W">wun</s><s m="2" wt="h">den</s><w wc="s" msa="xNC" c="2" id="196" Σ="2"/>
+    <s m="2" wt="h" A="ST">stef</s><s m="1" wt="l">na</s><w wc="c" msa="xPX" p="1" id="197" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fP" p="2" id="198" Σ="2"/>
+    <s m="1" wt="l" A="W">wa</s><s m="2" wt="h">den</s><w wc="t" msa="xVB fF" id="199" Σ="2"/>
+    <s m="2" wt="h" A="H">hæf</s><s m="1" wt="l">de</s><lb n="134v;15"/>
+    <w wc="t" msa="xCS" expands="ꝥ" id="200" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="c" msa="xPD" id="201" Σ="1"/>
+    <s m="2" wt="h" A="Þ">ðā</s><w wc="s" msa="" id="202" Σ="3"/>
+    <s m="2" wt="h" A="L">lī</s><s m="2" wt="h">ðen</s><s m="1" wt="l">de</s><w wc="s" msa="xNC" id="203" Σ="1"/>
+    <s m="3" wt="o" A="L">land</s><w wc="c" msa="xPX" p="1" id="204" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="205" Σ="2"/>
+    <s m="2" wt="h" A="S">sā</s><s m="2" wt="h">won</s><w wc="s" msa="xNC" c="1" id="206" Σ="1"/>
+    <s m="2" wt="h" A="B">brim</s><w wc="s" msa="xNC" c="2" id="207" Σ="2"/>
+    <s m="1" wt="l" A="K">cli</s><s m="1" wt="l">fu</s><w wc="s" msa="xVB fI" id="208" Σ="2"/>
+    <s m="2" wt="h" A="B">blī</s><s m="2" wt="h">can</s><lb n="134v;16"/>
+    <w wc="m" msa="xNC" id="209" Σ="2"/>
+    <s m="2" wt="h" A="B">beor</s><s m="2" wt="h">gas</s><w wc="m" msa="xAJ" id="210" Σ="2"/>
+    <s m="2" wt="h" A="ST">stēa</s><s m="1" wt="l">pe</s><pc>·</pc>
+    <w wc="t" msa="xAJ" id="211" Σ="2"/>
+    <s m="2" wt="h" A="S">sī</s><s m="1" wt="l">de</s><w wc="s" msa="xNC" c="1" id="212" Σ="1"/>
+    <s m="2" wt="h" A="S">sǣ</s><w wc="s" msa="xNC" c="2" id="213" Σ="2"/>
+    <s m="2" wt="h" A="N">næs</s><s m="2" wt="h">sas</s><w wc="t" msa="xAV" id="214" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="t" msa="xVB fF" id="215" Σ="1"/>
+    <s m="2" wt="h" A="W">wæs</s><w wc="s" msa="xNC" id="216" Σ="1"/>
+    <s m="3" wt="o" A="S">sund</s><lb n="134v;17"/>
+    <w wc="s" msa="xVB fP" id="217" Σ="2"/>
+    <s m="1" wt="l" A="L">li</s><s m="2" wt="h">den</s><w wc="s" msa="xNC" id="218" Σ="3"/>
+    <s m="1" wt="l" A="Ø">eo</s><s m="1" wt="l">le</s><s m="2" wt="h">tes</s><w wc="c" msa="xAP" id="219" Σ="1"/>
+    <s m="2" wt="h" A="Ø">æt</s><w wc="s" msa="xNC" id="220" Σ="2"/>
+    <s m="2" wt="h" A="Ø">en</s><s m="1" wt="l">de</s><w wc="t" msa="xAV" id="221" Σ="2"/>
+    <s m="1" wt="l" A="Þ">þa</s><s m="2" wt="h">non</s><w wc="t" msa="xAP" id="222" Σ="1"/>
+    <s m="2" wt="h" A="Ø">up</s><w wc="t" msa="xAV" id="223" Σ="2"/>
+    <s m="1" wt="l" A="H">hra</s><s m="1" wt="l">ðe</s><lb n="134v;18" after="2"/>
+    <w wc="s" msa="xNC" id="224" Σ="3"/>
+    <s m="1" wt="l" A="W">we</s><s m="1" wt="l">de</s><s m="1" wt="l">ra</s><w wc="s" msa="xNC" id="225" Σ="2"/>
+    <s m="2" wt="h" A="L">lēo</s><s m="1" wt="l">de</s><w wc="c" msa="xAP" id="226" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="s" msa="xNC" id="227" Σ="1"/>
+    <s m="3" wt="o" A="W">wang</s><w wc="t" msa="xVB fF" id="228" Σ="2"/>
+    <s m="1" wt="l" A="ST">sti</s><s m="2" wt="h">gon</s><pc>·</pc>
+    <w wc="s" msa="xNC" c="1" id="229" Σ="1"/>
+    <s m="2" wt="h" A="S">sǣ</s><w wc="s" msa="xNC" c="2" id="230" Σ="2"/>
+    <s m="1" wt="l" A="W">wu</s><s m="1" wt="l">du</s><w wc="t" msa="xVB fF" id="231" Σ="2"/>
+    <s m="3" wt="o" A="S">sǣl</s><s m="2" wt="h">don</s><lb n="134v;19"/>
+    <w wc="s" msa="xNC" id="232" Σ="2"/>
+    <s m="2" wt="h" A="S">syr</s><s m="2" wt="h">ċan</s><w wc="t" msa="xVB fF" id="233" Σ="3"/>
+    <s m="1" wt="l" A="H">hry</s><s m="1" wt="l">se</s><s m="2" wt="h">don</s><w wc="s" msa="xNC" c="1" id="234" Σ="1"/>
+    <s m="3" wt="o" A="G">gūð</s><w c="2" id="237">
+        </w>
+    <w wc="c" msa="xPX" p="1" id="236" Σ="1"/><s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xNC" p="2" id="235" Σ="2"/><s m="2" wt="h" A="W">wǣ</s><s m="1" wt="l">do</s><w wc="s" msa="xNC" id="238" Σ="2"/>
+    <s m="1" wt="l" A="G">go</s><s m="1" wt="l">de</s><lb n="134v;20" after="3"/>
+    <w wc="t" msa="xVB fF" id="239" Σ="3"/>
+    <s m="2" wt="h" A="Þ">þan</s><s m="1" wt="l">ce</s><s m="2" wt="h">don</s><w wc="t" msa="xPD" id="240" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæs</s><w wc="t" msa="xRP" id="241" Σ="1"/>
+    <s m="1" wt="l" A="Þ">þe</s><w wc="t" msa="xPE" id="242" Σ="1"/>
+    <s m="2" wt="h" A="H">him</s><w wc="s" msa="xNC" c="1" id="243" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ȳþ</s><w wc="s" msa="xNC" c="2" id="244" Σ="2"/>
+    <s m="2" wt="h" A="L">lā</s><s m="1" wt="l">de</s><w wc="s" msa="xAJ" id="245" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ēa</s><s m="1" wt="l">ðe</s><w wc="t" msa="xVB fF" id="246" Σ="2"/>
+    <s m="2" wt="h" A="W">wur</s><s m="2" wt="h">don</s><pc>·</pc>
+    <pb n="135r"/>
+    <lb n="135r;1"/>
+    <w wc="t" msa="xAV" emends="" id="247" Σ="1"/><s m="2" wt="h" A="Þ">þā</s><!-- not visible on Electronic Beowulf facscimile -->
+    <w wc="c" msa="xAP" id="248" Σ="1"/>
+    <s m="2" wt="h" A="Ø">of</s><w wc="s" msa="xNC" id="249" Σ="2"/>
+    <s m="2" wt="h" A="W">weal</s><s m="1" wt="l">le</s><w wc="c" msa="xPX" p="1" id="250" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="251" Σ="1"/>
+    <s m="2" wt="h" A="S">seah</s><w wc="s" msa="xNC" id="252" Σ="1"/>
+    <s m="3" wt="o" A="W">weard</s><w wc="s" msa="xNC" id="253" Σ="3"/>
+    <s m="2" wt="h" A="S">scil</s><s m="2" wt="h">din</s><s m="1" wt="l">ga</s><w wc="t" msa="xPD" id="254" Σ="1"/>
+    <s m="2" wt="h" A="S">sē</s><w wc="t" msa="xRP" id="255" Σ="1"/>
+    <s m="1" wt="l" A="Þ">þe</s><w wc="s" msa="xNC" c="1" emends="" id="256" Σ="1"/><s m="3" wt="o" A="H">holm</s><!-- not visible in EB, 
+                        but another hand has 'holm' written under 'sē þe' -->
+    <lb n="135r;2"/>
+    <w wc="s" msa="xNC" c="2" id="257" Σ="2"/>
+    <s m="1" wt="l" A="K">cli</s><s m="1" wt="l">fu</s><w wc="t" msa="xVB fI" id="258" Σ="2"/>
+    <s m="2" wt="h" A="H">heal</s><s m="2" wt="h">dan</s><w wc="t" msa="xVX fF" id="259" Σ="2"/>
+    <s m="2" wt="h" A="S">scol</s><s m="1" wt="l">de</s><w wc="t" msa="xVB fI" id="260" Σ="2"/>
+    <s m="1" wt="l" A="B">be</s><s m="2" wt="h">ran</s><w wc="c" msa="xAP" id="261" Σ="2"/>
+    <s m="1" wt="l" A="Ø">o</s><s m="2" wt="h">fer</s><w wc="s" msa="xNC" id="262" Σ="2"/>
+    <s m="2" wt="h" A="B">bol</s><s m="2" wt="h">can</s><lb n="135r;3"/>
+    <w wc="s" msa="xAJ" id="263" Σ="2"/>
+    <s m="3" wt="o" A="B">beorh</s><s m="1" wt="l">te</s><w wc="s" msa="xNC" id="264" Σ="2"/>
+    <s m="2" wt="h" A="R">ran</s><s m="2" wt="h">das</s><w wc="s" msa="xNC" c="1" id="265" Σ="1"/>
+    <s m="3" wt="o" A="F">fyrd</s><w wc="s" msa="xNC" c="2" id="266" Σ="2"/>
+    <s m="1" wt="l" A="S">sea</s><s m="1" wt="l">ru</s><w wc="s" msa="xAJ" id="267" Σ="3"/>
+    <s m="2" wt="h" A="F">fū</s><s m="1" wt="l">sli</s><s m="1" wt="l">cu</s><w wc="t" msa="xPE" id="268" Σ="2"/>
+    <s m="1" wt="l" A="H">hi</s><s m="1" wt="l">ne</s><lb n="135r;4"/>
+    <w wc="s" msa="xAP" c="1" id="269" Σ="1"/>
+    <s m="2" wt="h" A="F">fyr</s><w wc="s" msa="xNC" c="2" id="270" Σ="1"/>
+    <s m="2" wt="h" A="W">wyt</s><w wc="t" msa="xVB fF" id="271" Σ="1"/>
+    <s m="2" wt="h" A="B">bræc</s><w wc="s" msa="xNC" c="1" id="272" Σ="1"/>
+    <s m="3" wt="o" A="M">mōd</s><w c="2" id="275">
+        </w>
+    <w wc="c" msa="xPX" p="1" id="274" Σ="1"/><s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xNC" p="2" id="273" Σ="2"/><s m="2" wt="h" A="H">hyġ</s><s m="2" wt="h">dum</s><w wc="t" msa="xPI" id="276" Σ="1"/>
+    <s m="2" wt="h" A="H">hwæt</s><w wc="t" msa="xPD" id="277" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="s" msa="xNC" id="278" Σ="1"/>
+    <s m="2" wt="h" A="M">men</s><lb n="135r;5"/>
+    <w wc="t" msa="xVB fF" id="279" Σ="2"/>
+    <s m="2" wt="h" A="W">wǣ</s><s m="2" wt="h">ron</s><w wc="c" msa="xPX" p="1" id="280" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="281" Σ="1"/>
+    <s m="3" wt="o" A="W">wāt</s><w wc="t" msa="xPE" id="282" Σ="1"/>
+    <s m="2" wt="h" A="H">him</s><w wc="t" msa="xAV" id="283" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="c" msa="xAP" id="284" Σ="1"/>
+    <s m="2" wt="h" A="T">tō</s><w wc="s" msa="xNC" id="285" Σ="3"/>
+    <s m="1" wt="l" A="W">wa</s><s m="1" wt="l">ro</s><s m="1" wt="l">ðe</s><w wc="s" msa="xNC" id="286" Σ="2"/>
+    <s m="2" wt="h" A="W">wic</s><s m="1" wt="l">ge</s><w wc="t" msa="xVB fF" emends="rīd" id="287" Σ="2"/>
+    <s m="2" wt="h" A="R">rī</s><s m="2" wt="h">dan</s><lb n="135r;6"/>
+    <w wc="s" msa="xNC" id="288" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þeġn</s><w wc="s" msa="xNP" c="1" id="289" Σ="1"/>
+    <s m="3" wt="o" A="H">hrōð</s><w wc="s" msa="xNP" c="2" id="290" Σ="2"/>
+    <s m="2" wt="h" A="G">gā</s><s m="2" wt="h">res</s><w wc="t" msa="xAV" id="291" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þrym</s><s m="2" wt="h">mum</s><w wc="t" msa="xVB fF" id="292" Σ="2"/>
+    <s m="2" wt="h" A="K">cweh</s><s m="1" wt="l">te</s><w wc="s" msa="xAJ" c="1" id="293" Σ="2"/>
+    <s m="1" wt="l" A="M">mæ</s><s m="2" wt="h">ġen</s><lb n="135r;7"/>
+    <w wc="s" msa="xNC" c="2" id="294" Σ="2"/>
+    <s m="1" wt="l" A="W">wu</s><s m="1" wt="l">du</s><w wc="s" msa="xNC" id="295" Σ="2"/>
+    <s m="2" wt="h" A="M">mun</s><s m="2" wt="h">dum</s><w wc="s" msa="xNC" c="1" id="296" Σ="2"/>
+    <s m="1" wt="l" A="M">me</s><s m="2" wt="h">þel</s><w wc="s" msa="xNC" c="2" id="297" Σ="2"/>
+    <s m="2" wt="h" A="W">wor</s><s m="2" wt="h">dum</s><w wc="t" msa="xVB fF" id="298" Σ="1"/>
+    <s m="3" wt="o" A="F">fræġn</s><w wc="t" msa="xPQ" id="299" Σ="1"/>
+    <s m="2" wt="h" A="H">hwæt</s><lb n="135r;8"/>
+    <w wc="t" msa="xVB fF" id="300" Σ="2"/>
+    <s m="2" wt="h" A="S">syn</s><s m="2" wt="h">don</s><w wc="t" msa="xPE" id="301" Σ="1"/>
+    <s m="2" wt="h" A="G">ġē</s><w wc="s" msa="xNC" c="1" id="302" Σ="2"/>
+    <s m="1" wt="l" A="S">sea</s><s m="1" wt="l">ro</s><w wc="s" msa="xVB fP" c="2" id="303" Σ="3"/>
+    <s m="2" wt="h" A="H">hæb</s><s m="2" wt="h">ben</s><s m="1" wt="l">dra</s><w wc="s" msa="xNC" id="304" Σ="2"/>
+    <s m="2" wt="h" A="B">byr</s><s m="2" wt="h">num</s><lb n="135r;9" after="4"/>
+    <w wc="s" msa="xVB fP" emends="wer de" id="305" Σ="3"/>
+    <s m="1" wt="l" A="W">we</s><s m="1" wt="l">re</s><s m="1" wt="l">de</s><w wc="t" msa="xRP" id="306" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þē</s><w wc="t" msa="xAV" id="307" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þus</s><w wc="s" msa="xAJ" id="308" Σ="2"/>
+    <s m="2" wt="h" A="B">bron</s><s m="1" wt="l">tne</s><w wc="s" msa="xNC" id="309" Σ="1"/>
+    <s m="3" wt="o" A="K">ċēol</s><w wc="c" msa="xAP" id="310" Σ="2"/>
+    <s m="1" wt="l" A="Ø">o</s><s m="2" wt="h">fer</s><w wc="s" msa="xNC" c="1" id="311" Σ="2"/>
+    <s m="1" wt="l" A="L">la</s><s m="1" wt="l">gu</s><w wc="s" msa="xNC" c="2" id="312" Σ="2"/>
+    <s m="2" wt="h" A="ST">strǣ</s><s m="1" wt="l">te</s><lb n="135r;10"/>
+    <w wc="t" msa="xVB fI" id="313" Σ="2"/>
+    <s m="2" wt="h" A="L">lǣ</s><s m="2" wt="h">dan</s><w wc="t" msa="xVB fF" id="314" Σ="2"/>
+    <s m="2" wt="h" A="K">cwō</s><s m="2" wt="h">mon</s><w wc="t" msa="xAV" id="315" Σ="2"/>
+    <s m="1" wt="l" A="H">hi</s><s m="2" wt="h">der</s><w wc="c" msa="xAP" id="316" Σ="2"/>
+    <s m="1" wt="l" A="Ø">o</s><s m="2" wt="h">fer</s><w wc="s" msa="xNC" id="317" Σ="2"/>
+    <s m="2" wt="h" A="H">hol</s><s m="2" wt="h">mas</s><w wc="t" msa="xPE" emends="" id="318" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><w wc="t" msa="xAV" emender="le" id="319" Σ="2"/>
+    <s m="2" wt="h" A="H">hwī</s><s m="1" wt="l">le</s><w wc="t" msa="xVB fF" id="320" Σ="1"/>
+    <s m="2" wt="h" A="W">wæs</s><lb n="135r;11"/>
+    <w wc="s" msa="xNC" c="1" id="321" Σ="2"/>
+    <s m="2" wt="h" A="Ø">en</s><s m="1" wt="l">de</s><w wc="s" msa="xNC" c="2" id="322" Σ="2"/>
+    <s m="2" wt="h" A="S">sǣ</s><s m="1" wt="l">ta</s><w wc="s" msa="xNC" c="1" id="323" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ǣġ</s><w wc="s" msa="xNC" c="2" id="324" Σ="2"/>
+    <s m="2" wt="h" A="W">wear</s><s m="1" wt="l">de</s><w wc="t" msa="xVB fF" id="325" Σ="1"/>
+    <s m="4" wt="o" A="H">hēold</s><w wc="t" msa="xPD" id="326" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þē</s><w wc="c" msa="xAP" id="327" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="s" msa="xNP" c="1" id="328" Σ="1"/>
+    <s m="3" wt="o" A="L">land</s><w wc="s" msa="xNP" c="2" id="329" Σ="2"/>
+    <s m="1" wt="l" A="D">de</s><s m="1" wt="l">na</s><lb n="135r;12"/>
+    <w wc="s" msa="xAJ" id="330" Σ="2"/>
+    <s m="2" wt="h" A="L">lā</s><s m="1" wt="l">ðra</s><w wc="t" msa="xPI" id="331" Σ="2"/>
+    <s m="2" wt="h" A="N">nǣ</s><s m="2" wt="h">niġ</s><w wc="c" msa="xAP" id="332" Σ="1"/>
+    <s m="2" wt="h" A="M">mid</s><w wc="s" msa="xNC" c="1" id="333" Σ="1"/>
+    <s m="2" wt="h" A="S">scip</s><w wc="s" msa="xNC" c="2" id="334" Σ="2"/>
+    <s m="2" wt="h" A="H">her</s><s m="1" wt="l">ġe</s><w wc="t" msa="xVB fI" id="335" Σ="2"/>
+    <s m="2" wt="h" A="S">sceð</s><s m="2" wt="h">þan</s><w wc="t" msa="xNX" id="336" Σ="1"/>
+    <s m="1" wt="l" A="N">ne</s><lb n="135r;13"/>
+    <w wc="t" msa="xVX fF" id="337" Σ="2"/>
+    <s m="2" wt="h" A="M">meah</s><s m="1" wt="l">te</s><w wc="t" msa="xAV" id="338" Σ="1"/>
+    <s m="2" wt="h" A="N">nō</s><w wc="t" msa="xAV" id="339" Σ="1"/>
+    <s m="3" wt="o" A="H">hēr</s><w wc="t" msa="xAV" id="340" Σ="3"/>
+    <s m="2" wt="h" A="K">cū</s><s m="1" wt="l">ðli</s><s m="2" wt="h">cor</s><w wc="t" msa="xVB fI" id="341" Σ="2"/>
+    <s m="1" wt="l" A="K">cu</s><s m="2" wt="h">man</s><w wc="c" msa="xPX" p="1" id="342" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="t" msa="xVB fF" p="2" id="343" Σ="2"/>
+    <s m="2" wt="h" A="G">gun</s><s m="2" wt="h">non</s><lb n="135r;14"/>
+    <w wc="s" msa="xNC" c="1" id="344" Σ="1"/>
+    <s m="3" wt="o" A="L">lind</s><w wc="s" msa="xVB fP" c="2" id="345" Σ="3"/>
+    <s m="2" wt="h" A="H">hæb</s><s m="2" wt="h">ben</s><s m="1" wt="l">de</s><w wc="t" msa="xNX" id="346" Σ="1"/>
+    <s m="2" wt="h" A="N">nē</s><w wc="t" msa="xPE" id="347" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xNC" c="1" id="348" Σ="2"/>
+    <s m="2" wt="h" A="L">lēa</s><s m="2" wt="h">fnes</s><w wc="s" msa="xNC" c="2" id="349" Σ="1"/>
+    <s m="3" wt="o" A="W">word</s><w wc="s" msa="xNC" c="1" id="350" Σ="1"/>
+    <s m="3" wt="o" A="G">gūð</s><lb n="135r;15"/>
+    <w wc="s" msa="xNC" c="2" id="351" Σ="3"/>
+    <s m="2" wt="h" A="F">frem</s><s m="2" wt="h">men</s><s m="1" wt="l">dra</s><w wc="t" msa="xAV" id="352" Σ="2"/>
+    <s m="2" wt="h" A="G">ġear</s><s m="1" wt="l">we</s><w wc="t" msa="xNX" id="353" Σ="1"/>
+    <s m="1" wt="l" A="N">ne</s><w wc="t" msa="xVB fF" id="354" Σ="2"/>
+    <s m="2" wt="h" A="W">wis</s><s m="2" wt="h">son</s><w wc="s" msa="xNC" id="355" Σ="2"/>
+    <s m="2" wt="h" A="M">mā</s><s m="1" wt="l">ga</s><w wc="c" msa="xPX" p="1" id="356" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><lb n="135r;16"/>
+    <w wc="s" msa="xNC" p="2" id="357" Σ="2"/>
+    <s m="2" wt="h" A="M">mē</s><s m="1" wt="l">du</s><w wc="t" msa="xAV" id="358" Σ="2"/>
+    <s m="2" wt="h" A="N">nǣ</s><s m="1" wt="l">fre</s><w wc="t" msa="xPE" id="359" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><w wc="s" msa="xAJ" id="360" Σ="2"/>
+    <s m="2" wt="h" A="M">mā</s><s m="2" wt="h">ran</s><w wc="c" msa="xPX" p="1" id="361" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="362" Σ="1"/>
+    <s m="2" wt="h" A="S">seah</s><w wc="s" msa="xNC" id="363" Σ="2"/>
+    <s m="2" wt="h" A="Ø">eor</s><s m="1" wt="l">la</s><w wc="c" msa="xAP" id="364" Σ="2"/>
+    <s m="1" wt="l" A="Ø">o</s><s m="2" wt="h">fer</s><lb n="135r;17"/>
+    <w wc="s" msa="xNC" id="365" Σ="2"/>
+    <s m="2" wt="h" A="Ø">eor</s><s m="2" wt="h">þan</s><w wc="t" msa="xCS" id="366" Σ="2"/>
+    <s m="2" wt="h" A="Þ">ðon</s><s m="1" wt="l">ne</s><w wc="t" msa="" id="367" Σ="1"/>
+    <s m="2" wt="h" A="Ø">is</s><w wc="t" msa="xPE" id="368" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ēo</s><s m="2" wt="h">wer</s><w wc="t" msa="xAJ" id="369" Σ="1"/><s m="2" wt="h" A="S">sum</s><!--treating this like a pronoun-->
+    <w wc="s" msa="xNC" id="370" Σ="1"/>
+    <s m="3" wt="o" A="S">secg</s><w wc="c" msa="sAP" id="371" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="s" msa="xNC" id="372" Σ="2"/>
+    <s m="2" wt="h" A="S">sear</s><s m="2" wt="h">wum</s><lb n="135r;18"/>
+    <w wc="t" msa="xVB fF" id="373" Σ="1"/>
+    <s m="2" wt="h" A="N">nis</s><w wc="t" msa="xPD" expands="ꝥ" id="374" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="s" msa="xNC" c="1" id="375" Σ="1"/>
+    <s m="3" wt="o" A="S">seld</s><w wc="s" msa="xNC" c="2" id="376" Σ="2"/>
+    <s m="1" wt="l" A="G">gu</s><s m="1" wt="l">ma</s><w wc="s" msa="xNC" id="377" Σ="2"/>
+    <s m="2" wt="h" A="W">wǣ</s><s m="2" wt="h">pnum</s><w wc="c" msa="xPX" p="1" id="378" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="379" Σ="2"/>
+    <s m="2" wt="h" A="W">weor</s><s m="2" wt="h">ðad</s><w wc="t" msa="xAV" emends="næfre" id="380" Σ="2"/>
+    <s m="2" wt="h" A="N">næf</s><s m="1" wt="l">re</s><lb n="135r;19"/>
+    <w wc="t" msa="xPE" id="381" Σ="1"/>
+    <s m="2" wt="h" A="H">him</s><w wc="t" msa="xPE" id="382" Σ="1"/>
+    <s m="2" wt="h" A="H">his</s><w wc="s" msa="xNC" id="383" Σ="2"/>
+    <s m="1" wt="l" A="W">wli</s><s m="1" wt="l">te</s><w wc="t" msa="xVB fF" id="384" Σ="2"/>
+    <s m="2" wt="h" A="L">lēo</s><s m="1" wt="l">ge</s><w wc="s" msa="xAJ" id="385" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ǣ</s><s m="2" wt="h">nliċ</s><w wc="s" msa="xNC" id="386" Σ="2"/>
+    <s m="2" wt="h" A="Ø">an</s><s m="3" wt="o">sȳn</s><w wc="t" msa="xAV" id="387" Σ="1"/>
+    <s m="2" wt="h" A="N">nū</s><lb n="135r;20"/>
+    <w wc="t" msa="xPE" id="388" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><w wc="t" msa="xPE" id="389" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ēo</s><s m="2" wt="h">wer</s><w wc="t" msa="xVX fF" id="390" Σ="1"/>
+    <s m="2" wt="h" A="S">sceal</s><w wc="s" msa="xAP" c="1" id="391" Σ="1"/>
+    <s m="2" wt="h" A="F">frum</s><w wc="s" msa="xNC" c="2" id="392" Σ="1"/>
+    <s m="2" wt="h" A="K">cyn</s><w wc="t" msa="xVB fI" id="393" Σ="2"/>
+    <s m="1" wt="l" A="W">wi</s><s m="2" wt="h">tan</s><w wc="t" msa="xCS" id="394" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ǣr</s><w wc="t" msa="xPE" id="395" Σ="1"/>
+    <s m="2" wt="h" A="G">ġē</s><w wc="" msa="xAV" id="396" Σ="1"/>
+    <s m="2" wt="h" A="F">fyr</s><pb n="135v"/><!-- top of page, esp. left margin, has missing portions, reflected in emendations below-->
+    <lb n="135v;1"/>
+    <w wc="t" msa="xAV" emends="an" id="397" Σ="2"/><s m="1" wt="l" A="H">heo</s><s m="2" wt="h">nan</s><!--'eonan' visible in a different hand under 'an'-->
+    <w wc="s" msa="xNC" c="1" id="398" Σ="1"/>
+    <s m="3" wt="o" A="L">lēas</s><w c="2" id="401">
+        </w>
+    <w wc="s" msa="xNC" c="1" id="400" Σ="1"/><s m="2" wt="h" A="S">scēa</s><w wc="s" msa="xNC" c="2" id="399" Σ="2"/><s m="1" wt="l" A="W">we</s><s m="2" wt="h">ras</s><w wc="c" msa="xAP" id="402" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="s" msa="xNC" c="1" id="403" Σ="1"/>
+    <s m="3" wt="o" A="L">land</s><w wc="" msa="xNP" c="2" emends="d" id="404" Σ="2"/>
+    <s m="1" wt="l" A="D">de</s><s m="1" wt="l">na</s><lb n="135v;2"/>
+    <w wc="t" msa="xAV" emends="urþur" id="405" Σ="2"/>
+    <s m="2" wt="h" A="F">fur</s><s m="2" wt="h">þur</s><w wc="t" msa="xVB fF" id="406" Σ="2"/>
+    <s m="2" wt="h" A="F">fē</s><s m="2" wt="h">ran</s><w wc="t" msa="xAV" id="407" Σ="1"/>
+    <s m="2" wt="h" A="N">nū</s><w wc="t" msa="xPE" id="408" Σ="1"/>
+    <s m="2" wt="h" A="G">ġē</s><w wc="s" msa="xAJ" c="1" id="409" Σ="1"/>
+    <s m="2" wt="h" A="F">feor</s><w wc="s" msa="xNC" c="2" id="410" Σ="1"/>
+    <s m="4" wt="o" A="B">būend</s><w wc="s" msa="xNC" c="1" id="411" Σ="2"/>
+    <s m="1" wt="l" A="M">me</s><s m="1" wt="l">re</s><lb n="135v;3"/>
+    <w wc="s" msa="xVB fP" c="2" id="412" Σ="3"/>
+    <s m="2" wt="h" A="L">lī</s><s m="2" wt="h">ðen</s><s m="1" wt="l">de</s><w wc="t" msa="xPE" emends="mine" id="413" Σ="2"/>
+    <s m="3" wt="o" A="M">mīn</s><s m="1" wt="l">ne</s><w wc="" msa="xPX" p="1" id="414" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="415" Σ="2"/>
+    <s m="2" wt="h" A="H">hȳ</s><s m="2" wt="h">rað</s><w wc="s" msa="xAV" c="1" id="416" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ān</s><w wc="s" msa="xAJ" c="1" id="417" Σ="2"/>
+    <s m="2" wt="h" A="F">feal</s><s m="1" wt="l">dne</s><w wc="c" msa="xPX" p="1" id="418" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><lb n="135v;4"/>
+    <w wc="s" msa="xNC" p="2" emends="ōht" id="419" Σ="1"/>
+    <s m="4" wt="o" A="Þ">þōht</s><w wc="s" msa="xNC" id="420" Σ="2"/>
+    <s m="1" wt="l" A="Ø">o</s><s m="3" wt="o">fost</s><w wc="t" msa="xVB fF" id="421" Σ="1"/>
+    <s m="2" wt="h" A="Ø">is</s><w wc="s" msa="xAJ" id="422" Σ="2"/>
+    <s m="2" wt="h" A="S">sē</s><s m="3" wt="o">lest</s><w wc="t" msa="xIM" id="423" Σ="1"/><s m="2" wt="h" A="T">tō</s><!-- infinitive marker -->
+    <w wc="c" msa="xPX" p="1" id="424" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fI" p="2" id="425" Σ="3"/>
+    <s m="2" wt="h" A="K">cȳ</s><s m="2" wt="h">ðan</s><s m="1" wt="l">ne</s><lb n="135v;5"/>
+    <w wc="t" msa="xPQ" emends="wanan" id="426" Σ="2"/>
+    <s m="1" wt="l" A="H">hwa</s><s m="2" wt="h">nan</s><w wc="t" msa="xPE" id="427" Σ="2"/>
+    <s m="3" wt="o" A="Ø">ēow</s><s m="1" wt="l">re</s><w wc="s" msa="xNC" id="428" Σ="2"/>
+    <s m="1" wt="l" A="K">cy</s><s m="1" wt="l">me</s><w wc="" msa="xVB fF" id="429" Σ="2"/>
+    <s m="2" wt="h" A="S">syn</s><s m="2" wt="h">don</s><pc>·</pc>
+    <lb n="135v;6"/>
+    <p>·IIII·</p><!-- fitt marker, middle of its own line-->
+    <lb n="135v;7"/>
+    <w wc="t" msa="xPE" id="430" Σ="1"/>
+    <s m="2" wt="h" A="H">Him</s><w wc="t" msa="xPD" id="431" Σ="1"/>
+    <s m="1" wt="l" A="S">se</s><w wc="s" msa="xNC" id="432" Σ="3"/>
+    <s m="2" wt="h" A="Ø">yl</s><s m="2" wt="h">des</s><s m="1" wt="l">ta</s><w wc="s" msa="xAV" c="1" expands="⁊" id="433" Σ="1"/>
+    <s m="3" wt="o" A="Ø">and</s><w wc="s" msa="xVB fF" c="2" id="434" Σ="3"/>
+    <s m="1" wt="l" A="S">swa</s><s m="1" wt="l">ro</s><s m="1" wt="l">de</s><w wc="s" msa="xNC" id="435" Σ="3"/>
+    <s m="1" wt="l" A="W">we</s><s m="1" wt="l">ro</s><s m="2" wt="h">des</s><w wc="s" msa="xNC" id="436" Σ="2"/>
+    <s m="2" wt="h" A="W">wī</s><s m="1" wt="l">sa</s><lb n="135v;8"/>
+    <w wc="s" msa="xNC" c="1" id="437" Σ="1"/>
+    <s m="3" wt="o" A="W">word</s><w wc="s" msa="xNC" c="2" id="438" Σ="1"/>
+    <s m="3" wt="o" A="H">hord</s><w wc="c" msa="xPX" p="1" id="439" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="t" msa="xVB fF" p="2" id="440" Σ="1"/>
+    <s m="3" wt="o" A="L">lēac</s><w wc="t" msa="xPE" id="441" Σ="1"/>
+    <s m="1" wt="l" A="W">we</s><w wc="t" msa="xVB fF" id="442" Σ="1"/>
+    <s m="3" wt="o" A="S">synt</s><w wc="s" msa="xNC" c="1" id="443" Σ="1"/>
+    <s m="2" wt="h" A="G">gum</s><w wc="s" msa="xNC" c="2" id="444" Σ="2"/>
+    <s m="2" wt="h" A="K">cyn</s><s m="2" wt="h">nes</s><lb n="135v;9"/>
+    <w wc="s" msa="xNP" id="445" Σ="2"/>
+    <s m="2" wt="h" A="G">ġēa</s><s m="1" wt="l">ta</s><w wc="s" msa="xNC" id="446" Σ="2"/>
+    <s m="2" wt="h" A="L">lēo</s><s m="1" wt="l">de</s><w wc="c" msa="xCC" expands="⁊" id="447" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><w wc="s" msa="xNP" c="1" id="448" Σ="2"/>
+    <s m="1" wt="l" A="H">hi</s><s m="1" wt="l">ge</s><w wc="s" msa="xNP" c="2" id="449" Σ="2"/>
+    <s m="2" wt="h" A="L">lā</s><s m="2" wt="h">ces</s><w wc="s" msa="xNC" c="1" id="450" Σ="1"/>
+    <s m="3" wt="o" A="H">heorð</s><w c="2" id="453">
+        </w>
+    <w wc="c" msa="xPX" p="1" id="452" Σ="1"/><s m="1" wt="l" A="G">ġe</s><w wc="s" msa="" p="2" id="451" Σ="2"/><s m="2" wt="h" A="N">nēa</s><s m="2" wt="h">tas</s><pc>·</pc>
+    <lb n="135v;10"/>
+    <w wc="t" msa="xVX fF" id="454" Σ="1"/><s m="2" wt="h" A="W">wæs</s><!--used as auxiliary-->
+    <w wc="t" msa="xPE" id="455" Σ="1"/>
+    <s m="3" wt="o" A="M">mīn</s><w wc="s" msa="xNC" id="456" Σ="2"/>
+    <s m="1" wt="l" A="F">fæ</s><s m="2" wt="h">der</s><w wc="s" msa="xNC" id="457" Σ="2"/>
+    <s m="2" wt="h" A="F">fol</s><s m="2" wt="h">cum</s><w wc="c" msa="xPX" p="1" id="458" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fP" p="2" id="459" Σ="2"/>
+    <s m="2" wt="h" A="K">cȳ</s><s m="2" wt="h">þed</s><w wc="s" msa="xAJ" id="460" Σ="3"/>
+    <s m="1" wt="l" A="Ø">æ</s><s m="1" wt="l">þe</s><s m="1" wt="l">le</s><lb n="135v;11"/>
+    <w wc="s" msa="xNC" c="1" id="461" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ord</s><w wc="s" msa="xNC" c="2" id="462" Σ="2"/>
+    <s m="1" wt="l" A="F">fru</s><s m="1" wt="l">ma</s><w wc="s" msa="xNP" c="1" id="463" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ecg</s><w wc="s" msa="xNP" c="2" id="464" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þēow</s><w wc="t" msa="xVB fF" id="465" Σ="2"/>
+    <s m="2" wt="h" A="H">hā</s><s m="2" wt="h">ten</s><w wc="c" msa="xPX" p="1" id="466" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="467" Σ="1"/>
+    <s m="3" wt="o" A="B">bād</s><w wc="s" msa="xNC" id="468" Σ="2"/>
+    <s m="2" wt="h" A="W">win</s><s m="1" wt="l">tra</s><lb n="135v;12"/>
+    <w wc="s" msa="xNC" id="469" Σ="1"/>
+    <s m="3" wt="o" A="W">worn</s><w wc="c" msa="xAP" id="470" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ǣr</s><w wc="t" msa="xPE" id="471" Σ="1"/>
+    <s m="2" wt="h" A="H">hē</s><w wc="s" msa="xNC" id="472" Σ="1"/>
+    <s m="2" wt="h" A="W">weġ</s><w wc="t" msa="xVB fF" id="473" Σ="2"/>
+    <s m="2" wt="h" A="H">hwur</s><s m="1" wt="l">fe</s><w wc="s" msa="xAJ" id="474" Σ="2"/>
+    <s m="1" wt="l" A="G">ga</s><s m="2" wt="h">mol</s><w wc="c" msa="xAP" id="475" Σ="1"/>
+    <s m="2" wt="h" A="Ø">of</s><lb n="135v;13" after="4"/>
+    <w wc="s" msa="xNC" id="476" Σ="2"/>
+    <s m="2" wt="h" A="G">ġear</s><s m="2" wt="h">dum</s><w wc="t" msa="" id="477" Σ="2"/>
+    <s m="1" wt="l" A="H">hi</s><s m="1" wt="l">ne</s><w wc="t" msa="xAV" id="478" Σ="2"/>
+    <s m="2" wt="h" A="G">ġear</s><s m="1" wt="l">we</s><w wc="c" msa="xPX" p="1" id="479" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="480" Σ="1"/>
+    <s m="2" wt="h" A="M">man</s><w wc="s" msa="xNC" id="481" Σ="3"/>
+    <s m="1" wt="l" A="W">wi</s><s m="1" wt="l">te</s><s m="1" wt="l">na</s><lb n="135v;14" after="3"/>
+    <w wc="t" msa="xPI" id="482" Σ="2"/>
+    <s m="3" wt="o" A="W">wēlh</s><s m="3" wt="o">wylċ</s><w wc="t" msa="xAV" id="483" Σ="2"/>
+    <s m="2" wt="h" A="W">wī</s><s m="1" wt="l">de</s><w wc="t" msa="xAP" id="484" Σ="1"/>
+    <s m="3" wt="o" A="G">ġeond</s><w wc="s" msa="xNC" id="485" Σ="2"/>
+    <s m="2" wt="h" A="Ø">eor</s><s m="2" wt="h">þan</s><pc>·</pc>
+    <w wc="t" msa="xPE" id="486" Σ="1"/>
+    <s m="2" wt="h" A="W">wē</s><w wc="t" msa="xAP" id="487" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þurh</s><w wc="s" msa="xAJ" id="488" Σ="2"/>
+    <s m="2" wt="h" A="H">hol</s><s m="1" wt="l">dne</s><lb n="135v;15"/>
+    <w wc="s" msa="xNC" id="489" Σ="2"/>
+    <s m="1" wt="l" A="H">hi</s><s m="1" wt="l">ġe</s><w wc="s" msa="xNC" id="490" Σ="2"/><s m="2" wt="h" A="H">hlā</s><s m="3" wt="o">ford</s><!--'hlaford' written twice, the second crossed out by the scribe-->
+    <w wc="t" msa="xPE" id="491" Σ="2"/>
+    <s m="3" wt="o" A="Þ">þīn</s><s m="1" wt="l">ne</s><w wc="s" msa="xNC" id="492" Σ="2"/>
+    <s m="1" wt="l" A="S">su</s><s m="1" wt="l">nu</s><w wc="s" msa="xNP" c="1" id="493" Σ="1"/>
+    <s m="3" wt="o" A="H">healf</s><lb n="135v;16"/>
+    <w wc="s" msa="xNP" c="2" id="494" Σ="2"/>
+    <s m="1" wt="l" A="D">de</s><s m="2" wt="h">nes</s><w wc="t" msa="xVB fI" id="495" Σ="2"/>
+    <s m="2" wt="h" A="S">sē</s><s m="2" wt="h">ċean</s><w wc="t" msa="xVB fI" id="496" Σ="2"/>
+    <s m="2" wt="h" A="K">cwō</s><s m="2" wt="h">mon</s><w wc="s" msa="" c="1" id="497" Σ="1"/>
+    <s m="3" wt="o" A="L">lēod</s><w c="2" id="500">
+        </w>
+    <w wc="c" msa="xPX" p="1" id="499" Σ="1"/><s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xNC" p="2" id="498" Σ="2"/><s m="2" wt="h" A="B">byr</s><s m="2" wt="h">ġean</s><lb n="135v;17"/>
+    <w wc="t" msa="xVB fF" id="501" Σ="1"/>
+    <s m="2" wt="h" A="W">wes</s><w wc="t" msa="xPE" id="502" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þū</s><w wc="t" msa="xPE" id="503" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ūs</s><w wc="s" msa="xNC" id="504" Σ="3"/>
+    <s m="2" wt="h" A="L">lā</s><s m="1" wt="l">re</s><s m="1" wt="l">na</s><w wc="s" msa="xAJ" id="505" Σ="1"/>
+    <s m="3" wt="o" A="G">gōd</s><pc>·</pc>
+    <w wc="t" msa="xVB fF" id="506" Σ="2"/>
+    <s m="2" wt="h" A="H">hab</s><s m="2" wt="h">bað</s><w wc="t" msa="xPE" id="507" Σ="1"/>
+    <s m="2" wt="h" A="W">wē</s><w wc="c" msa="xAP" id="508" Σ="1"/>
+    <s m="2" wt="h" A="T">tō</s><w wc="c" msa="xPD" id="509" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæm</s><lb n="135v;18"/>
+    <w wc="s" msa="xNC" id="510" Σ="2"/><s m="2" wt="h" A="M">mǣ</s><s m="2" wt="h">ran</s><!--substantivized-->
+    <w wc="s" msa="xAJ" id="511" Σ="2"/>
+    <s m="1" wt="l" A="M">mi</s><s m="2" wt="h">ċel</s><w wc="s" msa="xNC" id="512" Σ="3"/>
+    <s m="2" wt="h" A="Ø">ǣ</s><s m="2" wt="h">ren</s><s m="1" wt="l">de</s><w wc="s" msa="xNP" id="513" Σ="3"/>
+    <s m="1" wt="l" A="D">de</s><s m="1" wt="l">ni</s><s m="1" wt="l">ġa</s><w wc="s" msa="xNC" id="514" Σ="1"/><s m="2" wt="h" A="F">freân</s><!-- have to implement hiatus in the syllable breaker -->
+    <pc>·</pc>
+    <w wc="t" msa="xNX" id="515" Σ="1"/>
+    <s m="1" wt="l" A="N">ne</s><lb n="135v;19"/>
+    <w wc="t" msa="xVX fF" id="516" Σ="1"/>
+    <s m="2" wt="h" A="S">sceal</s><w wc="t" msa="xAV" id="517" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þǣr</s><w wc="s" msa="xAJ" id="518" Σ="2"/>
+    <s m="2" wt="h" A="D">dyr</s><s m="1" wt="l">ne</s><w wc="s" msa="sAJ" id="519" Σ="1"/>
+    <s m="2" wt="h" A="S">sum</s><w wc="t" msa="xVB fI" id="520" Σ="2"/>
+    <s m="1" wt="l" A="W">we</s><s m="2" wt="h">san</s><w wc="t" msa="xPD" id="521" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæs</s><w wc="t" msa="xPE" id="522" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><lb n="135v;20"/>
+    <w wc="t" msa="xVB fF" id="523" Σ="2"/>
+    <s m="2" wt="h" A="W">wē</s><s m="1" wt="l">ne</s><w wc="t" msa="xPE" id="524" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þū</s><w wc="t" msa="xVB fF" id="525" Σ="1"/>
+    <s m="4" wt="o" A="W">wāst</s><w wc="t" msa="xCS" id="526" Σ="1"/>
+    <s m="2" wt="h" A="G">ġif</s><w wc="t" msa="xPE" id="527" Σ="1"/>
+    <s m="2" wt="h" A="H">hit</s><w wc="t" msa="xVB fF" id="528" Σ="1"/>
+    <s m="2" wt="h" A="Ø">is</s><w wc="t" msa="xCS" id="529" Σ="1"/>
+    <s m="2" wt="h" A="S">swā</s><w wc="t" msa="xPE" id="530" Σ="1"/>
+    <s m="2" wt="h" A="W">wē</s><w wc="t" msa="xAV" id="531" Σ="3"/>
+    <s m="2" wt="h" A="S">sō</s><s m="2" wt="h">þlī</s><s m="1" wt="l">ċe</s><pb n="136r"/>
+    <lb n="136r;1"/>
+    <w wc="t" msa="xVB fI" id="532" Σ="2"/>
+    <s m="2" wt="h" A="S">sec</s><s m="2" wt="h">gan</s><w wc="t" msa="xVB fF" id="533" Σ="2"/>
+    <s m="3" wt="o" A="H">hȳr</s><s m="2" wt="h">don</s><w wc="t" msa="xCS" expands="ꝥ" id="534" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="c" msa="xAP" id="535" Σ="1"/>
+    <s m="2" wt="h" A="M">mid</s><w wc="s" msa="xNC" id="536" Σ="3"/>
+    <s m="2" wt="h" A="S">scyl</s><s m="2" wt="h">din</s><s m="2" wt="h">gum</s><w wc="s" msa="xNC" emends="sce" id="537" Σ="3"/>
+    <s m="1" wt="l" A="S">scea</s><s m="1" wt="l">ðo</s><s m="1" wt="l">na</s><lb n="136r;2"/>
+    <w wc="t" msa="xPE" emends="iċ" id="538"/><!--nothing to see here -->
+    <w wc="t" msa="xVB fF" id="539" Σ="1"/>
+    <s m="3" wt="o" A="N">nāt</s><w wc="t" msa="xPQ" id="540" Σ="1"/>
+    <s m="3" wt="o" A="H">hwylċ</s><w wc="s" msa="xAJ" id="541" Σ="2"/>
+    <s m="2" wt="h" A="D">dēo</s><s m="2" wt="h">gol</s><w wc="s" msa="xNC" c="1" id="542" Σ="1"/>
+    <s m="3" wt="o" A="D">dǣd</s><w wc="s" msa="xNC" c="2" id="543" Σ="2"/>
+    <s m="1" wt="l" A="H">ha</s><s m="1" wt="l">ta</s><w wc="s" msa="xAJ" id="544" Σ="2"/>
+    <s m="2" wt="h" A="D">deor</s><s m="2" wt="h">cum</s><lb n="136r;3"/>
+    <w wc="s" msa="xNC" id="545" Σ="2"/>
+    <s m="2" wt="h" A="N">nih</s><s m="2" wt="h">tum</s><w wc="t" msa="xVB fF" id="546" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ēa</s><s m="2" wt="h">weð</s><w wc="c" msa="xAP" id="547" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þurh</s><w wc="s" msa="xNC" id="548" Σ="2"/>
+    <s m="2" wt="h" A="Ø">eġ</s><s m="2" wt="h">san</s><w wc="s" msa="xAJ" id="549" Σ="3"/>
+    <s m="2" wt="h" A="Ø">un</s><s m="2" wt="h">cū</s><s m="1" wt="l">ðne</s><w wc="s" msa="xNC" id="550" Σ="1"/>
+    <s m="3" wt="o" A="N">nīð</s><lb n="136r;4"/>
+    <w wc="s" msa="xNC" id="551" Σ="2"/>
+    <s m="3" wt="o" A="H">hȳn</s><s m="1" wt="l">ðu</s><w wc="t" msa="xCC" expands="⁊" id="552" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><w wc="s" msa="xNC" c="1" id="553" Σ="1"/>
+    <s m="2" wt="h" A="H">hrā</s><w wc="s" msa="xNC" c="2" id="554" Σ="1"/>
+    <s m="2" wt="h" A="F">fyl</s><w wc="t" msa="xPE" id="555" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><w wc="t" msa="xPD" id="556" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæs</s><w wc="s" msa="xNP" c="1" id="557" Σ="1"/>
+    <s m="3" wt="o" A="H">hrōð</s><w wc="s" msa="xNP" c="2" id="558" Σ="1"/>
+    <s m="3" wt="o" A="G">gār</s><w wc="t" msa="xVX fF" id="559" Σ="1"/>
+    <s m="2" wt="h" A="M">mæġ</s><w wc="c" msa="xAP" emends="þur" id="560" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þurh</s><lb n="136r;5"/>
+    <w wc="s" msa="xAJ" id="561" Σ="2"/>
+    <s m="3" wt="o" A="R">rūm</s><s m="1" wt="l">ne</s><w wc="s" msa="xNC" id="562" Σ="2"/>
+    <s m="1" wt="l" A="S">se</s><s m="2" wt="h">fan</s><w wc="s" msa="xNC" id="563" Σ="1"/>
+    <s m="3" wt="o" A="R">rǣd</s><w wc="c" msa="xPX" p="1" id="564" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fI" p="2" id="565" Σ="2"/>
+    <s m="2" wt="h" A="L">lǣ</s><s m="2" wt="h">ran</s><pc>.</pc>
+    <w wc="t" msa="xCS" id="566" Σ="1"/>
+    <s m="2" wt="h" A="H">hū</s><w wc="t" msa="xPE" id="567" Σ="1"/>
+    <s m="2" wt="h" A="H">hē</s><w wc="s" msa="xAJ" id="568" Σ="1"/>
+    <s m="3" wt="o" A="F">frōd</s><w wc="t" msa="xCC" emends="" expands="⁊" id="569" Σ="1"/><s m="3" wt="o" A="Ø">ond</s><!--'⁊' not visible in EB-->
+    <lb n="136r;6"/>
+    <w wc="s" msa="xAJ" id="570" Σ="1"/>
+    <s m="3" wt="o" A="G">gōd</s><w wc="s" msa="xNC" id="571" Σ="1"/>
+    <s m="4" wt="o" A="F">fēond</s><w wc="c" msa="xAP" c="1" id="572" Σ="2"/>
+    <s m="1" wt="l" A="Ø">o</s><s m="2" wt="h">fer</s><w wc="t" msa="xVB fF" c="2" id="573" Σ="2"/>
+    <s m="2" wt="h" A="S">swȳ</s><s m="2" wt="h">ðeþ</s><w wc="t" msa="xCS" id="574" Σ="1"/>
+    <s m="2" wt="h" A="G">ġyf</s><w wc="t" msa="xPE" id="575" Σ="1"/>
+    <s m="2" wt="h" A="H">him</s><w wc="t" msa="xVB fI" emends="edwend" id="576" Σ="3"/>
+    <s m="2" wt="h" A="Ø">ed</s><s m="2" wt="h">wen</s><s m="2" wt="h">den</s><lb n="136r;7"/>
+    <w wc="t" msa="xAV" id="577" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ǣ</s><s m="1" wt="l">fre</s><w wc="t" msa="xVX fF" id="578" Σ="2"/>
+    <s m="2" wt="h" A="S">scol</s><s m="1" wt="l">de</s><pc>.</pc>
+    <w wc="s" msa="xNC" id="579" Σ="3"/>
+    <s m="1" wt="l" A="B">bea</s><s m="1" wt="l">lu</s><s m="1" wt="l">wa</s><w wc="s" msa="xNC" id="580" Σ="3"/>
+    <s m="1" wt="l" A="B">bi</s><s m="1" wt="l">si</s><s m="1" wt="l">gu</s><w wc="s" msa="xC" id="581" Σ="1"/>
+    <s m="3" wt="o" A="B">bōt</s><w wc="t" msa="xAV" id="582" Σ="1"/>
+    <s m="3" wt="o" A="Ø">eft</s><lb n="136r;8"/>
+    <w wc="t" msa="xVB fI" id="583" Σ="2"/>
+    <s m="1" wt="l" A="K">cu</s><s m="2" wt="h">man</s><w wc="t" msa="xCC" emends="⁊" id="584" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><w wc="c" msa="xPD" id="585" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="s" msa="xNC" c="1" id="586" Σ="1"/>
+    <s m="2" wt="h" A="K">ċear</s><w wc="s" msa="xNC" c="2" id="587" Σ="2"/>
+    <s m="2" wt="h" A="W">wyl</s><s m="2" wt="h">mas</s><w wc="s" msa="xAJ" id="588" Σ="2"/>
+    <s m="3" wt="o" A="K">cōl</s><s m="2" wt="h">ran</s><w wc="t" msa="xVB fF" id="589" Σ="2"/>
+    <s m="2" wt="h" A="W">wur</s><s m="2" wt="h">ðaþ</s><lb n="136r;9"/>
+    <w wc="t" msa="xCC" id="590" Σ="2"/>
+    <s m="2" wt="h" A="Ø">oð</s><s m="1" wt="l">ðe</s><w wc="t" msa="xAV" id="591" Σ="1"/>
+    <s m="2" wt="h" A="Ø">ā</s><w wc="t" msa="xAV" id="592" Σ="2"/>
+    <s m="2" wt="h" A="S">syþ</s><s m="2" wt="h">ðan</s><w wc="s" msa="xNC" c="1" id="593" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ear</s><s m="2" wt="h">foð</s><w wc="s" msa="xNC" c="2" id="594" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þrā</s><s m="1" wt="l">ge</s><w wc="s" msa="xNC" c="1" id="595" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þrēa</s><w wc="s" msa="xNC" c="2" id="596" Σ="1"/>
+    <s m="3" wt="o" A="N">nȳd</s><lb n="136r;10"/>
+    <w wc="t" msa="xVB fI" id="597" Σ="2"/>
+    <s m="1" wt="l" A="Þ">þo</s><s m="2" wt="h">lað</s><w wc="t" msa="xCS" id="598" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þen</s><s m="2" wt="h">den</s><w wc="t" msa="xAV" id="599" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þǣr</s><w wc="t" msa="xVB fF" id="600" Σ="2"/>
+    <s m="1" wt="l" A="W">wu</s><s m="2" wt="h">nað</s><w wc="c" msa="xAP" id="601" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="s" msa="xAJ" c="1" id="602" Σ="1"/>
+    <s m="3" wt="o" A="H">hēah</s><w wc="s" msa="xNC" c="2" id="603" Σ="2"/>
+    <s m="1" wt="l" A="ST">ste</s><s m="1" wt="l">de</s><lb n="136r;11"/>
+    <w wc="s" msa="xNC" id="604" Σ="2"/>
+    <s m="2" wt="h" A="H">hū</s><s m="1" wt="l">sa</s><w wc="s" msa="xAJ" id="605" Σ="2"/>
+    <s m="2" wt="h" A="S">sē</s><s m="3" wt="o">lest</s><pc>·</pc>
+    <w wc="s" msa="xNC" id="606" Σ="1"/>
+    <s m="3" wt="o" A="W">weard</s><w wc="t" msa="xVB fF" id="607" Σ="4"/>
+    <s m="1" wt="l" A="M">ma</s><s m="1" wt="l">þe</s><s m="1" wt="l">lo</s><s m="1" wt="l">de</s><w wc="t" msa="xRP" id="608" Σ="1"/>
+    <s m="3" wt="o" A="Þ">ðǣr</s><w wc="c" msa="xAP" id="609" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="s" msa="xNC" id="610" Σ="2"/>
+    <s m="2" wt="h" A="W">wic</s><s m="1" wt="l">ge</s><lb n="136r;12"/>
+    <w wc="t" msa="xVB fF" id="611" Σ="1"/>
+    <s m="2" wt="h" A="S">sæt</s><w wc="s" msa="xNC" id="612" Σ="2"/>
+    <s m="2" wt="h" A="Ø">om</s><s m="3" wt="o">beht</s><w wc="s" msa="xAJ" id="613" Σ="2"/>
+    <s m="2" wt="h" A="Ø">un</s><s m="4" wt="o">forht</s><w wc="t" msa="xPI" id="614" Σ="3"/>
+    <s m="3" wt="o" A="Ø">ǣġh</s><s m="2" wt="h">wæþ</s><s m="2" wt="h">res</s><w wc="t" msa="xVX fF" id="615" Σ="1"/>
+    <s m="2" wt="h" A="S">sceal</s><lb n="136r;13"/>
+    <w wc="s" msa="xAJ" id="616" Σ="1"/>
+    <s m="3" wt="o" A="S">scearp</s><w wc="s" msa="xNC" c="1" id="617" Σ="1"/>
+    <s m="3" wt="o" A="S">scyld</s><w wc="s" msa="xNC" c="2" id="618" Σ="2"/>
+    <s m="1" wt="l" A="W">wi</s><s m="1" wt="l">ga</s><w wc="c" msa="xPX" p="1" id="619" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xNC" p="2" id="620" Σ="1"/>
+    <s m="3" wt="o" A="S">scād</s><w wc="t" msa="xVB fI" id="621" Σ="2"/>
+    <s m="1" wt="l" A="W">wi</s><s m="2" wt="h">tan</s><w wc="s" msa="xNC" id="622" Σ="2"/>
+    <s m="2" wt="h" A="W">wor</s><s m="1" wt="l">da</s><lb n="136r;14"/>
+    <w wc="c" msa="xCC" expands="⁊" id="623" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><w wc="s" msa="xNC" id="624" Σ="2"/>
+    <s m="2" wt="h" A="W">wor</s><s m="1" wt="l">ca</s><w wc="t" msa="xPD" id="625" Σ="1"/>
+    <s m="2" wt="h" A="S">sē</s><w wc="t" msa="xRP" id="626" Σ="1"/>
+    <s m="1" wt="l" A="Þ">þe</s><w wc="t" msa="xAV" id="627" Σ="1"/>
+    <s m="3" wt="o" A="W">wēl</s><w wc="t" msa="xVB fF" id="628" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þen</s><s m="2" wt="h">ċeð</s><w wc="t" msa="xPE" id="629" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><w wc="t" msa="xPD" expands="ꝥ" id="630" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="c" msa="xPX" p="1" id="631" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="632" Σ="2"/>
+    <s m="2" wt="h" A="H">hȳ</s><s m="1" wt="l">re</s><w wc="t" msa="xCS" id="633" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><lb n="136r;15"/>
+    <w wc="t" msa="xPD" id="634" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þis</s><w wc="t" msa="xVB fF" id="635" Σ="1"/>
+    <s m="2" wt="h" A="Ø">is</s><w wc="s" msa="xAJ" id="636" Σ="1"/>
+    <s m="3" wt="o" A="H">hold</s><w wc="s" msa="xNC" id="637" Σ="2"/>
+    <s m="1" wt="l" A="W">weo</s><s m="2" wt="h">rod</s><w wc="s" msa="xNC" id="638" Σ="1"/>
+    <s m="3" wt="o" A="F">frēan</s><w wc="s" msa="xNP" id="639" Σ="3"/>
+    <s m="2" wt="h" A="S">scyl</s><s m="2" wt="h">din</s><s m="1" wt="l">ga</s><w wc="c" msa="xPX" p="1" id="640" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="" msa="xVB" p="2" id="641" Σ="2"/>
+    <s m="2" wt="h" A="W">wī</s><s m="2" wt="h">taþ</s><lb n="136r;16"/>
+    <w wc="t" msa="xAV" id="642" Σ="1"/>
+    <s m="3" wt="o" A="F">forð</s><w wc="t" msa="xVB fI" id="643" Σ="2"/>
+    <s m="1" wt="l" A="B">be</s><s m="2" wt="h">ran</s><w wc="s" msa="xNC" id="644" Σ="2"/>
+    <s m="2" wt="h" A="W">wǣ</s><s m="2" wt="h">pen</s><w wc="c" msa="xCC" expands="⁊" id="645" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><w wc="c" msa="xPX" p="1" id="646" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xNC" p="2" id="647" Σ="2"/>
+    <s m="2" wt="h" A="W">wǣ</s><s m="1" wt="l">du</s><w wc="t" msa="xPE" id="648" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><w wc="t" msa="xPE" id="649" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ēow</s><w wc="t" msa="xVB fF" id="650" Σ="3"/>
+    <s m="2" wt="h" A="W">wī</s><s m="1" wt="l">si</s><s m="1" wt="l">ġe</s><lb n="136r;17"/>
+    <w wc="t" msa="xAV" id="651" Σ="2"/>
+    <s m="2" wt="h" A="S">swyl</s><s m="1" wt="l">ċe</s><w wc="t" msa="xPE" id="652" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><w wc="s" msa="xNC" c="1" id="653" Σ="2"/>
+    <s m="1" wt="l" A="M">ma</s><s m="1" wt="l">gu</s><w wc="s" msa="xNC" c="2" id="654" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þeġ</s><s m="2" wt="h">nas</s><w wc="t" msa="xPE" id="655" Σ="2"/>
+    <s m="2" wt="h" A="M">mī</s><s m="1" wt="l">ne</s><w wc="t" msa="xVB fF" id="656" Σ="2"/>
+    <s m="2" wt="h" A="H">hā</s><s m="1" wt="l">te</s><w wc="c" msa="xAP" id="657" Σ="1"/>
+    <s m="2" wt="h" A="W">wið</s><lb n="136r;18"/>
+    <w wc="s" msa="xNC" id="658" Σ="2"/>
+    <s m="3" wt="o" A="F">fēon</s><s m="1" wt="l">da</s><w wc="c" msa="xPX" p="1" id="659" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xPI" p="2" id="660" Σ="2"/>
+    <s m="1" wt="l" A="H">hwo</s><s m="1" wt="l">ne</s><w wc="s" msa="xNC" id="661" Σ="2"/>
+    <s m="1" wt="l" A="F">flo</s><s m="2" wt="h">tan</s><w wc="s" msa="xAJ" id="662" Σ="3"/>
+    <s m="2" wt="h" A="Ø">ēo</s><s m="2" wt="h">wer</s><s m="1" wt="l">ne</s><w wc="s" msa="xAJ" c="1" id="663" Σ="1"/>
+    <s m="3" wt="o" A="N">nīw</s><lb n="136r;19"/>
+    <w wc="s" msa="xAJ" c="2" id="664" Σ="3"/>
+    <s m="2" wt="h" A="T">tyr</s><s m="2" wt="h">wyd</s><s m="1" wt="l">ne</s><w wc="s" msa="xNC" id="665" Σ="2"/>
+    <s m="1" wt="l" A="N">na</s><s m="2" wt="h">can</s><w wc="c" msa="xAP" id="666" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="s" msa="xNC" id="667" Σ="2"/>
+    <s m="2" wt="h" A="S">san</s><s m="1" wt="l">de</s><w wc="s" msa="xNC" id="668" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ā</s><s m="2" wt="h">rum</s><lb n="136r;20" after="4"/>
+    <w wc="t" msa="xVB fI" id="669" Σ="2"/>
+    <s m="2" wt="h" A="H">heal</s><s m="2" wt="h">dan</s><w wc="t" msa="xCS" id="670" Σ="1"/>
+    <s m="2" wt="h" A="Ø">oþ</s><w wc="t" msa="xCS" id="671" Σ="1"/>
+    <s m="2" wt="h" A="Þ">ðæt</s><w wc="t" msa="xAV" id="672" Σ="1"/>
+    <s m="3" wt="o" A="Ø">eft</s><w wc="t" msa="xVB fF" id="673" Σ="2"/>
+    <s m="1" wt="l" A="B">by</s><s m="2" wt="h">reð</s><w wc="c" msa="xAP" id="674" Σ="2"/>
+    <s m="1" wt="l" A="Ø">o</s><s m="2" wt="h">fer</s><w wc="s" msa="xNC" c="1" id="675" Σ="2"/>
+    <s m="1" wt="l" A="L">la</s><s m="1" wt="l">gu</s><pb n="136v" after="5"/>
+    <!-- page ends after 'strea'. the top left margin of the next-->
+    <lb n="136v;1" after="5"/>
+    <!-- page is clipped with 'mas' presumably-->
+    <w wc="s" msa="xNC" c="2" emends="strea" id="676" Σ="2"/><s m="2" wt="h" A="ST">strēa</s><s m="2" wt="h">mas</s><!-- in the undamaged manuscript-->
+    <w wc="s" msa="xAJ" id="677" Σ="2"/>
+    <s m="2" wt="h" A="L">lēo</s><s m="1" wt="l">fne</s><w wc="s" msa="xNC" id="678" Σ="2"/>
+    <s m="2" wt="h" A="M">man</s><s m="2" wt="h">nan</s><w wc="s" msa="xNC" id="679" Σ="2"/>
+    <s m="1" wt="l" A="W">wu</s><s m="1" wt="l">du</s><w wc="s" msa="xVB fP" c="1" id="680" Σ="2"/>
+    <s m="2" wt="h" A="W">wun</s><s m="2" wt="h">den</s><w wc="s" msa="xNC" c="2" emends="ha" id="681" Σ="1"/>
+    <s m="3" wt="o" A="H">hals</s><lb n="136v;2"/>
+    <w wc="c" msa="xAP" emends="" id="682" Σ="1"/>
+    <s m="2" wt="h" A="T">tō</s><!--top right corner clipp-->
+    <w wc="s" msa="xNC" c="1" id="683" Σ="2"/>
+    <s m="1" wt="l" A="W">we</s><s m="2" wt="h">der</s><w wc="s" msa="xNC" c="2" id="684" Σ="2"/>
+    <s m="2" wt="h" A="M">mear</s><s m="1" wt="l">ce</s><w wc="s" msa="xAJ" c="1" id="685" Σ="1"/>
+    <s m="3" wt="o" A="G">gōd</s><w wc="s" msa="xVB fP" c="2" id="686" Σ="3"/>
+    <s m="2" wt="h" A="F">frem</s><s m="2" wt="h">men</s><s m="1" wt="l">dra</s><lb n="136v;3"/>
+    <w wc="t" msa="xPD" id="687" Σ="2"/>
+    <s m="2" wt="h" A="S">swyl</s><s m="2" wt="h">cum</s><w wc="s" msa="xAJ" id="688" Σ="3"/>
+    <s m="1" wt="l" A="G">ġi</s><s m="1" wt="l">fe</s><s m="1" wt="l">þe</s><w wc="t" msa="xVB fF" id="689" Σ="1"/>
+    <s m="2" wt="h" A="B">bið</s><w wc="t" msa="xCS" emends="ꝥ" id="690" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="t" msa="xPD" id="691" Σ="2"/>
+    <s m="1" wt="l" A="Þ">þo</s><s m="1" wt="l">ne</s><w wc="s" msa="xNC" c="1" id="692" Σ="2"/>
+    <s m="2" wt="h" A="H">hil</s><s m="1" wt="l">de</s><w wc="s" msa="xNC" c="2" id="693" Σ="1"/>
+    <s m="3" wt="o" A="R">rǣs</s><lb n="136v;4"/>
+    <w wc="s" msa="xAJ" emends="al" id="694" Σ="1"/>
+    <s m="3" wt="o" A="H">hāl</s><w wc="c" msa="xAP" p="1" id="695" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="696" Σ="2"/>
+    <s m="2" wt="h" A="D">dī</s><s m="2" wt="h">ġeð</s><pc>·</pc>
+    <w wc="c" msa="xPX" p="1" id="697" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="698" Σ="2"/>
+    <s m="1" wt="l" A="W">wi</s><s m="2" wt="h">ton</s><w wc="t" msa="xPE" id="699" Σ="1"/>
+    <s m="2" wt="h" A="H">him</s><w wc="t" msa="xAV" id="700" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="t" msa="xVB fI" id="701" Σ="2"/>
+    <s m="2" wt="h" A="F">fē</s><s m="2" wt="h">ran</s><w wc="s" msa="xNC" id="702" Σ="2"/>
+    <s m="1" wt="l" A="F">flo</s><s m="1" wt="l">ta</s><lb n="136v;5"/>
+    <w wc="s" msa="xAJ" emends="ille" id="703" Σ="2"/>
+    <s m="2" wt="h" A="ST">stil</s><s m="1" wt="l">le</s><w wc="t" msa="xVB fF" id="704" Σ="1"/>
+    <s m="3" wt="o" A="B">bād</s><w wc="t" msa="xVB fF" id="705" Σ="3"/>
+    <s m="1" wt="l" A="S">seo</s><s m="1" wt="l">mo</s><s m="1" wt="l">de</s><w wc="c" msa="xAP" id="706" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="s" msa="xNC" emends="sole" id="707" Σ="2"/>
+    <s m="2" wt="h" A="S">sā</s><s m="1" wt="l">le</s><w wc="s" msa="xAJ" c="1" id="708" Σ="1"/>
+    <s m="3" wt="o" A="S">sīd</s><w wc="s" msa="xVB fP" c="2" id="709" Σ="2"/>
+    <s m="2" wt="h" A="F">fæþ</s><s m="2" wt="h">med</s><lb n="136v;6"/>
+    <w wc="s" msa="xNC" emends="ip" id="710" Σ="1"/>
+    <s m="2" wt="h" A="S">scip</s><w wc="c" msa="xAP" id="711" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="s" msa="xNC" id="712" Σ="2"/>
+    <s m="2" wt="h" A="Ø">an</s><s m="1" wt="l">cre</s><w wc="s" msa="xAJ" id="713" Σ="1"/>
+    <s m="3" wt="o" A="F">fæst</s><w wc="s" msa="xNC" id="714" Σ="3"/>
+    <s m="1" wt="l" A="Ø">eo</s><s m="2" wt="h">for</s><s m="3" wt="o">līċ</s><w wc="t" msa="xVB fF" id="715" Σ="2"/>
+    <s m="1" wt="l" A="S">scio</s><s m="2" wt="h">non</s><lb n="136v;7"/>
+    <w wc="c" msa="xAP" id="716" Σ="2"/>
+    <s m="1" wt="l" A="Ø">o</s><s m="2" wt="h">fer</s><w wc="s" msa="xNC" c="1" id="717" Σ="1"/>
+    <s m="3" wt="o" A="H">hlēor</s><w wc="s" msa="xNC" c="2" emends="beran" id="718" Σ="2"/>
+    <s m="2" wt="h" A="B">ber</s><s m="2" wt="h">gan</s><w wc="c" msa="xPX" p="1" id="719" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xAJ" p="2" id="720" Σ="2"/>
+    <s m="1" wt="l" A="H">hro</s><s m="2" wt="h">den</s><w wc="s" msa="xNC" id="721" Σ="2"/>
+    <s m="2" wt="h" A="G">gol</s><s m="1" wt="l">de</s><w wc="s" msa="xAJ" id="722" Σ="1"/>
+    <s m="3" wt="o" A="F">fāh</s><lb n="136v;8"/>
+    <w wc="c" msa="xCC" emends="" expands="⁊" id="723" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><w wc="s" msa="xNC" c="1" id="724" Σ="1"/>
+    <s m="3" wt="o" A="F">fȳr</s><w wc="s" msa="xAJ" c="2" id="725" Σ="1"/>
+    <s m="3" wt="o" A="H">heard</s><w wc="s" msa="xNC" c="1" id="726" Σ="1"/>
+    <s m="3" wt="o" A="F">ferh</s><w wc="s" msa="xNC" c="2" id="727" Σ="2"/>
+    <s m="2" wt="h" A="W">wear</s><s m="1" wt="l">de</s><w wc="t" msa="xVB fF" id="728" Σ="1"/>
+    <s m="4" wt="o" A="H">hēold</s><w wc="s" msa="xNC" c="1" id="729" Σ="1"/>
+    <s m="3" wt="o" A="G">gūþ</s><w wc="s" msa="xAJ" c="2" id="730" Σ="1"/>
+    <s m="3" wt="o" A="M">mōd</s><lb n="136v;9"/>
+    <w wc="t" msa="xVB fF" emends="grummon" id="731" Σ="2"/>
+    <s m="3" wt="o" A="G">grīm</s><s m="2" wt="h">mon</s><w wc="s" msa="xNC" id="732" Σ="2"/>
+    <s m="1" wt="l" A="G">gu</s><s m="2" wt="h">man</s><w wc="t" msa="xVB fF" id="733" Σ="3"/>
+    <s m="2" wt="h" A="Ø">ō</s><s m="2" wt="h">net</s><s m="2" wt="h">ton</s><w wc="t" msa="xVB fF" id="734" Σ="2"/>
+    <s m="1" wt="l" A="S">si</s><s m="2" wt="h">gon</s><lb n="136v;10" after="2"/>
+    <w wc="t" msa="xAV" id="735" Σ="3"/>
+    <s m="2" wt="h" A="Ø">æt</s><s m="2" wt="h">som</s><s m="1" wt="l">ne</s><w wc="t" msa="xCS" id="736" Σ="1"/>
+    <s m="2" wt="h" A="Ø">oþ</s><w wc="t" msa="xCS" expands="ꝥ" id="737" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="t" msa="xPE" id="738" Σ="1"/>
+    <s m="2" wt="h" A="H">hȳ</s><w wc="s" msa="xNC" c="1" emends="æl" id="739" Σ="1"/>
+    <s m="2" wt="h" A="S">sæl</s><w wc="s" msa="xVB fP" c="2" id="740" Σ="2"/>
+    <s m="2" wt="h" A="T">tim</s><s m="2" wt="h">bred</s><w wc="s" msa="xAJ" id="741" Σ="3"/>
+    <s m="1" wt="l" A="G">ġea</s><s m="1" wt="l">to</s><s m="2" wt="h">liċ</s><w wc="c" msa="xCC" expands="⁊" id="742" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><lb n="136v;11"/>
+    <w wc="s" msa="xNC" c="1" id="743" Σ="1"/>
+    <s m="3" wt="o" A="G">gold</s><w wc="s" msa="xVB fF" c="2" id="744" Σ="1"/>
+    <s m="3" wt="o" A="F">fāh</s><w wc="c" msa="xPX" p="1" id="745" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="t" msa="xVB fI" p="2" id="746" Σ="2"/>
+    <s m="1" wt="l" A="G">ġy</s><s m="2" wt="h">ton</s><w wc="t" msa="xVX fF" id="747" Σ="2"/>
+    <s m="2" wt="h" A="M">mih</s><s m="2" wt="h">ton</s><w wc="t" msa="xPD" expands="ꝥ" id="748" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="t" msa="xVB fF" id="749" Σ="1"/>
+    <s m="2" wt="h" A="W">wæs</s><w wc="s" msa="xAV" c="1" id="750" Σ="2"/>
+    <s m="1" wt="l" A="F">fo</s><s m="1" wt="l">re</s><lb n="136v;12"/>
+    <w wc="s" msa="xAJ" c="2" id="751" Σ="2"/>
+    <s m="2" wt="h" A="M">mǣ</s><s m="3" wt="o">rost</s><w wc="s" msa="xNC" c="1" id="752" Σ="1"/>
+    <s m="3" wt="o" A="F">fold</s><w wc="s" msa="xNC" c="2" id="753" Σ="2"/>
+    <s m="3" wt="o" A="B">būen</s><s m="2" wt="h">dum</s><w wc="s" msa="xNC" id="754" Σ="3"/>
+    <s m="1" wt="l" A="R">re</s><s m="1" wt="l">ċe</s><s m="1" wt="l">da</s><w wc="c" msa="xAP" id="755" Σ="2"/>
+    <s m="2" wt="h" A="Ø">un</s><s m="2" wt="h">der</s><lb n="136v;13"/>
+    <w wc="s" msa="xNC" id="756" Σ="3"/>
+    <s m="1" wt="l" A="R">ro</s><s m="1" wt="l">de</s><s m="2" wt="h">rum</s><w wc="c" msa="xAP" id="757" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="t" msa="xPD" id="758" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þǣm</s><w wc="t" msa="xPD" id="759" Σ="1"/>
+    <s m="1" wt="l" A="S">se</s><w wc="s" msa="xNC" id="760" Σ="2"/>
+    <s m="2" wt="h" A="R">rī</s><s m="1" wt="l">ċa</s><w wc="t" msa="xVB fF" id="761" Σ="1"/>
+    <s m="3" wt="o" A="B">bād</s><w wc="t" msa="xVB fF" id="762" Σ="2"/>
+    <s m="3" wt="o" A="L">līx</s><s m="1" wt="l">te</s><w wc="" msa="" id="763" Σ="1"/>
+    <s m="1" wt="l" A="S">se</s><lb n="136v;14"/>
+    <w wc="s" msa="xNC" id="764" Σ="2"/>
+    <s m="2" wt="h" A="L">lēo</s><s m="1" wt="l">ma</s><w wc="c" msa="xAP" id="765" Σ="2"/>
+    <s m="1" wt="l" A="Ø">o</s><s m="2" wt="h">fer</s><w wc="s" msa="xNC" id="766" Σ="2"/>
+    <s m="2" wt="h" A="L">lan</s><s m="1" wt="l">da</s><w wc="s" msa="xAJ" id="767" Σ="2"/>
+    <s m="1" wt="l" A="F">fe</s><s m="1" wt="l">la</s><pc>.</pc>
+    <w wc="" msa="xPE" id="768" Σ="1"/>
+    <s m="2" wt="h" A="H">him</s><w wc="" msa="xAV" id="769" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="" msa="xNC" c="1" id="770" Σ="2"/>
+    <s m="2" wt="h" A="H">hil</s><s m="1" wt="l">de</s><lb n="136v;15"/>
+    <w wc="s" msa="xNC" c="2" id="771" Σ="1"/>
+    <s m="3" wt="o" A="D">dēor</s><w wc="s" msa="xNC" emends="of" id="772" Σ="1"/><s m="2" wt="h" A="H">hof</s><!--EB, not Klaeber -->
+    <w wc="s" msa="xAJ" id="773" Σ="3"/>
+    <s m="2" wt="h" A="M">mō</s><s m="2" wt="h">diġ</s><s m="1" wt="l">ra</s><w wc="s" msa="xAJ" id="774" Σ="1"/>
+    <s m="4" wt="o" A="T">torht</s><w wc="c" msa="xPX" p="1" id="775" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="776" Σ="2"/>
+    <s m="3" wt="o" A="T">tǣh</s><s m="1" wt="l">te</s><w wc="t" msa="xCS" id="777" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><lb n="136v;16"/>
+    <w wc="t" msa="xPE" id="778" Σ="1"/>
+    <s m="2" wt="h" A="H">hīe</s><w wc="t" msa="xPE" id="779" Σ="1"/>
+    <s m="2" wt="h" A="H">him</s><w wc="c" msa="xAP" id="780" Σ="1"/>
+    <s m="2" wt="h" A="T">tō</s><w wc="t" msa="xVX fF" id="781" Σ="2"/>
+    <s m="2" wt="h" A="M">mih</s><s m="2" wt="h">ton</s><w wc="t" msa="xAV" id="782" Σ="2"/>
+    <s m="2" wt="h" A="G">ġeġ</s><s m="2" wt="h">num</s><w wc="t" msa="xVB fI" id="783" Σ="2"/>
+    <s m="2" wt="h" A="G">gan</s><s m="2" wt="h">gan</s><lb n="136v;17"/>
+    <w wc="s" msa="xNC" c="1" id="784" Σ="1"/>
+    <s m="3" wt="o" A="G">gūð</s><w wc="s" msa="xNC" p="2" id="785" Σ="2"/>
+    <s m="2" wt="h" A="B">beor</s><s m="1" wt="l">na</s><w wc="s" msa="xAJ" id="786" Σ="1"/>
+    <s m="2" wt="h" A="S">sum</s><w wc="s" msa="xNC" id="787" Σ="1"/>
+    <s m="3" wt="o" A="W">wicg</s><w wc="c" msa="xPX" p="1" id="788" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="XVB fF" p="2" id="789" Σ="2"/>
+    <s m="2" wt="h" A="W">wen</s><s m="1" wt="l">de</s><w wc="s" msa="xNC" id="790" Σ="1"/>
+    <s m="3" wt="o" A="W">word</s><lb n="136v;18"/>
+    <w wc="t" msa="xAV" id="791" Σ="2"/>
+    <s m="2" wt="h" A="Ø">æf</s><s m="2" wt="h">ter</s><w wc="t" msa="xVB fF" id="792" Σ="1"/>
+    <s m="2" wt="h" A="K">cwæð</s><w wc="s" msa="xNC" id="793" Σ="1"/>
+    <s m="3" wt="o" A="M">mǣl</s><w wc="t" msa="xVB fF" id="794" Σ="1"/>
+    <s m="2" wt="h" A="Ø">is</s><w wc="t" msa="xPE" id="795" Σ="1"/>
+    <s m="2" wt="h" A="M">mē</s><w wc="c" msa="xIM" id="796" Σ="1"/>
+    <s m="1" wt="l" A="T">to</s><w wc="t" msa="xVB fI" id="797" Σ="2"/>
+    <s m="2" wt="h" A="F">fē</s><s m="2" wt="h">ran</s><w wc="s" msa="xNC" id="798" Σ="2"/>
+    <s m="1" wt="l" A="F">fæ</s><s m="2" wt="h">der</s><lb n="136v;19"/>
+    <w wc="s" msa="sAV" c="1" id="799" Σ="1"/>
+    <s m="2" wt="h" A="Ø">al</s><w wc="s" msa="sAJ" c="2" id="800" Σ="2"/>
+    <s m="2" wt="h" A="W">wal</s><s m="1" wt="l">da</s><w wc="c" msa="xAP" id="801" Σ="1"/>
+    <s m="2" wt="h" A="M">mid</s><w wc="s" msa="xNC" c="1" id="802" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ār</s><w wc="s" msa="xNC" c="2" id="803" Σ="2"/>
+    <s m="1" wt="l" A="ST">sta</s><s m="2" wt="h">fum</s><w wc="t" msa="xPE" id="804" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ēo</s><s m="2" wt="h">wiċ</s><w wc="c" msa="xPX" p="1" id="805" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><lb n="136v;20" after="4"/>
+    <w wc="t" msa="xVB fF" p="2" id="806" Σ="2"/>
+    <s m="2" wt="h" A="H">heal</s><s m="1" wt="l">de</s><pc>·</pc>
+    <w wc="s" msa="xNC" id="807" Σ="2"/>
+    <s m="2" wt="h" A="S">sī</s><s m="1" wt="l">ða</s><w wc="c" msa="xPX" p="1" id="808" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xAJ" p="2" id="809" Σ="2"/>
+    <s m="2" wt="h" A="S">sun</s><s m="1" wt="l">de</s><w wc="t" msa="xPE" id="810" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><w wc="t" msa="xAP" id="811" Σ="1"/>
+    <s m="2" wt="h" A="T">tō</s><w wc="s" msa="xNC" id="812" Σ="1"/>
+    <s m="2" wt="h" A="S">sǣ</s><w wc="t" msa="xVB fF" id="813" Σ="2"/>
+    <s m="2" wt="h" A="W">wil</s><s m="1" wt="l">le</s><w wc="c" msa="xAP" id="814" Σ="1"/>
+    <s m="2" wt="h" A="W">wið</s><pb n="137r"/>
+    <lb n="137r;1"/>
+    <w wc="s" msa="xAJ" emends="āð" id="815" Σ="1"/>
+    <s m="3" wt="o" A="W">wrāð</s><w wc="s" msa="xNC" id="816" Σ="2"/>
+    <s m="1" wt="l" A="W">we</s><s m="2" wt="h">rod</s><w wc="s" msa="xNC" id="817" Σ="2"/>
+    <s m="2" wt="h" A="W">wear</s><s m="1" wt="l">de</s><w wc="t" msa="xVB fF" id="818" Σ="2"/>
+    <s m="2" wt="h" A="H">heal</s><s m="2" wt="h">dan</s><lb n="137r;2"/>
+    <p>·V·</p><!-- fitt heading centered on line-->
+    <lb n="137r;3"/>
+    <w wc="s" msa="xNC" id="819" Σ="1"/>
+    <s m="3" wt="o" A="ST">Strǣt</s><w wc="t" msa="xVB fF" id="820" Σ="1"/>
+    <s m="2" wt="h" A="W">wæs</s><w wc="s" msa="xNC" c="1" id="821" Σ="1"/>
+    <s m="3" wt="o" A="ST">stān</s><w wc="s" msa="xAJ" c="2" id="822" Σ="1"/>
+    <s m="3" wt="o" A="F">fāh</s><w wc="s" msa="xNC" id="823" Σ="1"/>
+    <s m="3" wt="o" A="ST">stīġ</s><w wc="t" msa="xVB fF" id="824" Σ="3"/>
+    <s m="2" wt="h" A="W">wī</s><s m="1" wt="l">so</s><s m="1" wt="l">de</s><w wc="s" msa="xNC" id="825" Σ="2"/>
+    <s m="1" wt="l" A="G">gu</s><s m="2" wt="h">mum</s><lb n="137r;4"/>
+    <w wc="t" msa="xAP" p="1" id="826" Σ="1"/>
+    <s m="2" wt="h" A="Ø">æt</s><w wc="t" msa="xAV" p="2" id="827" Σ="3"/>
+    <s m="1" wt="l" A="G">gæ</s><s m="1" wt="l">de</s><s m="1" wt="l">re</s><w wc="" msa="xNC" c="1" id="828" Σ="1"/>
+    <s m="3" wt="o" A="G">gūð</s><w wc="" msa="xNC" c="2" id="829" Σ="2"/>
+    <s m="2" wt="h" A="B">byr</s><s m="1" wt="l">ne</s><w wc="" msa="xVB fF" id="830" Σ="1"/>
+    <s m="3" wt="o" A="S">scān</s><w wc="" msa="xAJ" id="831" Σ="1"/>
+    <s m="3" wt="o" A="H">heard</s><lb n="137r;5"/>
+    <w wc="s" msa="xNC" c="1" id="832" Σ="1"/>
+    <s m="3" wt="o" A="H">hond</s><w wc="s" msa="xAJ" c="2" id="833" Σ="2"/>
+    <s m="1" wt="l" A="L">lo</s><s m="2" wt="h">cen</s><w wc="s" msa="xNC" c="1" id="834" Σ="1"/>
+    <s m="3" wt="o" A="H">hrinġ</s><w wc="s" msa="xNC" c="2" id="835" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ī</s><s m="2" wt="h">ren</s><w wc="s" msa="xAJ" id="836" Σ="1"/>
+    <s m="3" wt="o" A="S">scīr</s><w wc="" msa="xVB fF" id="837" Σ="1"/>
+    <s m="3" wt="o" A="S">song</s><w wc="c" msa="xAP" id="838" Σ="1"/>
+    <s m="2" wt="h" A="Ø">in</s><lb n="137r;6" after="4"/>
+    <w wc="s" msa="xNC" id="839" Σ="2"/>
+    <s m="2" wt="h" A="S">sear</s><s m="2" wt="h">wum</s><w wc="t" msa="xAV" id="840" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="t" msa="xPE" id="841" Σ="1"/>
+    <s m="2" wt="h" A="H">hīe</s><w wc="c" msa="xAP" id="842" Σ="1"/>
+    <s m="2" wt="h" A="T">tō</s><w wc="s" msa="xNC" id="843" Σ="2"/>
+    <s m="1" wt="l" A="S">se</s><s m="1" wt="l">le</s><w wc="t" msa="xAV" id="844" Σ="2"/>
+    <s m="2" wt="h" A="F">fur</s><s m="2" wt="h">ðum</s><w wc="c" msa="xAP" id="845" Σ="1"/>
+    <s m="2" wt="h" A="Ø">in</s><w wc="t" msa="xPE" id="846" Σ="2"/>
+    <s m="1" wt="l" A="H">hy</s><s m="1" wt="l">ra</s><lb n="137r;7" after="3"/>
+    <w wc="s" msa="xAJ" c="1" id="847" Σ="2"/>
+    <s m="1" wt="l" A="G">gry</s><s m="1" wt="l">re</s><w wc="s" msa="xNC" c="2" id="848" Σ="2"/>
+    <s m="2" wt="h" A="G">ġeat</s><s m="2" wt="h">wum</s><w wc="t" msa="xVB fI" id="849" Σ="2"/>
+    <s m="2" wt="h" A="G">gan</s><s m="2" wt="h">gan</s><w wc="t" msa="xVB fF" id="850" Σ="2"/>
+    <s m="2" wt="h" A="K">cwō</s><s m="2" wt="h">mon</s><w wc="t" msa="xVB fF" id="851" Σ="2"/>
+    <s m="2" wt="h" A="S">set</s><s m="2" wt="h">ton</s><lb n="137r;8"/>
+    <w wc="s" msa="xNC" c="1" id="852" Σ="1"/>
+    <s m="2" wt="h" A="S">sǣ</s><w wc="s" msa="xAJ" c="2" id="853" Σ="2"/>
+    <s m="2" wt="h" A="M">mē</s><s m="1" wt="l">þe</s><w wc="s" msa="xAJ" id="854" Σ="2"/>
+    <s m="2" wt="h" A="S">sī</s><s m="1" wt="l">de</s><w wc="s" msa="xNC" id="855" Σ="2"/>
+    <s m="2" wt="h" A="S">scyl</s><s m="2" wt="h">das</s><w wc="s" msa="xNC" id="856" Σ="2"/>
+    <s m="2" wt="h" A="R">ron</s><s m="2" wt="h">das</s><w wc="s" msa="xAJ" c="1" id="857" Σ="1"/>
+    <s m="3" wt="o" A="R">reġn</s><w wc="s" msa="xAJ" c="2" id="858" Σ="2"/>
+    <s m="2" wt="h" A="H">hear</s><s m="1" wt="l">de</s><lb n="137r;9"/>
+    <w wc="c" msa="xAP" id="859" Σ="1"/>
+    <s m="2" wt="h" A="W">wið</s><w wc="t" msa="xPD" id="860" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæs</s><w wc="s" msa="xNC" id="861" Σ="3"/>
+    <s m="1" wt="l" A="R">re</s><s m="1" wt="l">ċe</s><s m="2" wt="h">des</s><w wc="s" msa="xNC" id="862" Σ="1"/>
+    <s m="2" wt="h" A="W">weal</s><pc>·</pc>
+    <w wc="t" msa="xVB fF" id="863" Σ="2"/>
+    <s m="1" wt="l" A="B">bu</s><s m="2" wt="h">gon</s><w wc="t" msa="xAV" id="864" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="c" msa="xAP" id="865" Σ="1"/>
+    <s m="2" wt="h" A="T">tō</s><w wc="s" msa="xNC" id="866" Σ="2"/>
+    <s m="2" wt="h" A="B">ben</s><s m="1" wt="l">ċe</s><lb n="137r;10"/>
+    <w wc="s" msa="xNC" id="867" Σ="2"/>
+    <s m="2" wt="h" A="B">byr</s><s m="2" wt="h">nan</s><w wc="t" msa="xVB fF" id="868" Σ="2"/>
+    <s m="3" wt="o" A="H">hring</s><s m="2" wt="h">don</s><w wc="s" msa="xNC" c="1" id="869" Σ="1"/>
+    <s m="3" wt="o" A="G">gūð</s><w wc="s" msa="xNC" c="2" id="870" Σ="2"/>
+    <s m="1" wt="l" A="S">sea</s><s m="1" wt="l">ro</s><w wc="s" msa="xNC" id="871" Σ="3"/>
+    <s m="1" wt="l" A="G">gu</s><s m="1" wt="l">me</s><s m="1" wt="l">na</s><lb n="137r;11"/>
+    <w wc="s" msa="xNC" id="872" Σ="2"/>
+    <s m="2" wt="h" A="G">gā</s><s m="2" wt="h">ras</s><w wc="t" msa="xVB fF" id="873" Σ="2"/>
+    <s m="2" wt="h" A="ST">stō</s><s m="2" wt="h">don</s><w wc="s" msa="xNC" c="1" id="874" Σ="1"/>
+    <s m="2" wt="h" A="S">sǣ</s><w wc="s" msa="xNC" c="2" id="875" Σ="2"/>
+    <s m="2" wt="h" A="M">man</s><s m="1" wt="l">na</s><w wc="s" msa="xNC" id="876" Σ="2"/>
+    <s m="1" wt="l" A="S">sea</s><s m="1" wt="l">ro</s><w wc="t" msa="xAV" id="877" Σ="2"/>
+    <s m="1" wt="l" A="S">sa</s><s m="2" wt="h">mod</s><lb n="137r;12"/>
+    <w wc="c" msa="xPX" p="1" id="878" Σ="1"/>
+    <s m="2" wt="h" A="Ø">æt</s><w wc="t" msa="xAV" p="2" id="879" Σ="3"/>
+    <s m="1" wt="l" A="G">gæ</s><s m="1" wt="l">de</s><s m="1" wt="l">re</s><w wc="s" msa="xNC" c="1" id="880" Σ="1"/>
+    <s m="3" wt="o" A="Ø">æsc</s><w wc="s" msa="xNC" c="2" id="881" Σ="1"/>
+    <s m="3" wt="o" A="H">holt</s><w wc="c" msa="xAV" id="882" Σ="2"/>
+    <s m="1" wt="l" A="Ø">u</s><s m="2" wt="h">fan</s><w wc="s" msa="xAJ" id="883" Σ="1"/>
+    <s m="3" wt="o" A="G">grǣġ</s><w wc="t" msa="xVB fF" id="884" Σ="1"/>
+    <s m="2" wt="h" A="W">wæs</s><w wc="t" msa="xPD" id="885" Σ="1"/>
+    <s m="1" wt="l" A="S">se</s><lb n="137r;13"/>
+    <w wc="s" msa="xNC" c="1" id="886" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ī</s><s m="2" wt="h">ren</s><w wc="s" msa="xNC" c="2" id="887" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þrēat</s><w wc="s" msa="xNC" id="888" Σ="2"/>
+    <s m="2" wt="h" A="W">wǣ</s><s m="2" wt="h">pnum</s><w wc="c" msa="xPX" p="1" id="889" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="890" Σ="2"/>
+    <s m="2" wt="h" A="W">wur</s><s m="2" wt="h">þad</s><w wc="t" msa="xAV" id="891" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="c" msa="xPD" id="892" Σ="1"/>
+    <s m="3" wt="o" A="Þ">ðǣr</s><lb n="137r;14"/>
+    <w wc="s" msa="xAJ" id="893" Σ="1"/>
+    <s m="3" wt="o" A="W">wlonc</s><w wc="s" msa="xNC" id="894" Σ="2"/>
+    <s m="1" wt="l" A="H">hæ</s><s m="2" wt="h">leð</s><w wc="s" msa="xNC" c="1" id="895" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ō</s><s m="2" wt="h">ret</s><w wc="s" msa="xNC" c="2" id="896" Σ="2"/>
+    <s m="2" wt="h" A="M">mec</s><s m="2" wt="h">gas</s><w wc="c" msa="xAP" id="897" Σ="2"/>
+    <s m="2" wt="h" A="Ø">æf</s><s m="2" wt="h">ter</s><!--line break begins after four letters of the un-emended upcoming word, after 'hæle'-->
+    <lb n="137r;15" after="4"/>
+    <w wc="s" msa="xAJ" emends="hæleþum" id="898" Σ="3"/>
+    <s m="1" wt="l" A="Ø">æ</s><s m="1" wt="l">þe</s><s m="2" wt="h">lum</s><w wc="t" msa="xVB fF" id="899" Σ="1"/>
+    <s m="3" wt="o" A="F">fræġn</s><pc>·</pc>
+    <w wc="t" msa="xPQ" id="900" Σ="2"/>
+    <s m="1" wt="l" A="H">hwa</s><s m="2" wt="h">non</s><w wc="t" msa="xVB fF" id="901" Σ="3"/>
+    <s m="1" wt="l" A="F">fe</s><s m="1" wt="l">ri</s><s m="2" wt="h">ġeað</s><w wc="t" msa="xPE" id="902" Σ="1"/>
+    <s m="2" wt="h" A="G">ġē</s><lb n="137r;16" after="3"/>
+    <w wc="s" msa="xAJ" id="903" Σ="2"/>
+    <s m="3" wt="o" A="F">fǣt</s><s m="1" wt="l">te</s><w wc="s" msa="xNC" id="904" Σ="2"/>
+    <s m="2" wt="h" A="S">scyl</s><s m="2" wt="h">das</s><w wc="s" msa="xAJ" id="905" Σ="2"/>
+    <s m="2" wt="h" A="G">grǣ</s><s m="1" wt="l">ġe</s><w wc="s" msa="xNC" id="906" Σ="2"/>
+    <s m="2" wt="h" A="S">syr</s><s m="2" wt="h">ċan</s><w wc="c" msa="xCC" expands="⁊" id="907" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><w wc="s" msa="xAJ" c="1" id="908" Σ="1"/>
+    <s m="3" wt="o" A="G">grīm</s><w wc="s" msa="xNC" c="2" id="909" Σ="2"/>
+    <s m="2" wt="h" A="H">hel</s><s m="2" wt="h">mas</s><lb n="137r;17"/>
+    <w wc="s" msa="xNC" c="1" id="910" Σ="2"/>
+    <s m="1" wt="l" A="H">he</s><s m="1" wt="l">re</s><w wc="s" msa="xNC" c="2" id="911" Σ="2"/>
+    <s m="2" wt="h" A="S">sceaf</s><s m="1" wt="l">ta</s><w wc="s" msa="xNC" id="912" Σ="1"/>
+    <s m="3" wt="o" A="H">hēap</s><w wc="t" msa="xOE" id="913" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><w wc="t" msa="xVB fF" id="914" Σ="1"/>
+    <s m="2" wt="h" A="Ø">eom</s><w wc="s" msa="xNP" c="1" id="915" Σ="1"/>
+    <s m="3" wt="o" A="H">hrōð</s><w wc="s" msa="xNP" c="1" id="916" Σ="2"/>
+    <s m="2" wt="h" A="G">gā</s><s m="2" wt="h">res</s><lb n="137r;18"/>
+    <w wc="s" msa="xNC" id="917" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ār</s><w wc="c" msa="xCC" expands="⁊" id="918" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><w wc="a" msa="xNC" id="919" Σ="2"/>
+    <s m="2" wt="h" A="Ø">om</s><s m="3" wt="o">biht</s><pc>·</pc>
+    <w wc="t" msa="xNX" id="920" Σ="1"/>
+    <s m="1" wt="l" A="N">ne</s><w wc="t" msa="xB fF" id="921" Σ="1"/>
+    <s m="2" wt="h" A="S">seah</s><w wc="t" msa="xPE" id="922" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><w wc="s" msa="xNC" c="1" id="923" Σ="1"/>
+    <s m="2" wt="h" A="Ø">el</s><w wc="s" msa="xNC" c="2" epen="þēodige" id="924" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þēo</s><s m="1" wt="l">dġe</s><w wc="t" msa="xAV" id="925" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þus</s><lb n="137r;19"/>
+    <w wc="s" msa="xAJ" id="926" Σ="3"/>
+    <s m="1" wt="l" A="M">ma</s><s m="1" wt="l">ni</s><s m="1" wt="l">ġe</s><w wc="s" msa="xNC" id="927" Σ="1"/>
+    <s m="2" wt="h" A="M">men</s><w wc="s" msa="xAJ" c="1" id="928" Σ="2"/>
+    <s m="2" wt="h" A="M">mō</s><s m="2" wt="h">diġ</s><w wc="s" msa="xAJ" c="2" id="929" Σ="2"/>
+    <s m="2" wt="h" A="L">lī</s><s m="2" wt="h">cran</s><pc>·</pc>
+    <w wc="t" msa="xVB fF" id="930" Σ="1"/>
+    <s m="3" wt="o" A="W">wēn</s><w wc="t" msa="xPE" id="931" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><w wc="t" msa="xCS" expands="ꝥ" id="932" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><pc>·</pc>
+    <w wc="t" msa="xPE" id="933" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="c" msa="xPA" id="934" Σ="1"/>
+    <s m="2" wt="h" A="F">for</s><lb n="137r;20"/>
+    <w wc="s" msa="xNC" id="935" Σ="2"/>
+    <s m="2" wt="h" A="W">wlen</s><s m="1" wt="l">ċo</s><w wc="t" msa="xAV" id="936" Σ="2"/>
+    <s m="2" wt="h" A="N">nal</s><s m="2" wt="h">les</s><w wc="c" msa="xAP" id="937" Σ="1"/>
+    <s m="2" wt="h" A="F">for</s><w wc="s" msa="xNC" c="1" id="938" Σ="1"/>
+    <s m="2" wt="h" A="W">wræc</s><w wc="s" msa="xNC" c="2" id="939" Σ="2"/>
+    <s m="2" wt="h" A="S">sī</s><s m="2" wt="h">ðum</s><pc>·</pc>
+    <w wc="t" msa="xCC" id="940" Σ="1"/>
+    <s m="2" wt="h" A="Ø">ac</s><w wc="c" msa="xAP" id="941" Σ="1"/>
+    <s m="2" wt="h" A="F">for</s><w wc="s" msa="xNC" c="1" id="942" Σ="2"/>
+    <s m="1" wt="l" A="H">hi</s><s m="1" wt="l">ġe</s><pb n="137v"/><!-- as with preceding pages, some of top left margin is gone and other defects-->
+    <lb n="137v;1"/>
+    <w wc="s" msa="xNC" c="2" emends="mum" id="943" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þrym</s><s m="2" wt="h">mum</s><w wc="s" msa="xNP" c="1" id="944" Σ="1"/>
+    <s m="3" wt="o" A="H">hrōð</s><w wc="s" msa="xNP" c="2" id="945" Σ="1"/>
+    <s m="3" wt="o" A="G">gār</s><w wc="t" msa="xVB fF" id="946" Σ="2"/>
+    <s m="3" wt="o" A="S">sōh</s><s m="2" wt="h">ton</s><w wc="t" msa="xPE" id="947" Σ="1"/>
+    <s m="2" wt="h" A="H">him</s><w wc="t" msa="xAV" id="948" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="s" msa="xAJ" c="1" emends="ell" id="949" Σ="2"/>
+    <s m="2" wt="h" A="Ø">el</s><s m="2" wt="h">len</s><lb n="137v;2"/>
+    <w wc="s" msa="xAJ" c="2" id="950" Σ="1"/>
+    <s m="3" wt="o" A="R">rōf</s><w wc="c" msa="xPX" c="1" id="951" Σ="1"/>
+    <s m="3" wt="o" A="Ø">and</s><w wc="t" msa="xVB fF" c="2" id="952" Σ="3"/>
+    <s m="1" wt="l" A="S">swa</s><s m="1" wt="l">ro</s><s m="1" wt="l">de</s><w wc="s" msa="xAJ" id="953" Σ="1"/>
+    <s m="3" wt="o" A="W">wlanc</s><w wc="s" msa="xNC" id="954" Σ="3"/>
+    <s m="1" wt="l" A="W">we</s><s m="1" wt="l">de</s><s m="1" wt="l">ra</s><w wc="s" msa="xNC" id="955" Σ="1"/>
+    <s m="3" wt="o" A="L">lēod</s><w wc="s" msa="xNC" id="956" Σ="1"/>
+    <s m="3" wt="o" A="W">word</s><lb n="137v;3"/>
+    <w wc="t" msa="xAV" id="957" Σ="2"/>
+    <s m="2" wt="h" A="Ø">æf</s><s m="2" wt="h">ter</s><w wc="t" msa="xVB fF" id="958" Σ="1"/>
+    <s m="2" wt="h" A="SP">spræc</s><w wc="s" msa="xAJ" id="959" Σ="1"/>
+    <s m="3" wt="o" A="H">heard</s><w wc="c" msa="xAP" id="960" Σ="2"/>
+    <s m="2" wt="h" A="Ø">un</s><s m="2" wt="h">der</s><w wc="s" msa="xNC" id="961" Σ="2"/>
+    <s m="2" wt="h" A="H">hel</s><s m="1" wt="l">me</s><w wc="t" msa="xPE" id="962" Σ="1"/>
+    <s m="2" wt="h" A="W">wē</s><w wc="t" msa="xVB sF" id="963" Σ="1"/>
+    <s m="3" wt="o" A="S">synt</s><lb n="137v;4"/>
+    <w wc="s" msa="xNP" c="1" id="964" Σ="2"/>
+    <s m="1" wt="l" A="H">hi</s><s m="1" wt="l">ġe</s><w wc="s" msa="xNP" c="2" id="965" Σ="2"/>
+    <s m="2" wt="h" A="L">lā</s><s m="2" wt="h">ces</s><w wc="s" msa="xNC" c="1" id="966" Σ="1"/>
+    <s m="3" wt="o" A="B">bēod</s><w c="2" id="969">
+        </w>
+    <w wc="c" msa="xPX" p="1" id="968" Σ="1"/><s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xNC" p="2" id="967" Σ="2"/><s m="2" wt="h" A="N">nēa</s><s m="2" wt="h">tas</s><w wc="s" msa="xNP" c="1" id="970" Σ="1"/>
+    <s m="2" wt="h" A="B">bēo</s><w wc="s" msa="xNP" c="2" id="971" Σ="1"/>
+    <s m="3" wt="o" A="W">wulf</s><w wc="t" msa="xVB fF" id="972" Σ="1"/>
+    <s m="2" wt="h" A="Ø">is</s><lb n="137v;5"/>
+    <w wc="t" msa="xPE" id="973" Σ="1"/>
+    <s m="3" wt="o" A="M">mīn</s><w wc="s" msa="xNC" id="974" Σ="2"/>
+    <s m="1" wt="l" A="N">na</s><s m="1" wt="l">ma</s><w wc="t" msa="xVB xF" id="975" Σ="2"/>
+    <s m="2" wt="h" A="W">wil</s><s m="1" wt="l">le</s><w wc="t" msa="" id="976" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><w wc="c" msa="xPX" p="1" id="977" Σ="1"/>
+    <s m="2" wt="h" A="Ø">ā</s><w wc="r" msa="xVB fI" p="2" id="978" Σ="2"/>
+    <s m="2" wt="h" A="S">sec</s><s m="2" wt="h">gan</s><w wc="s" msa="xNC" id="979" Σ="2"/>
+    <s m="1" wt="l" A="S">su</s><s m="1" wt="l">nu</s><w wc="s" msa="xNP" c="1" id="980" Σ="1"/>
+    <s m="3" wt="o" A="H">healf</s><lb n="137v;6"/>
+    <w wc="s" msa="xNP" c="2" id="981" Σ="2"/>
+    <s m="1" wt="l" A="D">de</s><s m="2" wt="h">nes</s><w wc="s" msa="xAJ" id="982" Σ="2"/>
+    <s m="2" wt="h" A="M">mǣ</s><s m="2" wt="h">rum</s><w wc="s" msa="xNC" id="983" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þēo</s><s m="1" wt="l">dne</s><w wc="c" msa="xPE" id="984" Σ="1"/>
+    <s m="2" wt="h" A="M">min</s><w wc="s" msa="xNC" id="985" Σ="3"/>
+    <s m="2" wt="h" A="Ø">ǣ</s><s m="2" wt="h">ren</s><s m="1" wt="l">de</s><pc>·</pc>
+    <lb n="137v;7"/>
+    <w wc="s" msa="xNC" id="986" Σ="2"/>
+    <s m="2" wt="h" A="Ø">al</s><s m="1" wt="l">dre</s><w wc="t" msa="xPE" id="987" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þī</s><s m="2" wt="h">num</s><w wc="t" msa="xCS" id="988" Σ="1"/>
+    <s m="2" wt="h" A="G">ġif</s><w wc="t" msa="" id="989" Σ="1"/>
+    <s m="2" wt="h" A="H">hē</s><w wc="t" msa="" id="990" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ūs</s><w wc="c" msa="" p="1" id="991" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="" msa="xVB fI" p="2" id="992" Σ="2"/>
+    <s m="2" wt="h" A="Ø">un</s><s m="2" wt="h">nan</s><w wc="t" msa="xVX fF" id="993" Σ="2"/>
+    <s m="1" wt="l" A="W">wi</s><s m="1" wt="l">le</s><lb n="137v;8"/>
+    <w wc="t" msa="xCS" emends="ꝥ" id="994" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="t" msa="xPE" id="995" Σ="1"/>
+    <s m="2" wt="h" A="W">wē</s><w wc="t" msa="xPE" id="996" Σ="2"/>
+    <s m="1" wt="l" A="H">hi</s><s m="1" wt="l">ne</s><w wc="t" msa="sAV" id="997" Σ="1"/>
+    <s m="2" wt="h" A="S">swā</s><w wc="s" msa="sAJ" id="998" Σ="2"/>
+    <s m="2" wt="h" A="G">gō</s><s m="1" wt="l">dne</s><w wc="t" msa="xVB fI" id="999" Σ="2"/>
+    <s m="2" wt="h" A="G">grē</s><s m="2" wt="h">tan</s><w wc="t" msa="xVX fF" id="1000" Σ="2"/>
+    <s m="2" wt="h" A="M">mō</s><s m="2" wt="h">ton</s><pc>·</pc>
+    <lb n="137v;9"/>
+    <w wc="s" msa="xNP" c="1" id="1001" Σ="1"/>
+    <s m="3" wt="o" A="W">wulf</s><w wc="s" msa="xNP" c="2" id="1002" Σ="1"/>
+    <s m="3" wt="o" A="G">gār</s><w wc="t" msa="xVB fD" id="1003" Σ="4"/>
+    <s m="1" wt="l" A="M">ma</s><s m="1" wt="l">þe</s><s m="1" wt="l">lo</s><s m="1" wt="l">de</s><w wc="t" msa="xPD" expands="ꝥ" id="1004" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="t" msa="xVB fF" id="1005" Σ="1"/>
+    <s m="2" wt="h" A="W">wæs</s><w wc="s" msa="xNC" id="1006" Σ="2"/>
+    <s m="2" wt="h" A="W">wen</s><s m="1" wt="l">dla</s><w wc="s" msa="xNC" id="1007" Σ="1"/>
+    <s m="3" wt="o" A="L">lēod</s><lb n="137v;10"/>
+    <w wc="t" msa="xVX fF" id="1008" Σ="1"/>
+    <s m="2" wt="h" A="W">wæs</s><w wc="t" msa="xPE" id="1009" Σ="1"/>
+    <s m="2" wt="h" A="H">his</s><w wc="s" msa="xNC" c="1" id="1010" Σ="1"/>
+    <s m="3" wt="o" A="M">mōd</s><w wc="s" msa="xNC" c="2" id="1011" Σ="2"/>
+    <s m="1" wt="l" A="S">se</s><s m="1" wt="l">fa</s><w wc="t" msa="xAJ" id="1012" Σ="3"/>
+    <s m="1" wt="l" A="M">ma</s><s m="1" wt="l">ne</s><s m="2" wt="h">gum</s><w wc="c" msa="xPX" p="1" id="1013" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fP" p="2" id="1014" Σ="2"/>
+    <s m="2" wt="h" A="K">cȳ</s><s m="2" wt="h">ðed</s><pc>·</pc>
+    <lb n="137v;11"/>
+    <w wc="s" msa="xNC" id="1015" Σ="1"/>
+    <s m="3" wt="o" A="W">wīġ</s><w wc="c" msa="xCC" expands="⁊" id="1016" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><w wc="s" msa="xNC" c="1" id="1017" Σ="1"/>
+    <s m="3" wt="o" A="W">wīs</s><w wc="s" msa="xNC" c="2" id="1018" Σ="1"/>
+    <s m="3" wt="o" A="D">dōm</s><w wc="t" msa="xPE" id="1019" Σ="1"/>
+    <s m="2" wt="h" A="Ø">iċ</s><w wc="t" msa="xPD" id="1020" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæs</s><w wc="s" msa="xNC" id="1021" Σ="2"/>
+    <s m="1" wt="l" A="W">wi</s><s m="1" wt="l">ne</s><w wc="s" msa="xNP" id="1022" Σ="3"/>
+    <s m="1" wt="l" A="D">de</s><s m="1" wt="l">ni</s><s m="1" wt="l">ga</s><w wc="s" msa="xNC" id="1023" Σ="1"/>
+    <s m="3" wt="o" A="F">frēan</s><lb n="137v;12"/>
+    <w wc="s" msa="xNC" id="1024" Σ="3"/>
+    <s m="2" wt="h" A="S">scil</s><s m="2" wt="h">din</s><s m="1" wt="l">ga</s><w wc="t" msa="xVB fI" id="1025" Σ="2"/>
+    <s m="2" wt="h" A="F">frī</s><s m="2" wt="h">nan</s><w wc="t" msa="xVX fF" id="1026" Σ="2"/>
+    <s m="2" wt="h" A="W">wil</s><s m="1" wt="l">le</s><w wc="s" msa="xNC" id="1027" Σ="2"/>
+    <s m="2" wt="h" A="B">bēa</s><s m="1" wt="l">ga</s><lb n="137v;13" after="4"/>
+    <w wc="s" msa="xNC" id="1028" Σ="2"/>
+    <s m="2" wt="h" A="B">bryt</s><s m="2" wt="h">tan</s><w wc="xCS" msa="" id="1029" Σ="1"/>
+    <s m="2" wt="h" A="S">swā</s><w wc="t" msa="" id="1030" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þū</s><w wc="s" msa="xNC" id="1031" Σ="2"/>
+    <s m="2" wt="h" A="B">bē</s><s m="1" wt="l">na</s><w wc="t" msa="xVB fF" id="1032" Σ="1"/>
+    <s m="3" wt="o" A="Ø">eart</s><w wc="s" msa="xNC" id="1033" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þēo</s><s m="2" wt="h">den</s><lb n="137v;14" after="3"/>
+    <w wc="s" msa="xAJ" id="1034" Σ="2"/>
+    <s m="3" wt="o" A="M">mǣr</s><s m="1" wt="l">ne</s><w wc="c" msa="xAP" id="1035" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ymb</s><w wc="t" msa="xPE" id="1036" Σ="2"/>
+    <s m="3" wt="o" A="Þ">þīn</s><s m="1" wt="l">ne</s><w wc="s" msa="xNC" id="1037" Σ="1"/>
+    <s m="3" wt="o" A="S">sīð</s><pc>·</pc>
+    <w wc="t" msa="cCC" expands="⁊" id="1038" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><w wc="t" msa="xAV" id="1039" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þē</s><w wc="t" msa="xAV" id="1040" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="c" msa="xPX" c="1" expands="⁊" id="1041" Σ="1"/>
+    <s m="3" wt="o" A="Ø">and</s><w wc="t" msa="xVB fF" c="2" id="1042" Σ="2"/>
+    <s m="1" wt="l" A="S">swa</s><s m="1" wt="l">re</s><lb n="137v;15"/>
+    <w wc="t" msa="xAV" id="1043" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ǣ</s><s m="1" wt="l">dre</s><w wc="c" msa="xPX" p="1" id="1044" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB xI" p="2" id="1045" Σ="2"/>
+    <s m="2" wt="h" A="K">cȳ</s><s m="2" wt="h">ðan</s><w wc="t" msa="xRP" id="1046" Σ="1"/>
+    <s m="2" wt="h" A="Þ">ðē</s><w wc="t" msa="xPE" id="1047" Σ="1"/>
+    <s m="2" wt="h" A="M">mē</s><w wc="t" msa="xPD" id="1048" Σ="1"/>
+    <s m="1" wt="l" A="S">se</s><w wc="s" msa="xAJ" id="1049" Σ="2"/>
+    <s m="2" wt="h" A="G">gō</s><s m="1" wt="l">da</s><w wc="c" msa="xPX" p="1" id="1050" Σ="1"/>
+    <s m="2" wt="h" A="Ø">ā</s><w wc="t" msa="xVB xI" p="2" id="1051" Σ="2"/>
+    <s m="1" wt="l" A="G">ġi</s><s m="2" wt="h">fan</s><lb n="137v;16"/>
+    <w wc="t" msa="xVB fF" id="1052" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þen</s><s m="2" wt="h">ċeð</s><pc>·</pc>
+    <w wc="t" msa="xVB fF" id="1053" Σ="1"/>
+    <s m="3" wt="o" A="H">hwearf</s><w wc="t" msa="xAV" id="1054" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þā</s><w wc="t" msa="xAV" id="1055" Σ="3"/>
+    <s m="2" wt="h" A="H">hræd</s><s m="2" wt="h">lī</s><s m="1" wt="l">ċe</s><w wc="t" msa="xCS" id="1056" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þǣr</s><w wc="s" msa="xNP" c="1" id="1057" Σ="1"/>
+    <s m="3" wt="o" A="H">hrōð</s><lb n="137v;17"/>
+    <w wc="s" msa="xNP" c="2" id="1058" Σ="1"/>
+    <s m="3" wt="o" A="G">gār</s><w wc="t" msa="xVB fF" id="1059" Σ="1"/>
+    <s m="2" wt="h" A="S">sæt</s><w wc="s" msa="xAJ" id="1060" Σ="1"/>
+    <s m="3" wt="o" A="Ø">eald</s><w wc="c" msa="xCC" expands="⁊" id="1061" Σ="1"/>
+    <s m="3" wt="o" A="Ø">ond</s><w wc="s" msa="xAJ" emends="unhār" id="1062" Σ="2"/>
+    <s m="2" wt="h" A="Ø">an</s><s m="3" wt="o">hār</s><w wc="c" msa="xAP" id="1063" Σ="1"/>
+    <s m="2" wt="h" A="M">mid</s><w wc="t" msa="xPE" id="1064" Σ="1"/>
+    <s m="2" wt="h" A="H">his</s><w wc="s" msa="xNC" id="1065" Σ="2"/>
+    <s m="2" wt="h" A="Ø">eor</s><s m="1" wt="l">la</s><lb n="137v;18"/>
+    <w wc="c" msa="xPX" p="1" id="1066" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="S" msa="xNC" p="2" id="1067" Σ="1"/>
+    <s m="3" wt="o" A="D">driht</s><w wc="t" msa="xVB fF" id="1068" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ēo</s><s m="1" wt="l">de</s><w wc="s" msa="xNC" c="1" id="1069" Σ="2"/>
+    <s m="2" wt="h" A="Ø">el</s><s m="2" wt="h">len</s><w wc="s" msa="xNC" c="2" id="1070" Σ="1"/>
+    <s m="3" wt="o" A="R">rōf</s><w wc="t" msa="xCS" expands="ꝥ" id="1071" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="t" msa="xPE" id="1072" Σ="1"/>
+    <s m="2" wt="h" A="H">hē</s><w wc="c" msa="xAP" id="1073" Σ="1"/>
+    <s m="2" wt="h" A="F">for</s><lb n="137v;19" after="3"/>
+    <w wc="s" msa="xNC" id="1074" Σ="2"/>
+    <s m="2" wt="h" A="Ø">eax</s><s m="2" wt="h">lum</s><w wc="c" msa="xPX" p="1" id="1075" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xVB fF" p="2" id="1076" Σ="1"/>
+    <s m="3" wt="o" A="ST">stōd</s><w wc="s" msa="xNP" id="1077" Σ="3"/>
+    <s m="1" wt="l" A="D">de</s><s m="1" wt="l">ni</s><s m="1" wt="l">ġa</s><w wc="s" msa="xNC" id="1078" Σ="1"/>
+    <s m="2" wt="h" A="F">freân</s><w wc="t" msa="xVB fF" id="1079" Σ="2"/>
+    <s m="2" wt="h" A="K">cū</s><s m="1" wt="l">þe</s><w wc="t" msa="xPE" id="1080" Σ="1"/>
+    <s m="2" wt="h" A="H">hē</s><lb n="137v;20"/>
+    <w wc="s" msa="xNC" id="1081" Σ="3"/>
+    <s m="1" wt="l" A="D">du</s><s m="1" wt="l">gu</s><s m="1" wt="l">ðe</s><w wc="s" msa="xNC" id="1082" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þēaw</s><pc>·</pc>
+    <w wc="s" msa="xNP" c="1" id="1083" Σ="1"/>
+    <s m="3" wt="o" A="W">wulf</s><w wc="s" msa="xNP" c="2" id="1084" Σ="1"/>
+    <s m="3" wt="o" A="G">gār</s><w wc="t" msa="xVB fF" id="1085" Σ="4"/>
+    <s m="1" wt="l" A="M">ma</s><s m="1" wt="l">ðe</s><s m="1" wt="l">lo</s><s m="1" wt="l">de</s><pb n="138r"/>
+    <lb n="138r;1"/>
+    <w wc="c" msa="xAP" id="1086" Σ="1"/>
+    <s m="2" wt="h" A="T">tō</s><w wc="t" msa="xPE" id="1087" Σ="1"/>
+    <s m="2" wt="h" A="H">his</s><w wc="s" msa="xAJ" c="1" id="1088" Σ="2"/>
+    <s m="1" wt="l" A="W">wi</s><s m="1" wt="l">ne</s><w wc="s" msa="xNC" c="2" id="1089" Σ="2"/>
+    <s m="2" wt="h" A="D">drih</s><s m="1" wt="l">tne</s><w wc="t" msa="xAV" id="1090" Σ="1"/>
+    <s m="3" wt="o" A="H">hēr</s><w wc="t" msa="xVB fF" id="1091" Σ="2"/>
+    <s m="2" wt="h" A="S">syn</s><s m="2" wt="h">don</s><w wc="c" msa="xPX" p="1" id="1092" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><lb n="138r;2"/>
+    <w wc="t" msa="xVB fF" p="2" emends="de" id="1093" Σ="3"/>
+    <s m="1" wt="l" A="F">fe</s><s m="1" wt="l">re</s><s m="1" wt="l">de</s><w wc="t" msa="xAV" id="1094" Σ="2"/>
+    <s m="2" wt="h" A="F">feor</s><s m="2" wt="h">ran</s><w wc="t" msa="xVB fF" id="1095" Σ="3"/>
+    <s m="1" wt="l" A="K">cu</s><s m="1" wt="l">me</s><s m="1" wt="l">ne</s><w wc="c" msa="xAP" id="1096" Σ="2"/>
+    <s m="1" wt="l" A="Ø">o</s><s m="2" wt="h">fer</s><w wc="c" msa="xPX" p="1" id="1097" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xAJ" p="2" id="1098" Σ="3"/>
+    <s m="1" wt="l" A="Ø">o</s><s m="1" wt="l">fe</s><s m="2" wt="h">nes</s><w wc="c" msa="xPX" p="1" id="1099" Σ="1"/>
+    <s m="1" wt="l" A="B">be</s><lb n="138r;3"/>
+    <w wc="s" msa="xNC" p="2" id="1100" Σ="1"/>
+    <s m="3" wt="o" A="G">gang</s><w wc="s" msa="xNC" id="1101" Σ="2"/>
+    <s m="2" wt="h" A="G">ġēa</s><s m="1" wt="l">ta</s><w wc="s" msa="xNC" id="1102" Σ="2"/>
+    <s m="2" wt="h" A="L">lēo</s><s m="1" wt="l">de</s><w wc="c" msa="xPD" id="1103" Σ="2"/>
+    <s m="1" wt="l" A="Þ">þo</s><s m="1" wt="l">ne</s><w wc="s" msa="xAJ" id="1104" Σ="3"/>
+    <s m="2" wt="h" A="Ø">yl</s><s m="2" wt="h">des</s><s m="2" wt="h">tan</s><lb n="138r;4"/>
+    <w wc="s" msa="xNC" c="1" emends="ore" id="1105" Σ="2"/>
+    <s m="2" wt="h" A="Ø">ō</s><s m="2" wt="h">ret</s><w wc="s" msa="xNC" c="2" id="1106" Σ="2"/>
+    <s m="2" wt="h" A="M">mec</s><s m="2" wt="h">gas</s><pc>·</pc>
+    <w wc="s" msa="xNP" c="1" id="1107" Σ="1"/>
+    <s m="2" wt="h" A="B">bēo</s><w wc="s" msa="xNP" c="2" id="1108" Σ="1"/>
+    <s m="3" wt="o" A="W">wulf</s><w wc="t" msa="xVB fF" id="1109" Σ="2"/>
+    <s m="2" wt="h" A="N">nem</s><s m="2" wt="h">nað</s><w wc="t" msa="xPE" id="1110" Σ="1"/>
+    <s m="2" wt="h" A="H">hȳ</s><w wc="s" msa="xNC" id="1111" Σ="2"/>
+    <s m="2" wt="h" A="B">bē</s><s m="2" wt="h">nan</s><lb n="138r;5"/>
+    <w wc="t" msa="xVB fF" id="1112" Σ="1"/>
+    <s m="3" wt="o" A="S">synt</s><w wc="t" msa="xCS" expands="ꝥ" id="1113" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þæt</s><w wc="t" msa="xPE" id="1114" Σ="1"/>
+    <s m="2" wt="h" A="H">hīe</s><w wc="s" msa="xNC" id="1115" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þēo</s><s m="2" wt="h">den</s><w wc="t" msa="xPE" id="1116" Σ="1"/>
+    <s m="3" wt="o" A="M">mīn</s><w wc="c" msa="xAP" id="1117" Σ="1"/>
+    <s m="2" wt="h" A="W">wið</s><w wc="t" msa="xPE" id="1118" Σ="1"/>
+    <s m="2" wt="h" A="Þ">þē</s><w wc="t" msa="xAX fX" id="1119" Σ="2"/>
+    <s m="2" wt="h" A="M">mō</s><s m="2" wt="h">ton</s><lb n="138r;6"/>
+    <w wc="s" msa="xNC" id="1120" Σ="2"/>
+    <s m="2" wt="h" A="W">wor</s><s m="2" wt="h">dum</s><w wc="t" msa="xVB fI" id="1121" Σ="2"/>
+    <s m="2" wt="h" A="W">wrix</s><s m="2" wt="h">lan</s><w wc="t" msa="xAV" id="1122" Σ="1"/>
+    <s m="2" wt="h" A="N">nō</s><w wc="t" msa="xPE" id="1123" Σ="1"/>
+    <s m="2" wt="h" A="Þ">ðū</s><w wc="t" msa="xPE" id="1124" Σ="1"/>
+    <s m="2" wt="h" A="H">him</s><w wc="t" msa="xVB xF" id="1125" Σ="2"/>
+    <s m="2" wt="h" A="W">wear</s><s m="1" wt="l">ne</s><lb n="138r;7"/>
+    <w wc="c" msa="xPX" p="1" id="1126" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="t" msa="xVB fF" p="2" id="1127" Σ="1"/>
+    <s m="3" wt="o" A="T">tēoh</s><w wc="t" msa="xPE" id="1128" Σ="2"/>
+    <s m="2" wt="h" A="Þ">ðī</s><s m="1" wt="l">nra</s><w wc="s" msa="xAP" c="1" id="1129" Σ="1"/>
+    <s m="3" wt="o" A="G">ġeġn</s><w wc="s" msa="xNC" c="2" id="1130" Σ="2"/>
+    <s m="1" wt="l" A="K">cwi</s><s m="1" wt="l">da</s><w wc="t" msa="xAJ" id="1131" Σ="2"/>
+    <s m="2" wt="h" A="G">glæd</s><s m="2" wt="h">man</s><lb n="138r;8"/>
+    <w wc="s" msa="xNP" c="1" id="1132" Σ="1"/>
+    <s m="3" wt="o" A="H">hrōð</s><w wc="s" msa="xNP" c="2" id="1133" Σ="1"/>
+    <s m="3" wt="o" A="G">gār</s><w wc="t" msa="xPE" id="1134" Σ="1"/>
+    <s m="2" wt="h" A="H">hȳ</s><w wc="c" msa="xAP" id="1135" Σ="1"/>
+    <s m="2" wt="h" A="Ø">on</s><w wc="s" msa="xNC" c="1" id="1136" Σ="1"/>
+    <s m="3" wt="o" A="W">wīġ</s><w c="2" id="1139">
+        </w>
+    <w wc="c" msa="xPX" p="1" id="1138" Σ="1"/><s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xNC" p="2" id="1137" Σ="2"/><s m="1" wt="l" A="T">ta</s><s m="2" wt="h">wum</s><w wc="s" msa="xAJ" id="1140" Σ="2"/>
+    <s m="2" wt="h" A="W">wyr</s><s m="1" wt="l">ðe</s><lb n="138r;9"/>
+    <w wc="t" msa="xVB fF" id="1141" Σ="2"/>
+    <s m="2" wt="h" A="Þ">þin</s><s m="2" wt="h">ċeað</s><pc>·</pc>
+    <w wc="s" msa="xNC" id="1142" Σ="2"/>
+    <s m="2" wt="h" A="Ø">eor</s><s m="1" wt="l">la</s><w wc="c" msa="xAP" p="1" id="1143" Σ="1"/>
+    <s m="1" wt="l" A="G">ġe</s><w wc="s" msa="xNC" p="2" id="1144" Σ="2"/>
+    <s m="2" wt="h" A="Ø">æh</s><s m="2" wt="h">tlan</s><w wc="t" msa="xAV" id="1145" Σ="2"/>
+    <s m="2" wt="h" A="H">hū</s><s m="1" wt="l">ru</s><w wc="t" msa="xPD" id="1146" Σ="1"/>
+    <s m="1" wt="l" A="S">se</s><lb n="138r;10"/>
+    <w wc="s" msa="xNC" id="1147" Σ="2"/>
+    <s m="2" wt="h" A="Ø">al</s><s m="2" wt="h">dor</s><w wc="t" msa="xVB fF" id="1148" Σ="1"/>
+    <s m="3" wt="o" A="D">dēah</s><w wc="t" msa="xRP" id="1149" Σ="1"/>
+    <s m="2" wt="h" A="S">sē</s><w wc="t" msa="xPD" id="1150" Σ="1"/>
+    <s m="3" wt="o" A="Þ">þǣm</s><w wc="s" msa="xNC" c="1" id="1151" Σ="2"/>
+    <s m="1" wt="l" A="H">hea</s><s m="1" wt="l">ðo</s><w wc="s" msa="xNC" c="2" id="1152" Σ="2"/>
+    <s m="2" wt="h" A="R">rin</s><s m="2" wt="h">cum</s><lb n="138r;11"/>
+    <w wc="t" msa="xAV" id="1153" Σ="2"/>
+    <s m="1" wt="l" A="H">hi</s><s m="2" wt="h">der</s><w wc="t" msa="xVB fF" id="1154" Σ="3"/>
+<s m="2" wt="h" A="W">wī</s><s m="1" wt="l">sa</s><s m="1" wt="l">de</s></xml>
